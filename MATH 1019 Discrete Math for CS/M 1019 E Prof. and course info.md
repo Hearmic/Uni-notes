@@ -5,7 +5,7 @@ Office hours: TBA
 
 **Math/Stats lab @ Ross S525** 
 ## Texts: 
-- Chapters 1, 2 ,3.2,5,8.1,8.2,9,10,11 [of Discrete Math and its Applications (8th or 9th Ed)By Kenneth H. Rosen](https://www.mheducation.ca/product/discrete-mathematics-and-its-applications-2025-release-ise-9781266191541-can-group)
+- Chapters 1, 2 ,3.2,5,8.1,8.2,9,10,11 of [Discrete Math and its Applications (8th or 9th Ed)By Kenneth H. Rosen](https://www.mheducation.ca/product/discrete-mathematics-and-its-applications-2025-release-ise-9781266191541-can-group)
 
 ## Course evaluation:
 - **Weekly assignments (9 total) ~20%**

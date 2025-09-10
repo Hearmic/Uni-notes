@@ -1,10 +1,11 @@
-Name: Reza Peyghami 
+Name: Mohammad Reza Peyghami - [ratemyprof](https://www.ratemyprofessors.com/professor/2694454)
 Email: rpeygham@yorku.ca
-Office: Ross N602
+Office @ Ross N602
 Office Hours: 
 	In-peson: Tue 4:00-5:15 
 	Zoom: flexible time  (email to plan an appointmenl)
 
+**Math/Stats lab @ Ross S525** 
 ## Texts: 
 - [Chapters 1-5 of  Stewart Calculus (Early Transcendentals), 9th Ed, Cengage Learning, 2020](https://www.cengage.ca/c/calculus-early-transcendentals-9e-stewart-clegg-watson/9781337613927/)
 ## Course evaluation:
