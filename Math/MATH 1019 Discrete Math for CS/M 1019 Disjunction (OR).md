@@ -1,4 +1,4 @@
-Logical disjunction is a logical connective represented by "$\vee$" or "or"), which forms a compound statement that is true if at least one of its constituent statements (disjuncts) is true.
+Logical disjunction is a logical connective represented by " $\vee$ " or "or"), which forms a compound statement that is true if at least one of its constituent statements (disjuncts) is true.
 ### Example:
 
 - "or"
