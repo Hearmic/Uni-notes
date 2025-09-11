@@ -11,7 +11,7 @@ $3xy+5y=2x+1 \newline$
 $3xy-2x=-1-5y$   
 $x(3y-2)=-1-5y |\div(3y-2x)$  
 $x=\frac{-1-5y}{3y-2} \to y=\frac{-1-5x}{3x-2}$  
-To find a domain:
+To find a domain:  
 $x\neq-\frac{2}3$  
 $D_y\in(-\infty;-\frac{2}3)\cup(-\frac{2}3;+\infty)$  
 The domain of new function ($y=\frac{-1-5x}{3x-2}$) is the range of the initial function ($y = \frac{2x-1}{3x+5}$).
