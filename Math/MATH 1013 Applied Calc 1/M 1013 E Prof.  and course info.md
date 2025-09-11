@@ -2,8 +2,8 @@ Name: Mohammad Reza Peyghami - [ratemyprof](https://www.ratemyprofessors.com/pr
 Email: rpeygham@yorku.ca
 Office @ Ross N602
 Office Hours: 
-	In-peson: Tue 4:00-5:15 
-	Zoom: flexible time  (email to plan an appointmenl)
+	In-person: Tue 4:00-5:15 
+	Zoom: flexible time  (email to plan an appointment)
 
 **Math/Stats lab @ Ross S525** 
 ## Texts: 
