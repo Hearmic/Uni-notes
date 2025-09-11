@@ -6,7 +6,7 @@ $E$ (range of a function) is the set of all possible output values (or y-values)
 
 Express $x$ in terms of $y$, swap their places, and find the domain of a new function.
 #### Example:
-$y = \frac{2x-1}{3x+5}|\cdot3x+5$
+$y = \frac{2x-1}{3x+5}|\cdot3x+5\new$
 $3xy+5y=2x+1$
 $3xy-2x=-1-5y$
 $x(3y-2)=-1-5y |\div(3y-2x)$

@@ -12,7 +12,7 @@ y=x^3
 
 ### An even function
 
-An odd function is a function $f(x$) where $f(-x) = -f(x)$ for all $x$ in its [[M 1013 Domain of a function|domain]], which must be symmetric about the origin.
+An odd function is a function $f(x)$ where $f(-x) = -f(x)$ for all $x$ in its [[M 1013 Domain of a function|domain]], which must be symmetric about the origin.
 
 #### Example: 
 ##### $y = x^2$
