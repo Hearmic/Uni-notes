@@ -8,10 +8,10 @@ _situations._
 
 The functions have at most one output for each input. It is useful to think of a f
 
-A function $f$ is a rule that assigns to each element x in a set $D$ ([[M 1013 Domain of a function|domain]]) Exactly one element, called $f(x)$ (**value of f at x** or **f of x**), in a set $E$ ([[M 1013 Range of a function|range]]).
+A function $f$ is a rule that assigns to each element $x$ in a set $D$ ([[M 1013 Domain of a function|domain]]) Exactly one element, called $f(x)$ (**value of f at x** or **f of x**), in a set $E$ ([[M 1013 Range of a function|range]]).
 
 A symbol that represents an arbitrary number in the [[M 1013 Domain of a function|domain]] of a function f is called an independent variable. A symbol that represents a number in the [[M 1013 Range of a function|range]] of f is called a dependent variable. For example, in the function $y = x + 1$, $x$ is an arbitrary number, and $y$ is a dependent variable. 
 
-It’s helpful to think of a function as a machine. If $x$ is in the domain of the function $f$, then when *$x$ is entered into the machine, it’s accepted as an input, and the machine produces an output $f(x)$ according to the rule of the function.
+It’s helpful to think of a function as a machine. If $x$ is in the domain of the function $f$, then when $x$ is entered into the machine, it’s accepted as an input, and the machine produces an output $f(x)$ according to the rule of the function.
 
-Functions can be [odd|odd and even].
+Functions can be [[M 1013 Odd and even functions|odd and even]].
