@@ -1,4 +1,4 @@
-$D_x$ = {$x|f(x)$ $is$ $defined$} $\leftarrow$ The domain of a function is all of the values of $x$ where $f(x)$ is defined
+$D$ = {$x|f(x)$ $is$ $defined$} $\leftarrow$ The domain of a function is all of the values of $x$ where $f(x)$ is defined
 ### To find the domain of a function, exclude all points where $x$ does not exist.
 #### Example
 $f(x)=\sqrt{2x+1}$
