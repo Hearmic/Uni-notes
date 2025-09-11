@@ -1,6 +1,6 @@
 # 🎓 Uni-notes
 
-This repository contains my university notes organized as an [Obsidian](https://obsidian.md) vault.  
+This repository contains university notes organized as an [Obsidian](https://obsidian.md) vault.  
 They are structured, math-friendly, and ready to use both on **desktop** and **mobile**.
 
 ---
@@ -16,7 +16,7 @@ They are structured, math-friendly, and ready to use both on **desktop** and **m
 
 ## 🛠 Requirements
 - [Obsidian](https://obsidian.md) (Desktop or Mobile)
-- *(Optional, but recommended)* Git for automatic updates
+- *(Optional, but recommended)* [Git](https://git-scm.com/downloads) for automatic updates
 
 ---
 
