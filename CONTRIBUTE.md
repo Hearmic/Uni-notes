@@ -31,7 +31,7 @@ To keep everything consistent, please follow the style of the existing notes:
 **Example**:  
 If you want to create a note for **SC/CHEM 1000 – Chemical Structure**, the path will look like this:  
 
-Uni-notes/Chemistry/CHEM 1000/C 1000 Note 1.md
+Uni-notes/Chemistry/CHEM 1000 – Chemical Structure/C 1000 Note 1.md
 
 ---
 
