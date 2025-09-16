@@ -1,9 +1,9 @@
 Name: Mona Nasery - [ratemyprof](https://www.ratemyprofessors.com/professor/3033526)
 Email: monan@yorku.ca
-Office Hours: 
-	- Thursdays, 3:00-4:00 pm
-	-  [Zoom link](https://yorku.zoom.us/j/98014167856): email to plan an appointment
-
+##### Office Hours: 
+-  Thursdays, 3:00-4:00 pm [Zoom link](https://yorku.zoom.us/j/98014167856) only Zoom
+##### Other contact info (TAs' office hours and contact policy):
+- [eClass](https://eclass.yorku.ca/course/view.php?id=149303&section=03)
 ## Texts:
 - [Think Python 2nd Edition, by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/](https://greenteapress.com/wp/think-python-2e/)
 ## Recommended Readings
