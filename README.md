@@ -23,12 +23,51 @@ They are structured, math-friendly, and ready to use both on **desktop** and **m
 ## 🚀 Setup Instructions
 
 ### Option 1: Quick Setup (no Git)
-1. Download the repo as ZIP:  
+1. Download the repo as a ZIP:  
    Click **Code → Download ZIP** on [GitHub](https://github.com/Hearmic/Uni-notes).
 2. Extract the folder.
 3. In Obsidian → **Open folder as vault** → select the extracted folder.
+#### If you would like to contribute to the repository after. You will need to link a folder to a remote repo.
+
+1. Navigate to your local folder in your terminal or command prompt and initialize it as a Git repository. (You will need to [install Git](https://git-scm.com/download) for this)
+
+```
+cd /path/to/your/local/folder
+git init
+```
+
+2. Add files and commit them. Stage all files in your local repository and then commit them with an initial message.
+
+```
+git add .
+git commit -m "Initial commit"
+```
+
+3. Add the remote repository.
+Fork this repository to your GitHub. Obtain the URL of your remote repository. Then, add it as a remote named `origin`.  
+
+```
+git remote add origin <remote_repository_URL>
+```
+
+Replace `<remote_repository_URL>` with the actual URL of your remote repository.
+
+4. **Push your local repository to the remote:**
+
+Push your committed changes from your local `main` (or `master`) branch to the `origin` remote.
+
+Код
+
+```
+    git push -u origin main
+```
+
+If your default branch is `master`, use `git push -u origin master` instead. The `-u` flag sets the upstream branch, allowing you to use git push and git pull in the future simply.
+
+5. Create a pull request (see CONTRIBUTE.md)
 
 ---
+
 
 ### Option 2: Git Setup (recommended)
 This keeps your vault up to date automatically.
