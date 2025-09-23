@@ -1,4 +1,4 @@
-$E$ (range of a function) is the set of all possible output values (or y-values) that a function can produce for its given inputs.
+$R$ (range of a function) is the set of all possible output values (or y-values) that a function can produce for its given inputs.
 
 ## How to find the range of a function?
 

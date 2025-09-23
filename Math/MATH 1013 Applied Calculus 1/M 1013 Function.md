@@ -12,6 +12,8 @@ A function $f$ is a rule that assigns to each element $x$ in a set $D$ ([[M 1013
 
 A symbol that represents an arbitrary number in the [[M 1013 Domain of a function|domain]] of a function f is called an independent variable. A symbol that represents a number in the [[M 1013 Range of a function|range]] of f is called a dependent variable. For example, in the function $y = x + 1$, $x$ is an arbitrary number, and $y$ is a dependent variable. 
 
-It’s helpful to think of a function as a machine. If $x$ is in the domain of the function $f$, then when $x$ is entered into the machine, it’s accepted as an input, and the machine produces an output $f(x)$ according to the rule of the function.
+It’s helpful to think of a function as a machine. If $x$ is in the domain of the function $f$, then when $x$ is entered into the machine, it’s accepted as an input, and the machine produces an output $f(x)$ acording to the rule of the function.
 
-Functions can be [[M 1013 Odd and even functions|odd and even]].
+There are different types of functions. Functions can be:
+- [[M 1013 Odd and even functions|Odd and even]]
+- [[M 1013 Piecewise functions|Piecewise]] 
