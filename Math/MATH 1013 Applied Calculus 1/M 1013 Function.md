@@ -17,3 +17,4 @@ It’s helpful to think of a function as a machine. If $x$ is in the domain of t
 There are different types of functions. Functions can be:
 - [[M 1013 Odd and even functions|Odd and even]]
 - [[M 1013 Piecewise functions|Piecewise]] 
+- [[M 1013 Exponential functions|Exponential]]
