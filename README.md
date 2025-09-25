@@ -3,6 +3,8 @@
 This repository contains university notes organized as an [Obsidian](https://obsidian.md) vault.  
 They are structured, math-friendly, and ready to use both on **desktop** and **mobile**.
 
+**Please cite this repo.**
+
 ---
 
 ## ✨ Features
