@@ -12,7 +12,7 @@
 	- Language Models
 - Reinforcement Learning
 	- Self-Driving Car
-	- Robot learn to walk
+	- Robots learn to walk
 	- AI Learn to Play Chess
 	- Language Model Alignment
 - Generative AI (Image, Video, Text)
