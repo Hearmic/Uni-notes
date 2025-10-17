@@ -2,6 +2,10 @@ A logical proposition is a declarative sentence or statement that is unequivoca
 
 The value of a proposition can be described as True (T or 1) or False (F or 0).
 Propositions that cannot be expressed in terms of simpler propositions are called atomic propositions.
+
+Combinations of propositions with [[M 1019 Terms|logical operators]] are called [[M 1019 Compound propositions|compound propositions]]
+
+A statement containing variables that becomes a proposition (either true or false) when the variables are substituted with specific values is called a [[M 1019 Predicate| predicate]]
 ### Example: 
 
 All the following declarative sentences are propositions.
