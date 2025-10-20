@@ -14,6 +14,7 @@ A symbol that represents an arbitrary number in the [[M 1013 Domain of a functio
 
 It’s helpful to think of a function as a machine. If $x$ is in the domain of the function $f$, then when $x$ is entered into the machine, it’s accepted as an input, and the machine produces an output $f(x)$ acording to the rule of the function.
 
+Functions can also be [[M 1013 Continuity of a function|continuous]] or [[M1019 Discontinuity|discontinuous]]
 There are different types of functions. Functions can be:
 - [[M 1013 Odd and even functions|Odd and even]]
 - [[M 1013 Piecewise functions|Piecewise]] 
