@@ -20,7 +20,6 @@
 |Annual_Wage_Flag_Salaire_annue|Annual salary flag for specific jobs|
 
 - ### Canadian unemployment data 
-    
 
 |   |   |
 |---|---|
