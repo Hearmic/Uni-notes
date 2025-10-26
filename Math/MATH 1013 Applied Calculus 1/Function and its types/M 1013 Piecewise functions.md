@@ -11,4 +11,4 @@ y=|x| \implies
 	\end{array}
 \right. 
 $$
-![graph](../../graphs/desmos-graph-d30c4e9344e4c20c63aab6a9f076e190c839cec6c35cf3c97e1cf7baf6973d09.svg)
+![graph](desmos-graph-d30c4e9344e4c20c63aab6a9f076e190c839cec6c35cf3c97e1cf7baf6973d09.svg)

@@ -8,6 +8,7 @@ Logarithms with base $e$  (Euler's number) are denoted $ln(a)$.
 
 ### Properties of logarithms
 
+
 1.  Given: $log_b(a) < log_b(c)$   
 if $b>1$ $\implies$ $a<c$ 
 if $b<1 \implies c>a$ 
@@ -20,4 +21,11 @@ if $b<1 \implies c>a$
 7. $log_x(1)=0$
 8. $log_b(a) * log_a(b) = 1$
 9. $log_x(y)=\frac{log_a(y)}{log_a(x)}$
-10. $log_x(y)=\frac{1}{log_b(a)}$
+10. $log_x(y)=\frac{1}{log_b(a)}$'
+
+### [[M 1013 Derivatives|Derivative]] of a logarithmic function
+
+1. $(ln(x))' = \frac{1}x$ 
+2. $(ln(g(x)))' = \frac{g'(x)}g(x)$
+3. $(log_a(x))'=\frac{1}{ln(a)x}$
+4. $(log(g(x)))' = \frac{g'(x)}{ln(a)g(x)}$
