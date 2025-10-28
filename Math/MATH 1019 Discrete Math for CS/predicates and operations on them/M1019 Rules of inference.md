@@ -22,11 +22,12 @@ These rules work with **propositional statements** — ones that are **either tr
 
 When statements contain **quantifiers** (∀ “for all”, ∃ “there exists”), propositional rules extend with additional rules that allow reasoning about **elements in a domain**.
 
-| **Rule Name**                       | **Symbolic  Form**                                              | **Example**                                                                                  |
-| ----------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Universal Instantiation (UI)**    | ∀x P(x) <br>$\therefore$ P(c)                                   | ∀x, if x is a student, then x studies.∴ If Alice is a student, she studies.                  |
-| **Universal Generalization (UG)**   | P(c) (for any c) $\therefore$ ∀x P(x)                           | If for every person tested, x² ≥ 0, infer that ∀x, x² ≥ 0.                                   |
-| **Existential Instantiation (EI)**  | ∃x P(x) <br>$\therefore$ P(c) (for some c)                      | There is x such that x > 10 is True.<br>∴ For c = 12,  c > 10 is True.                       |
-| **Existential Generalization (EG)** | P(c)<br>$\therefore$ ∃x P(x)                                    | If 5 is odd, then ∃x (x is odd).                                                             |
-| **Universal Modus Ponens**          | ∀x(P(x) $\implies$Q(x))<br>$\therefore$ P(a) $\implies$ Q(a)    | Everyone who studies passes.<br>Therefore, if Alex studies, Alex passes.                     |
-| **Universal Modus Tollens**         | ∀x (P(x) $\implies$ Q(x))<br>$\therefore$ ¬Q(a) $\implies$¬P(a) | For all x, if x studies, x passes. <br>$\therefore$  If Alex didn’t pass, Alex didn’t study. |
+
+| Rule name                | Form(formula) | Example |
+| ------------------------ | ------------- | ------- |
+| Universal Instantation   |               |         |
+| Universal generalization |               |         |
+|                          |               |         |
+
+You can practice all of these rules here:
+https://quizlet.com/49259264/rules-of-inference-flash-cards/
