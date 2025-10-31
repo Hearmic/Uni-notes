@@ -33,10 +33,10 @@ Higher derivatives can be denoted as such:
 | Formula                                      | Example |
 | -------------------------------------------- | ------- |
 | $\frac{d}{dx}e^x = e^x$                      |         |
-| $\frac{d}{dx}(a^x) = a^x*ln(x)$              |         |
+| $\frac{d}{dx}(a^x) = a^x*ln(a)$              |         |
 | $\frac{d}{dx}e^{g(x)}= e^{g(x)}*g'(x)$       |         |
 | $\frac{d}{dx} a^{g(x)}=a^{g(x)}*ln(a)*g'(x)$ |         |
-#### [[M 10113 Logarithmic function|Logarithmic functions]]
+#### [[M 1013 Logarithmic function|Logarithmic functions]]
 
 | Formula                                          | Chain rule formula                                          |
 | ------------------------------------------------ | ----------------------------------------------------------- |

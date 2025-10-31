@@ -23,11 +23,12 @@ These rules work with **propositional statements** — ones that are **either tr
 When statements contain **quantifiers** (∀ “for all”, ∃ “there exists”), propositional rules extend with additional rules that allow reasoning about **elements in a domain**.
 
 
-| Rule name                | Form(formula) | Example |
-| ------------------------ | ------------- | ------- |
-| Universal Instantation   |               |         |
-| Universal generalization |               |         |
-|                          |               |         |
+| Rule name                  | Form(formula)                                              | Example |
+| -------------------------- | ---------------------------------------------------------- | ------- |
+| Universal Instantation     | $\forall x P(x)$<br>$\therefore P(c)$                      |         |
+| Universal generalization   | $P(c)$ for an arbitrary $c$<br>$\therefore \forall x P(x)$ |         |
+| Existential instantation   | $\exists xP(x)$<br>$P(c)$ for some c                       |         |
+| Existential generalization | $P(c)$for some c<br>$\exists xP(x)$                        |         |
 
 You can practice all of these rules here:
 https://quizlet.com/49259264/rules-of-inference-flash-cards/
