@@ -1,0 +1,6 @@
+1. Let A and B be sets. The [[M 1019 Union|union]] of the sets A and B, denoted by A ∪ B, is the set that contains those elements that are either in A or in B, or in both. 
+2. Let A and B be sets. The [[M 1019 Intersection of Sets|intersection]] of the sets A and B, denoted by A ∩ B, is the set containing those elements in both A and B.
+3. The [[M 1019 Cartesian products|Cartesian product]] of A and B, denoted by $A\times B$, is the set of all ordered pairs (a, b), where $a \in A$ and $b \in B$. Hence,$A \times B$ = {$(a, b) ∣ a \in A \wedge b \in B$}.
+4. Let A and B be sets. The [[M 1019 Difference of Sets|difference]] of A and B, denoted by A − B, is the set containing those elements that are in A but not in B. The difference of A and B is also called the complement of B with respect to A.
+5. Let U be the universal set. The [[M 1019 Complement of Sets|complement]] of the set A, denoted by A, is the complement of A with respect to U. Therefore, the complement of the set A is U − A.
+6. 

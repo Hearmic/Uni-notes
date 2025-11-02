@@ -1,0 +1,1 @@
+Two sets are called disjoint if their intersection is the empty set.
