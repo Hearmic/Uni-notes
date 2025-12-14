@@ -36,7 +36,7 @@ Higher derivatives can be denoted as such:
 | $\frac{d}{dx}(a^x) = a^x*ln(a)$              |         |
 | $\frac{d}{dx}e^{g(x)}= e^{g(x)}*g'(x)$       |         |
 | $\frac{d}{dx} a^{g(x)}=a^{g(x)}*ln(a)*g'(x)$ |         |
-#### [[M 1013 Logarithmic function|Logarithmic functions]]
+#### [[Uni-notes/Math/MATH 1013 Applied Calculus 1/Functions and their types/M 1013 Logarithmic function|Logarithmic functions]]
 
 | Formula                                          | Chain rule formula                                          |
 | ------------------------------------------------ | ----------------------------------------------------------- |
