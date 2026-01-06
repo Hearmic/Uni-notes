@@ -109,12 +109,11 @@ Discrete vs Continuous Variables
 1.  Nominal, Ordinal, Continuous, or Discrete?
 	 - a) Wingspan: Continuous
 	 - b) Eye colour: Nominal
-	 - c) Species diversity: 
-	 - d) Letter grade
+	 - c) Species diversity: Discrete
+	 - d) Letter grade: Discrete
 2. List three populations (not those already mentioned) 
    ex) 
    Population 1: YorkU students
    Random sample: Students from 5 courses from 5 different faculties selected using a random number generator.
    Biased sample: Varsity basketball team
    variable: Height, Numerical, Continuous
-   
