@@ -36,3 +36,16 @@ The immune system recognizes and responds to tissue grafts and newly introduced 
 ### Various type of pathogens greatly vary in many ways
 - Viruses, Intracellular bacteria, Extracellular bacteria/archeae/protozoa, Fungi, Parasites
 
+Innate Immune System: Neutrophil, Basophil, Eosinophil, Monocyte, Macrophage, Mast Cell, Natural Killer
+- Always present in headlty individuals (innate)
+- Immediate protection (preventing entry or rapid elimination)
+- Sometimes called "non-specific" but "broadly specific" is better description
+- Found in neonetal animals, vertebrates and invertebrates
+- 
+
+Dendritic cell
+
+Adaptive Immune System: T Lymphocyte, B Lymphocyte (Take time to adap/acquire specificity)
+- Adaptive, specific or acquired immunity / Immune system
+- requires prolifratioin and adaptation specificity of lymphcytes (Adaptive Immune Cells) before providing a response)
+- Adapts
