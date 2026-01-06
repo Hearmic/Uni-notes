@@ -48,4 +48,11 @@ Dendritic cell
 Adaptive Immune System: T Lymphocyte, B Lymphocyte (Take time to adap/acquire specificity)
 - Adaptive, specific or acquired immunity / Immune system
 - requires prolifratioin and adaptation specificity of lymphcytes (Adaptive Immune Cells) before providing a response)
-- Adapts
+- Adapts spcifically 
+
+
+Reflection
+How individual's immune system recognize, respond to, and eliminate many foreign antigens but usuallly does not attack body's own (self) antigens and tissues
+
+How?
+What is the manifestation if one's own immune system react against self antigens?
