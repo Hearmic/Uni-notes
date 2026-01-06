@@ -11,8 +11,17 @@ Unit: M/L*s = M/s
 Why is there a "1/2" in front of the second quotient?
 Stoichiometry form 2 moles HI -> 1/2 in rate
 
+$$
+aA + bB \to cC + dD
+$$
 
-
+$$
+\textit{rate} = - \frac{1}{a}\frac{[A]}{\Delta t} = - \frac{1}{b}\frac{[B]}{\Delta t} = \frac{1}{c}\frac{[C]}{\Delta t} = \frac{1}{d}\frac{[D]}{\Delta t}
+$$
+- Reaction rate can be expressed using any reactant or product
+- Reaction rate is always positive
+- The value of reaction rate is independent of which reactant or product was used in the calculation
+- Rate of consumption or formation of individual components can be easily calculated from the reaction rate value
 
 
 
