@@ -86,4 +86,35 @@ Volunteers may be
 Sometimes, random sampling is not possible
 
 Variables are characteristics that differ between some / all members of a populations
-- Measured on individuals collected in a sam
+- Measured on individuals collected in a sample
+- Data (singular datum) are the actual measurements
+- Categorical variables: data fall into distinct groups (e.g. alive / dead, Nominal if categories have no inherent order (as above), Ordinal if they can be ordered along a gradient, but without exat values: e.g. clothing sizes from S to CXL
+- Numerical variables: quantitiative and have magnitude: Continuous have any real-number value within a certain range; e.g., body weight (in kg)
+  Discrete: indivisible units; e.g., number of eggs laid
+
+Nominal, Ordinal, Continuous, or Discrete? (ex: method of pathogen transmission)
+Nominal: Categories w/ no inherent order (ex: sex)
+Ordinal: Ordered can be ordered without exact values (ex: Education level)
+Continuous: any real-number value (ex: territory size in km^2, body temperature)
+Discrete: indivisible  (ex: # of leaves on a plant)
+
+Discrete vs Continuous Variables
+- Discrete variables, if averaged over a period of time, may become continuous variables
+  e.g., number of eggs consumed per day
+	- if measured per day: discrete
+	- if averaged over a month: continous
+- Discrete variables are often treated as continous, especially if values are large
+	- e.g., genome size (in base pairs)
+
+1.  Nominal, Ordinal, Continuous, or Discrete?
+	 - a) Wingspan: Continuous
+	 - b) Eye colour: Nominal
+	 - c) Species diversity: 
+	 - d) Letter grade
+2. List three populations (not those already mentioned) 
+   ex) 
+   Population 1: YorkU students
+   Random sample: Students from 5 courses from 5 different faculties selected using a random number generator.
+   Biased sample: Varsity basketball team
+   variable: Height, Numerical, Continuous
+   
