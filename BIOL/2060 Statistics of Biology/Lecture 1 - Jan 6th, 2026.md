@@ -45,5 +45,45 @@ Sample precision is inversely related to the spread of estimates due to sampling
 - Low spread = high precision
 - Large samples have lower sampling error and higher precision than small samples
   
-Accuracy of an estimate = tendency of an estimate to be close to the true value of the parmeter
-Bias of an estimate = a systematic tendency of an estimate to deviate from the true 
+Accuracy of an estimate = tendency of an estimate to be close to the true value of the parameter
+- Bias of an estimate = a systematic tendency of an estimate to deviate from the true parameter, due to non-random sampling
+
+Precise: Low variability
+Accurate, Imprecise: Reproducibility Error
+Inaccurate, precise: Systematic Error
+
+To be random, a sample must meet two criteria:
+1. Every individual in the population being sampled must have an equal chance of being sampled
+   - Problem: accessibility of individuals may differ due to differences in size, behaviour, location, etc.
+
+2.  Sampled individuals must be independent
+    - Sampling on e individual should not affect the likelihood of any other individual being sampled
+    - If not the case, "true" sample size maybe 
+
+Ideal procedure for ensuring a sample is random
+1. Identify and number of every individual/object in the population of interest
+2. Decide on the number of individuals to be sampled (n)
+3. Randomly generate n integers between on and the number of individuals in the population
+4. Sample those individuals whose numbers match the randomly-generated numbers
+
+- But this procedure is impractical for most biological populations
+
+A very non-ideal approach is the sample of convenience
+A collection of individuals that are easility available to the researcher
+- Usually biased and/or non-independent
+- ex) catch-per-unit-effort data used to estimate Northern cod (and other commercial fish) populations
+	- number of fish caught / unit time is used to estimate fish population size and set catch quotas accordingly
+	- Problem: boats congregate in areas where fish are abundant; they don't "sample" the fishing grounds at random
+	- Catch does not decline with declining population size, as assumed
+	- In Newfoundland, this resulted in overly optimistic estimates of stock size
+
+Human studies are often susceptible to volunteer bias
+Volunteers may be
+- Retired or unemployed
+- More health conscious
+- Low income
+- More ill
+Sometimes, random sampling is not possible
+
+Variables are characteristics that differ between some / all members of a populations
+- Measured on individuals collected in a sam
