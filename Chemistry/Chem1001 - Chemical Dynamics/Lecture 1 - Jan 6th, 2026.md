@@ -16,7 +16,7 @@ aA + bB \to cC + dD
 $$
 
 $$
-\textit{rate} = - \frac{1}{a}\frac{[A]}{\Delta t} = - \frac{1}{b}\frac{[B]}{\Delta t} = \frac{1}{c}\frac{[C]}{\Delta t} = \frac{1}{d}\frac{[D]}{\Delta t}
+\textit{rate} = - \frac{1}{a}\frac{\Delta[A]}{\Delta t} = - \frac{1}{b}\frac{\Delta[B]}{\Delta t} = \frac{1}{c}\frac{\Delta[C]}{\Delta t} = \frac{1}{d}\frac{\Delta[D]}{\Delta t}
 $$
 - Reaction rate can be expressed using any reactant or product
 - Reaction rate is always positive
@@ -24,5 +24,13 @@ $$
 - Rate of consumption or formation of individual components can be easily calculated from the reaction rate value
 
 
+Average rate of reaction in 10 seconds
+$$
+rate = -\frac{1}{3}\frac{0.868 M - 1 M}{10sec} = 4.40*10^{-3} M/s
+$$
 
+The rate of change in the concentration of $H^+$
 
+$$
+rate = -\frac{1}{2}\frac{\Delta [H^+]}{\Delta t} \to -2* rate = \frac{\Delta [H^+]}{\Delta t} = -2 * 4.40*10^{-3} M/s = 8.80*10^{-3}M/s
+$$
