@@ -12,3 +12,7 @@ Common variants within 609 individuals from the Americas (~10 M sites)
 - Integrate knowledge of mechanisms by which an organism's genome can be passed to the next generations (and factors, such as linkage, that can impact such outcomes) to solve problems.
 - Evaluate how the molecular anatomy of genes and genomes (and mutations therein) can influence inheritance and expression of genes.
 
+### Course Schedule
+
+Deep Question Sessions
+Jan 29, Feb 12, Mar 5, Mar 19, Apr 2
