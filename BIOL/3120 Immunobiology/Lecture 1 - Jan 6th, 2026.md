@@ -29,4 +29,10 @@ The immune system can injure cells and induce pathologic inflammation
 The immune system recognizes and responds to tissue grafts and newly introduced proteins
 
 ### Beginning of Immunology
-1796: He demonstrated that individuals pre-inocul
+- In 1796, Edward Jenner demonstrated that individuals pre-inoculated with cow pox two months prior are protected from smallpox
+- He called this process Vaccination
+- It look almost two centuries for smallpox vaccine to become universally available
+
+### Various type of pathogens greatly vary in many ways
+- Viruses, Intracellular bacteria, Extracellular bacteria/archeae/protozoa, Fungi, Parasites
+
