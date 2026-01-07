@@ -6,7 +6,7 @@ Chemical Kinetics: Study of chemical change in time
 - How chemical reactions can be accelerated by special substances called catalysts
 ### The Rate of a Chemical Reaction
 The rate of change of reactants is negative, as their concentration is decreasing
-Unit: M/L*s = M/s
+Unit: mol/L*s = M/s
 
 Why is there a "1/2" in front of the second quotient?
 Stoichiometry form 2 moles HI -> 1/2 in rate
@@ -54,6 +54,20 @@ First-Order Reaction:
 Second-Order Reaction:
 - If a reaction is second order, rate is directly proportional to the square of the reactant concentration. Doubling \[A] will quadruple the rate of the reaction.
 
+Average rate of change vs Instantaneous rate of change
+$$
+\frac{Rate2}{Rate3} = \frac{k[A]_2^n}{k[B]_2^n} = (\frac{k[A]_2}{k[B]_2})^n = (\frac{0.15 M}{0.40 M})^n = \frac{0.034}{0.240}
+$$
+$$
+0.375^n = 0.142
+$$
+$$
+n*log(0.375) = log(0.142)
+$$
+$$
+n = \frac{log(0.142)}{log(0.375)}
+$$
+
 Rate Law for Reactions with Multiple Reactants
 $$
 aA + bB \to cC + dD
@@ -78,3 +92,6 @@ $$
 [A] = f(t) (or [A] = function of time)
 $$
 Relationship between the concentration of reaction reactant and time
+
+Questions:
+Can reaction order calculated non-experimentally?
