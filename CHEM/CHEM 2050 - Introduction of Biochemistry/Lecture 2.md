@@ -44,9 +44,22 @@ pH 4.76 is when $pH = pK_a, log(\frac{0.5 mol}{0.5 mol}) = 0$
 	 - $NaH_2PO_4, Na_2HPO_4$
 
 ### Mechanism of Buffers - Example
-- Consider a solution in which the concentrations are $[HPO_4^{2-}]$ = 0.0.53 M and 
-
+- Consider a solution in which the concentrations are $[HPO_4^{2-}]$ = 0.053 M and 0.10 M
+- If 1.0 mL of 0.10 M HCl is added to 99.0mL of the buffer, the following reaction takes place and almost all the added $H^+$ is used up
   
+$$
+HPO_4^{2-} + H^+ \to H_2PO_4^-
+$$
+
+$pK_a$ of $H_2PO_4^-$ = 7.20
+
+### Buffer Selection
+- Determined by understanding the relationship between pH and buffering capacity
+- pH changes little in the vicinity of the inflection point of a titration curve (pH ~ pKa, $[HA]$ ~ $[A-]$)
+- Buffer solutions can maintain a relativily constant pH value, which is met at values at or near the pKa of the acid
+- Higher absolute concentrations give higher bugger capacities
+  
+- Suitable pK
   
 
 
