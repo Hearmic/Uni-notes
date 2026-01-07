@@ -27,7 +27,24 @@ $pH = pK_a + log \frac{[A^-]}{[HA]}$
 -   c. 0.5 mol of NaOH is added
   
   $$CH_3COOH + OH^- \to CH_3COO^- H_2O$$
-  start: 1.0 mol $CH_3COOH \to$ 1.0 mol - 0.1 mol = 0.9 mol 
+  start: 1.0 mol
+- $CH_3COOH \to$ 1.0 mol - 0.1 mol = 0.9 mol (90% acedic acid)
+- $CH_3COO^- \to$ 0 mol + 0.1 mol = 0.1 mol (10% its conjugate base)
+
+$pH = pK_a + log(\frac{0.1 mol}{0.9 mol})$ = 3.81
+
+pH 4.76 is when $pH = pK_a, log(\frac{0.5 mol}{0.5 mol}) = 0$
+
+### Buffer Solutions
+- Tend to resist change in pH when small to moderate amounts of a strong acid or strong base are added
+- Consist of a weak acid and its conjugate base in roughly equal amounts
+- Examples of acid -base buffers:
+	 - $CH_3COOH, CH_3COONa$
+	 - $NaHCO_3, Na_2CO_3$
+	 - $NaH_2PO_4, Na_2HPO_4$
+
+### Mechanism of Buffers - Example
+- Consider a solution in which the concentrations are $[HPO_4^{2-}]$ = 0.0.53 M and 
 
   
   
