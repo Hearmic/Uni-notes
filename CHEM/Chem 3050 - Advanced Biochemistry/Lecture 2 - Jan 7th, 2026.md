@@ -14,4 +14,13 @@ Simple Selfish Genes? Not sure
 2. Early embryo development
 3. Cancer (upregulated)
 
+![[Pasted image 20260107101040.png]]
+5' cap, Poly-A-tail
+- Nuclear Export, Prevents Degradation, Recognized by the Ribosome
+- No introns, Polycistronic (many proteins in one mRNA)
+- Riboswitches: RNA with secondary structure, Changes shape when binding to a metabolite $\to$ lead to comnormational change, either black or reveal important seqeunces. (RBS)
+
+
+
+
 
