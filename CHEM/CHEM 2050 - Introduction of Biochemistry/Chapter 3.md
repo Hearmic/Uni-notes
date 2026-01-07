@@ -13,3 +13,6 @@ while 
 
 **R/S (absolute)**, using Cahn-Ingold-Prelog rules, defines the precise 3D arrangement around a chiral center (clockwise=R, counter-clockwise=S), applicable to any chiral molecule and more specific
 
+### Structure and Properties of Amino Acids
+- With the exception of glycine, all amino acids are at least one chiral center (the alpha carbon) and are chiral (stereoisomers)
+	- Vast majority of a- amino acids have the L configuration at the alpha 
