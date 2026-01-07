@@ -34,3 +34,20 @@ The rate of change in the concentration of $H^+$
 $$
 rate = -\frac{1}{2}\frac{\Delta [H^+]}{\Delta t} \to -2* rate = \frac{\Delta [H^+]}{\Delta t} = -2 * 4.40*10^{-3} M/s = 8.80*10^{-3}M/s
 $$
+The average rate of a reaction depends on the width of the chosen time interval ($\Delta$t) - Problematic
+Solution: calculate the slope of the tangent to the concentration curve at a given time point. This slope gives the instantaneous reaction rate.
+
+Rate Law: The effect of Concentration on Reaction Rate
+The mathmatical relationship between the rate of reaction and the concentrations of reactant is called the rate raw.
+$$
+Rate = k[A]^n
+$$
+k is rate constant, n is reaction order with respect to A
+
+- n can only be determined by conducting an experiment
+- Typically, n is a small integer, but can be fractional or negative
+
+Zero-Order Reaction:
+- If a reaction is zero order, the rate of the reaction is always the same. Doubling \[A\]  will have no effect on the reaction rate 
+First-Order Reaction:
+- If a reaction is first order, the rate is directly proportional to the reactant concentration. Doubling \[A] will double the rate of the reaction
