@@ -54,4 +54,27 @@ First-Order Reaction:
 Second-Order Reaction:
 - If a reaction is second order, rate is directly proportional to the square of the reactant concentration. Doubling \[A] will quadruple the rate of the reaction.
 
+Rate Law for Reactions with Multiple Reactants
+$$
+aA + bB \to cC + dD
+$$
+$$
+rate = k[A]^m[B]^n
+$$
+- m: reaction order with respect to A
+- n: reaction order with respect to B
+- (m+n): overall reaction order
+- m and n can be only determined experimentally
 
+The differential form (that we have already learned):
+1) The differential form (that we have already learned):
+$$
+Rate = k[A]^n or -\frac{\Delta[A]}{\Delta t} = k[A]^n
+$$
+Relationship between the rate of reaction and reactant concentration
+
+2) The integrated form
+$$
+[A] = f(t) (or [A] = function of time)
+$$
+Relationship between the concentration of reaction reactant and time
