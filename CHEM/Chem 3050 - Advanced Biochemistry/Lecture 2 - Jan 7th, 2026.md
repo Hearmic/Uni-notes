@@ -1,0 +1,17 @@
+## Human Genome
+
+### Transposable Elements
+https://bio.libretexts.org/Bookshelves/Biochemistry/Fundamentals_of_Biochemistry_%28Jakubowski_and_Flatt%29/03%3A_Unit_III-_Information_Pathway/23%3A_Chromosome_Structure/23.02%3A_DNA_Transposable_Elements
+![[Pasted image 20260107095743.png]]
+Class 1: Retrotransposons (copy & paste) DNA -> RNA -> DNA (reverse transcription) 
+Class 2: DNA transposons (cut & paste) DNA -> DNA (in different)
+Molecular parasite (they exist to exist) 
+A huge part of the human genome 
+
+Simple Selfish Genes? Not sure
+- Diversifying Genome (as it moves DNA here and there)
+1. Neuronal Cells (have a higher order of diversity)
+2. Early embryo development
+3. Cancer (upregulated)
+
+
