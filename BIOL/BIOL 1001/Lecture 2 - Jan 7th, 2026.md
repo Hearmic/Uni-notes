@@ -51,4 +51,7 @@ Hypothesis
 - Leads to testable prediction
 
 Theory
-- Evidence-based overarching explanations for genea
+- Evidence-based overarching explanations for a general class of phenomena
+- General $\to$ many testable hypotheses related to it
+- Supported by a large body of evidence
+- Predictive power - fits observations not used in formulating the theory $\to$ tested in multiple ways
