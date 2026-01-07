@@ -59,7 +59,19 @@ $pK_a$ of $H_2PO_4^-$ = 7.20
 - Buffer solutions can maintain a relativily constant pH value, which is met at values at or near the pKa of the acid
 - Higher absolute concentrations give higher bugger capacities
   
-- Suitable pK
-  
+- Suitable pKa
+- No interference with the reaction or with the assay
+- Suitable ionic strength of the buffer
+- No precipitation of reactants or products due to the presence of the buffer
+- Nonbiological nature of the buffer
 
-
+Naturally Occurring Buffers
+- Buffering system in blood is based on the dissociation of carbonic acid ($H_2CO_3$)
+	- $pK_a$ = 6.37
+	- $CO_2$ can dissolve in water and water-based fluids to produce carbonic acid
+	  
+N-tris\[hydroxymethyl]aminomethane (TRIS)
+N-tris\[hydroxymethyl]methyl-2-aminoethane sulfonate (TES)
+N-2-hydroxyethylpiperazine-N'-2-ethane sulfonate (HEPES)
+(MOPS)
+(PIPES)
