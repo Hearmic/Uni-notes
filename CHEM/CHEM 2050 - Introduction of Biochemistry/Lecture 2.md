@@ -2,7 +2,7 @@
 An experiment in which measured amounts of base are added to an acid
 
 Equivalence point: Point in an acid-base titration at which enough base 
-$pK_a$ value would be the same as the pH of the olution where concentration of acid and base is 1:1
+$pK_a$ vThe alue would be the same as the pH of the olution where concentration of acid and base is 1:1
 
 Buffer region: where the solution resists to change in pH![[Pasted image 20260107114217.png]]
 
@@ -71,7 +71,12 @@ Naturally Occurring Buffers
 	- $CO_2$ can dissolve in water and water-based fluids to produce carbonic acid
 	  
 N-tris\[hydroxymethyl]aminomethane (TRIS)
+- $TRIS-H^+ \to TRIS$  $pK_a =8.3$
 N-tris\[hydroxymethyl]methyl-2-aminoethane sulfonate (TES)
+- $^-TES - H^+ \to ^-TES$ $pK_a =7.55$
 N-2-hydroxyethylpiperazine-N'-2-ethane sulfonate (HEPES)
-(MOPS)
-(PIPES)
+- $^-HEPES - H^+ \to ^-HEPES$ $pK_a =7.55$
+3-\[N-morpholino]propane-sulfonic-acid (MOPS)
+- $^-MOPS-H^+ \to ^-MOPS$ $pK_a =7.2$
+Piperazine-N,N'-bis\[2-ethanesulfonic acid] (PIPES)
+- $^{2-}PIPES-H^+ \to ^{2-}PIPES$ $pK_a =6.8$
