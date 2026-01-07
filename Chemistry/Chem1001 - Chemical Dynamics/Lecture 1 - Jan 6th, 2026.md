@@ -51,3 +51,7 @@ Zero-Order Reaction:
 - If a reaction is zero order, the rate of the reaction is always the same. Doubling \[A\]  will have no effect on the reaction rate 
 First-Order Reaction:
 - If a reaction is first order, the rate is directly proportional to the reactant concentration. Doubling \[A] will double the rate of the reaction
+Second-Order Reaction:
+- If a reaction is second order, rate is directly proportional to the square of the reactant concentration. Doubling \[A] will quadruple the rate of the reaction.
+
+
