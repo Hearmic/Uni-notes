@@ -16,10 +16,10 @@ Natural
 - Vary by location, shape, and function
 - Most are derived from a single precursor in the bone marrow, called ==**hematopoietic stem cells**==
 - Most cells circulate in the blood or the lymph; we call them **==leukocytes==** or white blood cells.
-- Others are present in tissue at all times, called tissue resident
-- Two main groups:
-	- ==Myeloid== lineage cells (mostly innate cells)
-	- ==Lymphoid== lineage cells (mostly adaptive cells)
+- Others are present in tissue at all times, called **==tissue resident==**
+	- Two main groups:
+	- ==Myeloid== lineage cells (mostly innate cells, but not all)
+	- ==Lymphoid== lineage cells (mostly adaptive cells, but not all)
 
 - Two types are present in bone marrow: ==hematopoietic stem cells (HSC)== and ==mesenchymal stem cells (MSC)==.
 - HSC and MSC are multipotent
@@ -27,6 +27,15 @@ Natural
 - MSC differentiate -> connective tissue cells (bone, cartilage, ligament, tendon, stromal fibroblasts, and adipocytes)
 #### Cells of the innate immune system
 
-Phagocytes 
-Innate Immune cells
-Antigen presenting cells: MDCs
+Phagocytes: Nutropills, Monocytes
+Innate Immune cells: Nutropills, Monocytes, Macrophages, DCs
+Antigen-presenting cells: Macrophage, DCs, B cells
+
+
+| White Blood cells (leukocytes) |     |     |
+| ------------------------------ | --- | --- |
+| Neutrophills                   |     |     |
+| Eusinoshils                    |     |     |
+| Basophils                      |     |     |
+| Lymphocytes                    |     |     |
+|                                |     |     |
