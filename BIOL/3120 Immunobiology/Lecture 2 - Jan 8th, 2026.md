@@ -31,11 +31,41 @@ Phagocytes: Nutropills, Monocytes
 Innate Immune cells: Nutropills, Monocytes, Macrophages, DCs
 Antigen-presenting cells: Macrophage, DCs, B cells
 
+Dendritic Cell
+Phagocytes
+Neutrophils (Nu)
+Basophils
+Eosinophils
+Mast Cells
+Natural Killer Cells (NK)
+Innate Lymphoid Cells (ILCs)
 
-| White Blood cells (leukocytes) |     |     |
-| ------------------------------ | --- | --- |
-| Neutrophills                   |     |     |
-| Eusinoshils                    |     |     |
-| Basophils                      |     |     |
-| Lymphocytes                    |     |     |
-|                                |     |     |
+
+Granulocytes: Neutrophils (Nu), Basophils, Eosinophils)
+
+#### Neutrophils:
+- Numerous (An adult human produces more than $1*10^{11}$ per day)
+- Circulates in the blood for a few hours or up to 5 days before dying
+- After entering tissues, neutrophils function for only 1 to 2 days, and most of them then die
+- Granules contain various toxic proteins and enzymes used to destroy the pathogen, taken by phagocytosis
+- Extrude granules and nuclear content to immobilize and kill microbes
+##### NETs = Neutrophil Extracellular Traps
+- Neutrophil dies and extrudes (force out) its DNA
+- DNA is very sticky and traps bacteria
+- Macrophages clean up the mess
+
+#### Myeloid lineage immune cells
+Granulocytes: - Polymorphonuclear granulocytes
+
+Eosinophils & Basophils
+- Granules contain various toxic proteins and enzymes that is released when they get activated
+- Extracelluar- No phagocytic activity
+- Parasitic and allergic responses
+- Circulate in the blood
+- Basophils express IgE receptors, bind IgE, and can be triggeredby antigen binding to IgE.
+- Various membrane receoptors on eosinophils (Fc receopters for IgA and IgG, TLRs, and IL-5 receptors) can activate the cells to release their granule contents
+- Basophil numbers are low in tissues -> their importance in host defense and allergic reactions is uncertain.
+
+#### Myeloid lineage immune cells
+Mast Cells
+- Structurally and functionally similar to basophils but, T
