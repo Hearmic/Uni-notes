@@ -30,12 +30,25 @@ There can be more than one explanatory and/or response variable
 
 Observational Study: no experimental manipulation
 - Variables are measured and data recorded on already available subjects/units
-	- Treatments of the explanatory variable "self-assigned."
-	  
+- Treatments of the explanatory variable "self-assigned."
 - Can show association but not cause/effect relationships (often used in "exploratory" research) 
 
+Experiemental Study: individuals are ssigned to treatment groups
+- Random assignement ensures that differences between groups are due to the experimental treatment
+- Can show cause/effect
+- Treatments of the explanatory variable assigned by researchers
 
+Frequency distributions: show the relative or absolute number of times a variable has a given value
 
+- The distribution of a variable in the whole population is its probability distribution
+- Almost never known
+- Theoretical distributions are used as approximations
+- For continuous data: the normal distribution ("bell curve")
 
+If we can approximate the distribution of a variable, we can calculate the odds of measuring a value within a certain range
+- Often the basis of statistical hypothesis testing
+
+Graphing Data
+- 
 
 
