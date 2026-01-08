@@ -84,4 +84,23 @@ Granulocytes: -Polymorphonuclear granulocytes
 - The mononuclear phagocyte system includes 
 	1. Circulating bone marrow-derived monocytes $\to$ differentiate into macrophages into tissues
 	2. tissue-resident macrophages, which are initially derived from yolk sac or hematopoietic precursors during fetal life.
-- Experimental evidences suggest: Tissue resident macrophage distribution of different origin varies among tissues
+- Experimental evidences suggest tissue-resident macrophage distribution of different origins varies among tissues
+###### Tissue-Specific Macrophages
+- Osteoclasts (Bone)
+- Microgila (CNS)
+- Langerhans Cells (Skin)
+- ...
+
+###### Macrophage Polarization
+- Macrophages can convert themselves into a spectrum of phenotypes
+- Thus, they can play various roles in the innate immune response depending on the state of the environment they reside in
+- They can perform 
+	- Pro-inflammatory functions
+	- Anti-inflammatory function
+		- Resolution of inflammation
+		- Tissue repair
+
+##### Dendritic Cells
+- Tissue resident
+- Undergo Phagocytosis and macropinocytosis
+- Their main function is not clearing the pathogen via phagocytosis , but to travel to lymploid tissues and present them to activate adaptive immune cells
