@@ -43,21 +43,21 @@ Innate Lymphoid Cells (ILCs)
 
 Granulocytes: Neutrophils (Nu), Basophils, Eosinophils)
 
-#### Neutrophils:
+#### Myeloid lineage immune cells
+Granulocytes: - Polymorphonuclear granulocytes
+
+##### Neutrophils:
+Granulocytes: -Polymorphonuclear granulocytes
 - Numerous (An adult human produces more than $1*10^{11}$ per day)
 - Circulates in the blood for a few hours or up to 5 days before dying
 - After entering tissues, neutrophils function for only 1 to 2 days, and most of them then die
 - Granules contain various toxic proteins and enzymes used to destroy the pathogen, taken by phagocytosis
 - Extrude granules and nuclear content to immobilize and kill microbes
-##### NETs = Neutrophil Extracellular Traps
+###### NETs = Neutrophil Extracellular Traps
 - Neutrophil dies and extrudes (force out) its DNA
 - DNA is very sticky and traps bacteria
 - Macrophages clean up the mess
-
-#### Myeloid lineage immune cells
-Granulocytes: - Polymorphonuclear granulocytes
-
-Eosinophils & Basophils
+##### Eosinophils & Basophils
 - Granules contain various toxic proteins and enzymes that is released when they get activated
 - Extracelluar- No phagocytic activity
 - Parasitic and allergic responses
@@ -66,6 +66,22 @@ Eosinophils & Basophils
 - Various membrane receoptors on eosinophils (Fc receopters for IgA and IgG, TLRs, and IL-5 receptors) can activate the cells to release their granule contents
 - Basophil numbers are low in tissues -> their importance in host defense and allergic reactions is uncertain.
 
-#### Myeloid lineage immune cells
-Mast Cells
-- Structurally and functionally similar to basophils but, T
+##### Mast Cells
+- Structurally and functionally similar to basophils but, Tissue resident (especially in skin, intestine, airway mucosa)
+- Protect internal surfaces from pathogens (including parasites)
+- Granules contains inflammatory mediators (histamine & proteases)
+- Act as sentinel cells and contribute to initiation of inflammation
+- High-affinity plasma membrane receptors for a type of antibody called IgE and are usually coated with these antibodies -> signaling events are induced when antigen binds to the coated antibodies
+- Mast cells are also activated when they recognize microbial products, independent of IgE
+##### Macrophage:
+- Tissue resident in almost all tissues
+- Monocytes differentite into macrophages
+- Both monocytes and macrophages are phagocytic
+- M= large phagcyte
+	- Take up large particles (dying cells, bacteria, etc) by phagocytosis
+- Monocytes have bean-shaped nuclei and finely granular cytoplasm containing lysosomes, phagocytic vacuoles, and cytoskeletal filaments.
+##### The mononuclear phagocyte system
+- The mononuclear phagocyte system includes 
+	1. Circulating bone marrow-derived monocytes $\to$ differentiate into macrophages into tissues
+	2. tissue-resident macrophages, which are initially derived from yolk sac or hematopoietic precursors during fetal life.
+- Experimental evidences suggest: Tissue resident macrophage distribution of different origin varies among tissues
