@@ -48,8 +48,9 @@ Frequency distributions: show the relative or absolute number of times a variabl
 If we can approximate the distribution of a variable, we can calculate the odds of measuring a value within a certain range
 - Often the basis of statistical hypothesis testing
 
-Graphing Data
-- Use the right type of graph
+## Graphing Data
+Effective data visualization can portray complex data in an intuitive and easily interpretable way.
+### 1. Use the right type of graph
 - Single variable: frequency distribution
 	- The number (or proportion/percentage) of occurences of each value in the data
 - Showing data for a single variable
@@ -108,4 +109,25 @@ Single variable: Numerical variable: histogram. Categorical variable bar graph
 
 Association between two variables
 Two Categorical: Group bar graph or mosaic plot
-Two Numerical: Scatte
+Two Numerical: Scatter plot
+
+### 2. Show the data
+Reveals the distribution of data points (as well as the average)
+Can spot extreme values
+
+### 3. Make patterns easy to see
+Try different types of graphs to see which reveal patterns most clearly
+- Avoid 3-D
+- Don't put too much info into one graph
+
+### 4. Report magnitudes honestly
+- Baseline for a bar graph should always be zero
+
+### 5. Draw graphical elements clearly
+- Label axes: include units
+- Unadorned, simple typeface
+- Text as large as possible
+- Avoid red and green as a distinguishing colour pair
+- Use clearly distinguishable graphical symbols
+
+### asdf
