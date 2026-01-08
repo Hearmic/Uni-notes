@@ -85,6 +85,27 @@ Graphing Data
   
 - Showing an association between two variables: the best graph for showing an association between two variables depends on the types of variables involved
 	- 1. Categorical explanatory and categorical response
-- Contingency table, Grouped bar graphs, Mosaic Plots (width is proportional to sam)
+- Contingency table, Grouped bar graphs, Mosaic Plots (width is proportional to sample size), Scatter plot, Strip chart (or dot plot)
 - Stacked bars are used to display the proportional, or relative, frequency of occurrence
 
+1. Strip chart 
+	- Dots on a graph that have a numerical value on one axis and a categorical value on the other
+	- Points are jittered (horizontally spread)
+	- Good for smaller data sets because it shows all data points
+2. Box plot
+	- Uses lines and a box to display the median, quartiles, range, and extreame measurements of the data
+	- shows most important features of data set; good for larger data sets where the distributions are unimodal (at least not changing modality)
+3. Violin plot
+	- Approximates the frequency distribution for each group like a histogram, but the distribution is smoothed and is shown with its mirror image
+	- Particularly useful when the distribution is multimodal (more than one peak)
+	- Better than box plot in most ways, especially for multimodal distributions
+4. Multiple Histograms:
+	- Should be stacked vertically for easy comparison
+	- Scale shown on the bottom axis
+	- Allows easier comparison 
+
+Single variable: Numerical variable: histogram. Categorical variable bar graph
+
+Association between two variables
+Two Categorical: Group bar graph or mosaic plot
+Two Numerical: Scatte
