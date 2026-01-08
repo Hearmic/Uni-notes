@@ -12,4 +12,21 @@ Natural
 	- e.g. defensins and the cathelicidins
 - Biological factors (e.g. enzymes, low pH)
 	- E.g. enzymes: lysozyme in saliva, tears and sweat
-- 
+### Cellular components
+- Vary by location, shape, and function
+- Most are derived from a single precursor in the bone marrow, called ==**hematopoietic stem cells**==
+- Most cells circulate in the blood or the lymph; we call them **==leukocytes==** or white blood cells.
+- Others are present in tissue at all times, called tissue resident
+- Two main groups:
+	- ==Myeloid== lineage cells (mostly innate cells)
+	- ==Lymphoid== lineage cells (mostly adaptive cells)
+
+- Two types are present in bone marrow: ==hematopoietic stem cells (HSC)== and ==mesenchymal stem cells (MSC)==.
+- HSC and MSC are multipotent
+- HSC -> all blood cells -> some of them further mature into highly specialized cells (e.g. monocyte maturation to osteoclasts)
+- MSC differentiate -> connective tissue cells (bone, cartilage, ligament, tendon, stromal fibroblasts, and adipocytes)
+#### Cells of the innate immune system
+
+Phagocytes 
+Innate Immune cells
+Antigen presenting cells: MDCs
