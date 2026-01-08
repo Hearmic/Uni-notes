@@ -49,6 +49,20 @@ If we can approximate the distribution of a variable, we can calculate the odds 
 - Often the basis of statistical hypothesis testing
 
 Graphing Data
-- 
-
+- Use the right type of graph
+- Single variable: frequency distribution
+	- The number (or proportion/percentage) of occurences of each value in the data
+- Showing data for a single variable
+- For numerical data: use histogram
+- Data values split into "bins" of equal width
+- Histograms have properties that describe the shape of a frequency distribution
+- (Uniform, Bell-shaped, Asymmetric (with -ve skew, Bimodal (also asymmetric with +ve skew)
+	- Symmetry (stymmetric as asymmetric)
+	- Skew = One "tail" is longer than the other
+		- Towards left = negative skew; towards right = positiev
+	- Peak = bin surrounded by lower values
+	- Mode = Highest Peak
+- Outliers are observations well outside the range of values of other observations
+	- Should be removed only if investigation reveals them to be erros
+	
 
