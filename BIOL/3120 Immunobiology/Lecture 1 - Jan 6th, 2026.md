@@ -45,14 +45,14 @@ Innate Immune System: Neutrophil, Basophil, Eosinophil, Monocyte, Macrophage, Ma
 
 Dendritic cell
 
-Adaptive Immune System: T Lymphocyte, B Lymphocyte (Take time to adap/acquire specificity)
+Adaptive Immune System: T Lymphocyte, B Lymphocyte (Take time to adapt/acquire specificity)
 - Adaptive, specific or acquired immunity / Immune system
-- requires prolifratioin and adaptation specificity of lymphcytes (Adaptive Immune Cells) before providing a response)
-- Adapts spcifically 
+- requires proliferation and adaptation specificity of lymphocytes (Adaptive Immune Cells) before providing a response)
+- Adapts specifically 
 
 
 Reflection
-How individual's immune system recognize, respond to, and eliminate many foreign antigens but usuallly does not attack body's own (self) antigens and tissues
+How an individual's immune system recognizes, respond to, and eliminates many foreign antigens but usually does not attack body's own (self) antigens and tissues
 
 How?
 What is the manifestation if one's own immune system react against self antigens?
