@@ -63,6 +63,28 @@ Graphing Data
 	- Peak = bin surrounded by lower values
 	- Mode = Highest Peak
 - Outliers are observations well outside the range of values of other observations
-	- Should be removed only if investigation reveals them to be erros
-	
+	- Should be removed only if investigation reveals them to be errors
+
+- The number of bins can influence a viewer's interpretation of a histogram
+	- Bins too small; too much individual data obscures trends
+	- Bins too large; loss of information and a distorted 
+	- Sturges' "rule of thumb" (a rough guideline):
+		- \#bins = 1 + ln(n) / ln(2), rounded up
+		- $k = 1 + log_2(n)$
+		- Often more bins are needed than Sturges' predicts
+		- Use Judgement
+		- Use readable numbers
+- Left vs Right Closed Bins
+	- Data values split into "bins" of equal width but...
+	- What do you do with values that are exactly at bin boundaries?
+	- e.g., bins 0-10, 10-20, 20-30...where does a 10 go
+	- Left closed (right open)-the left of the interval includes the endpoint: 10-20
+	- Left closed bins: \[0-10), \[1-20)
+- Single variable: Frequency Distribution
+- Categorical variable: Bar graph
+  
+- Showing an association between two variables: the best graph for showing an association between two variables depends on the types of variables involved
+	- 1. Categorical explanatory and categorical response
+- Contingency table, Grouped bar graphs, Mosaic Plots (width is proportional to sam)
+- Stacked bars are used to display the proportional, or relative, frequency of occurrence
 
