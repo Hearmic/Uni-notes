@@ -58,4 +58,23 @@ $pK_a$ can shift depending on the environment
 
 The peptide bond is an Amide
 
-- Directionality of peptide bond stN-terminus: starting point
+- Directionality of peptide bond synthesis (ribosomal)
+  N-terminus: starting point
+  C-terminus: elongated through peptide bond
+- R groups are bulky, reduced sterics by making trans conformation (except Proline which prefer to have cis- conformation, useful for bending peptide structure)
+- The amide bond is Planer
+
+### Level of Structures
+#### Primary
+- 1D
+
+#### Secondary 
+- Favorable phi or $p_si$ angle
+- Local structure
+- R group not involved with H-bonding
+- but affect 
+#### Tertiary 
+- Disulfide Bridges (two Cystine residues, not spontaneous, enzyme required)
+
+### Ramachandran Plot
+
