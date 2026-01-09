@@ -50,7 +50,7 @@ DNA-Encoded Libraries for Drug Discovery:
 
 ### Research Groups in Environmental and Atmospheric Chemistry
 People
-Stephani Jones 
+Stephanie Jones 
 Trevor VandenBoer
 Cora Young
 
@@ -61,3 +61,20 @@ SOTA analytical methods -> Environmental sampling -> modeling -> Lab experiement
    
 Chemical Drivers of Climate
 
+### Stephanie Jones Research Group - Atmospheric Chemistry
+Atmospheric aerosols and environmentally relevant films.
+
+Perform experiments on single levitated particles and thin films at the air-liquid interface
+
+### Philip Johnson Research Group (pjohnson@ yorku.ca)
+DNA Aptamer Structure and Function
+- DNA aptamers can be selected to bind virtually anything (proteins, small molecules, cells)
+- Aptamers are used in sensing devices to detect molecules both in the lab and in the body
+- How DNA aptamers bind their small molecule targets (cocaine, quinine, ATP, dopamine, ochratoxin A, etc)
+
+### Kim Research Group
+Biological chemistry of genome editing proteins
+
+To develop enabling technologies to accelerate biological discoveries
+- Engineer New CRISPR Systems
+- Develop New Base Editors
