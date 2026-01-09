@@ -94,4 +94,4 @@ $$
 Relationship between the concentration of reaction reactant and time
 
 Questions:
-Can reaction order calculated non-experimentally?
+Can reaction order calculated non-experimentally? What is the underlying principles of reaction order.
