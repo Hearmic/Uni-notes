@@ -60,20 +60,31 @@ The peptide bond is an Amide
 
 - Directionality of peptide bond synthesis (ribosomal)
   N-terminus: starting point
-  C-terminus: elongated through peptide bond
-- R groups are bulky, reduced sterics by making trans conformation (except Proline which prefer to have cis- conformation, useful for bending peptide structure)
-- The amide bond is Planer
+  C-terminus: elongated through a peptide bond
+- R groups are bulky, reducing sterics by making a trans conformation (except Proline which prefer to have cis- conformation, useful for bending peptide structure)
+- The amide bond is planar
 
 ### Level of Structures
 #### Primary
 - 1D
 
 #### Secondary 
-- Favorable phi or $p_si$ angle
-- Local structure
-- R group not involved with H-bonding
-- but affect 
-#### Tertiary 
+Favorable $p_{hi}$ or $p_{si}$ angle
+Local structure
+R group not involved with H-bonding but affect bkrics
+- $\alpha$-Helix: 
+	- The core of the helix is tightly packed
+	- more compact than the fully extended polypeptide chain with phi/psi angles of 180 degree
+	- the average number of amino acids in a helix is 11, which gives 3 turns) 
+	- The Left-handed helix is rare
+	- The R-group face outside of the helix
+	- influence folding
+		- hydrophobic - head fold inside the protein shielded, span plasma membrane
+		- Hydrophilic - span water environment
+- $\beta$-sheet
+	- jj
+ 
+ #### Tertiary 
 - Disulfide Bridges (two Cystine residues, not spontaneous, enzyme required)
 
 ### Ramachandran Plot
