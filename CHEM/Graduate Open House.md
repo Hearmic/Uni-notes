@@ -78,3 +78,17 @@ Biological chemistry of genome editing proteins
 To develop enabling technologies to accelerate biological discoveries
 - Engineer New CRISPR Systems
 - Develop New Base Editors
+
+### Christine Le Research Group - Synthetic organic and inorganic chemistry for applications in drug discovery and development
+
+Reaction Methodology
+- Inspired by the needs of the phamaceutical industry, our systhematic targets include unique heterocycles, carbocycles, and fluorine-contraining molecules.
+
+Catalyst Development
+- Our focus is on the use of Earth-abundant materials a scatalysts,
+- such as first-row metals, main group coumpounds, or organocatalyst
+
+Mechanistic Studies
+- In-depth mechanistic studies will guide reaction and catalyst development, as well as lead to the discovery of new reactivity.
+
+New Building Blocks for Sustainable Organofluorine Chemistry
