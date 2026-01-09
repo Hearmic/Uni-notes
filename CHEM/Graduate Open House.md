@@ -32,4 +32,32 @@ Dealing with techniques:
 Seek to develop new catalysts based on earth-abundant main group elements and redox-active substituents to rival precious metals.
 
 
-### Hili Research Gorup - Nucleic acid chemical biology
+### Hili Research Group - Nucleic acid chemical biology
+Synthetic Antibody evolution:
+- Evolution of funcitonalized DNA with high affinity to proteins
+- Methods to encode DNA modifications with nuclease reiststance
+- Applications to diagnostics and molecular theory
+
+Epitranscriptomic Sequencing:
+- New selective chemical reactions that react with unique modifications in human RNA
+- Sequencing of human RNA modifications
+- Unraveling the role of RNA modifications in human health and disease
+  
+DNA-Encoded Libraries for Drug Discovery:
+- Evolution of millions of small-molecule Drugs
+- Maturation of drug affinity and selectivity
+- Applications to drug development and basic biology in epitranscriptomics
+
+### Research Groups in Environmental and Atmospheric Chemistry
+People
+Stephani Jones 
+Trevor VandenBoer
+Cora Young
+
+SOTA analytical methods -> Environmental sampling -> modeling -> Lab experiements ->
+
+1. How chemicals move and transform in the environment
+2. Sources of pollutant chemicals to the environment
+   
+Chemical Drivers of Climate
+
