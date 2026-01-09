@@ -92,3 +92,25 @@ Mechanistic Studies
 - In-depth mechanistic studies will guide reaction and catalyst development, as well as lead to the discovery of new reactivity.
 
 New Building Blocks for Sustainable Organofluorine Chemistry
+- Synthetic applications of difluorocarbene
+- Carbofluorination of alkynes
+- Catalytic activation of carbon-fluorine bonds
+
+
+### Jennifer van Wijngaarden - Physical and Computational Chemistry
+Moleculear fingerprinting
+- What determines the number of stable conformers of a molecule?
+- Their relative energies?
+- Their geometries?
+- Interconversion pathways?
+Using SOTA spectroscopic and computational tools to answer these questions
+- Custom microwave spectrometer
+
+### Toby Zeng Research Group - Computational and theoretical chemistry, methodological developments and stimulations in materials science
+- Vibronic Interaction
+	an intrinsic interaction for excited states chemistry
+- Model Developments
+	Use mathematical language to describe chemical systems
+- Simulations in Materials Science
+	Use the models to simulate optoelectronic materials
+
