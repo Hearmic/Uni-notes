@@ -46,8 +46,16 @@ $\alpha$-Amino Acids are Chiral
 L-Alanine (Natural) vs D-Alanine
 - Correspond to the R and S configuration
 
-Amino Acids are Zwitterions:
+Amino Acids are ==Zwitterions==:
 - A molecule having two or more functional groups, both positive and negative, but neutral net charge at specific pH (Isoelectric point)
-- 
 
+### Isoelectric Points (pl's) and $pK_a$'s
+- The isoelectric point of a molecule or a protein can be determined by evaluating all of the acid dissociation constants (pKa values) for functional groups that can carry charges within the molecule
+- The pKa value indicates the strength of an acid (or the ability of a functional group to donate a proton to the surrounding medium)
+- The lower the $pK_a$, the stronger the acid
 
+$pK_a$ can shift depending on the environment
+
+The peptide bond is an Amide
+
+- Directionality of peptide bond stN-terminus: starting point
