@@ -96,7 +96,6 @@ New Building Blocks for Sustainable Organofluorine Chemistry
 - Carbofluorination of alkynes
 - Catalytic activation of carbon-fluorine bonds
 
-
 ### Jennifer van Wijngaarden - Physical and Computational Chemistry
 Moleculear fingerprinting
 - What determines the number of stable conformers of a molecule?
