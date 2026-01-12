@@ -133,9 +133,35 @@ R group not involved with H-bonding but affect bkrics
 	- Reactivate in the dimer form
 
 ### Fibrous Proteins
-- Characteriazed by elongated protein structures. These types of proteins often aggregate 
+
+#### Keratin
+- Characterized by elongated protein structures. These types of proteins often aggregate 
 - $\alpha$-Keratin: Occurs in mammals (hair, nail, horns)
 - $\beta$-Keratin: Occurs in birds and reptiles
-- Humans have more than 50 keratin genes that are expressed in a tissue-specific
+- Humans have more than 50 keratin genes that are expressed in a tissue-specific manner.
+- Keratin tissue comes from cells it's filled with keratin
+
+##### Coiled Coil Repeats
+- Type 1 - Acidic Keratin
+- Type 2 - Basic Keratin
+- Type 1 and 2 form dimer (by ionic interaction)
+
+- a-helical region in monomer
+- coiled coil dimer
+- staggered tetramer of two coil-coil dimers
+- Two tetramers packed together
+Eight tetramers twisted into a ropelike filament
+Hydrophobic Interaction along $\alpha$-helical segment
+
+### Collagen
+- Tendon, Ligament
+- Most abundant 25%-35% of the animal body
+- Type 1: 
+	- Glycine occurs every 3rd residue
+	- Proline 17% with post-translational modification (4-Hydroxyprolyl residue (Hyp), 3-Hydroxyprolyl residue, 5-Hydroxylysyl residue (Hyl))
+	- Nearly one-third of its residues are Gly; another 15 to 30% of its residues are Pro and 4-hydroxyprolyl (Hyp).
+	- 3-Hydroxyprolyl and 5-hydroxylysyl (Hyl) residues alsooccur in collagen, but in smaller amounts
+	- Prolyl Resid
+
 ### Ramachandran Plot
 
