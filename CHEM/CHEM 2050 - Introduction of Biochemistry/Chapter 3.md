@@ -19,4 +19,20 @@ while 
 
 #### Nonpolar Amino Acids
 - nonpolar side chains
-- Glycine, 
+- Glycine, Alanine, valine, leucine, isoleucine, proline, phenylalanine, tryptophan, and methionine
+- Tryptophan has a aromatic, indole side chain
+
+#### Polar Amino Acids
+- Polar side chains that are electrically neutral at neutral pH
+- Threonine (Thr, T), Serine (Ser, S), Cysteine (Cys, C), Asparagine (Asn, N), Tyrosine (Tyr, Y), Glutamine (Gln, Q)
+- In serine and threonine, thepolar gorup is a hydroxyl bonded to an aliphatic group
+
+#### Acid Amino Acids
+- Gluamic Acid (Asp, D) and Aspartic Acid (Glu, E)
+- Glutamate/Aspartate (conjugate base of Glutamic Acid/Aspartic Acid)
+- Have carboxyl groups in their side chains in addition to the one present in all amino acids
+	- Carboxyl group can lose a proton, forming carboxylate anions
+	- Side chains are negatively charged at neutral pH
+
+#### Basic Amino Acids
+- Histidine (His, H), Lysine (Lys, K), ()
