@@ -96,9 +96,24 @@ R group not involved with H-bonding but affect bkrics
 	- H-bond between backbone
 	- R-groups - above, below folds
 	- Antiparallel conformation is stronger
-![[Pasted image 20260112094539.png]]
-	- Beta Turns and Other Secondary Structures
-	- 
+	- ![[Pasted image 20260112094539.png]]
+- Beta Turns and Other Secondary Structure
+- $\beta$-turn Type 1: Pro common in position 2 + anything in position 3
+- $\beta$-turn Type 2: Requires glycine in position 3
+	![[Pasted image 20260112094851.png]]
+- asdf
+- Supersecondary Structure
+	- $\beta$-Hairpin
+	- Helix turn Helix
+	- $\alpha$-$\alpha$ Corner (common in myoglobin)
+- Protein Motifs: formed by combined secondary and supersecondary structures
+- $\beta$-strand has a tendency to twist in the right-hand direction
+- Lead to twisted sheets, saddles & $\beta$-barrels
+- The Rossman Fold
+	- Some motifs serve a particular function (ex: binding to substrate or cofactors)
+- Tim Barrel
+	- $\alpha$ and $\beta$ protein fold - 
+  
  #### Tertiary 
 - Disulfide Bridges (two Cystine residues, not spontaneous, enzyme required)
 
