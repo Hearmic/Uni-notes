@@ -112,10 +112,30 @@ R group not involved with H-bonding but affect bkrics
 - The Rossman Fold
 	- Some motifs serve a particular function (ex: binding to substrate or cofactors)
 - Tim Barrel
-	- $\alpha$ and $\beta$ protein fold - 
+	- $\alpha$ and $\beta$ protein fold - alternating
+	- Solenoid (donut shape)
+	- Many sequences can form it
+	- 15 different protein families (conversion evolution)
   
- #### Tertiary 
+### Tertiary
+3D shape of protein
+- Ionic
+- van der Waals
+- Dipole-Diple
+- Hydrophobic effect
 - Disulfide Bridges (two Cystine residues, not spontaneous, enzyme required)
+### Quaternary
+- Insulin forms a quaternary protein structure
+- Inactive hexameric structure provides a way to store the insulin hormone prior to release
+- Insulin hexamer is for storing
+	- Stabled inactive conformation
+	- Available for release
+	- Reactivate in the dimer form
 
+### Fibrous Proteins
+- Characteriazed by elongated protein structures. These types of proteins often aggregate 
+- $\alpha$-Keratin: Occurs in mammals (hair, nail, horns)
+- $\beta$-Keratin: Occurs in birds and reptiles
+- Humans have more than 50 keratin genes that are expressed in a tissue-specific
 ### Ramachandran Plot
 
