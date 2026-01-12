@@ -46,4 +46,11 @@ while 
 	- has Guanidiniuan Group
 	- 50% Protonated at pH = 12.5 ($pK_a$ = 12.5)
 
-### Acidity: $\alpha$-COOH Groups and  $\alpha$
+### Acidity: $\alpha$-COOH Groups and  $\alpha$-$NH_3^+$
+- Average pKa of an alpha-carboxyl group is 2.19 which makes it a considerably stronger acid than acetic acid (pKa=4.76)
+	- Greater acidity is due to the electron-withdrawing inductive effect of the -$NH_3^+$ group
+- Compared with a value of 10.76 for a 2˚ alkylammonium ion, average value of pKa for an  $\alpha$-$NH_3^+$ group is 9.47
+- At pH = 2.0 protonated form will dominate
+
+### Basicity: $\alpha$-$NH_3^+$ groups
+- 
