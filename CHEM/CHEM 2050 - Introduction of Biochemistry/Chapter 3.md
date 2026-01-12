@@ -68,4 +68,10 @@ while 
 	- Thyroxine is found only in the thyroid gland
 
 ### Net Charges of Amino Acids
-- In a free amino acid, carboxyl group (negative ) and 
+- In a free amino acid, the carboxyl group (negative) and amino group (positive) are charged at neutral pH
+- Amino acids without charged groups on their side chains exist in neutral solution as zwitterions with no net charge 
+	- Zwitterions are overall electrically neutral in solutions (ex: alanine whose $pK_a$ = 2.3 for protonation of $COO^-$, $pK_a$= 9.7 for protonation of $NH_2$)
+- Mobility can change depending on pH
+
+
+
