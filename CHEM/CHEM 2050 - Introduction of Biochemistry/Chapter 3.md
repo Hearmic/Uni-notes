@@ -74,4 +74,11 @@ while 
 - Mobility can change depending on pH
 
 
+####
+Cysteine (Cys) side chain pKa=8.3
+Tyrosine (Tyr) side chain pKa=
+
+### Titration of Amino Acids
+- When an amino acid is titrated, its titration curve represents the reaction of each functional group with a hydroxide ion
+- Titration curve for an amino acid without an ionizable side group has two shallow and one steep parts
 
