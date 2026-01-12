@@ -19,5 +19,6 @@ a) The state of a quantum-mechanical system is completely specified by a functio
 1. continuous ψ defined all x in the stated interval
 2. Bounded ψ cannot be ∞ or -∞ in the interval (x values
 3. Single-valued ψ has one value for each x
-4. dψ/dx must be define for all x in interval
+4. dψ/dx must be defined for all x in the interval
 
+b) this function, called the wavefunction, has the important property that ψ(x, t)ψ(x, t)
