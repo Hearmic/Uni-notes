@@ -53,4 +53,19 @@ while 
 - At pH = 2.0 protonated form will dominate
 
 ### Basicity: $\alpha$-$NH_3^+$ groups
-- 
+- Guanidinium Group - Side chain of arginine is a considerably stronger base than an aliphatic amine (pKa = 1.5)
+	- Basicity of the guanidino group is attributed to the large resonance stabilization of the protonated form relative to the neutral form
+	- There are three resonance form in acidic form which makes it stable
+- Imidazole group - Side -chain imidazole group of histidine is a heterocyclic aromatic amine. One titrogen is weakly basic, the other completely non-basic ($pK_a$= 6.0)
+
+![[Pasted image 20260112121131.png]]
+
+### Uncommon Amino Acids
+- Derived from the common amino acids
+- Produced through posttranslational modification
+	- Parent amino acid is modified ater the protein is synthesized by an organism
+	- Hydroxylysine and hydroxyproline are found only in a few connective-tissue proteins, such as collagen
+	- Thyroxine is found only in the thyroid gland
+
+### Net Charges of Amino Acids
+- In a free amino acid, carboxyl group (negative ) and 
