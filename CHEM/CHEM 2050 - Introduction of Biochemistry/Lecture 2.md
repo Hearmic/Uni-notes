@@ -2,7 +2,7 @@
 An experiment in which measured amounts of base are added to an acid
 
 Equivalence point: Point in an acid-base titration at which enough base 
-$pK_a$ The value would be the same as the pH of the solution where cthe oncentration of acid and base is 1:1
+$pK_a$ value would be the same as the pH of the solution where the concentration of acid and base is 1:1
 
 Buffer region: where the solution resists to change in pH![[Pasted image 20260107114217.png]]
 

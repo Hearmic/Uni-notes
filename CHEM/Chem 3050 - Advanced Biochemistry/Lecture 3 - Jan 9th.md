@@ -47,7 +47,7 @@ L-Alanine (Natural) vs D-Alanine
 - Correspond to the R and S configuration
 
 Amino Acids are ==Zwitterions==:
-- A molecule having two or more functional groups, both positive and negative, but neutral net charge at specific pH (Isoelectric point)
+- A molecule having two or more functional groups, both positive and negative, but a neutral net charge at a specific pH (Isoelectric point)
 
 ### Isoelectric Points (pl's) and $pK_a$'s
 - The isoelectric point of a molecule or a protein can be determined by evaluating all of the acid dissociation constants (pKa values) for functional groups that can carry charges within the molecule
@@ -77,10 +77,18 @@ R group not involved with H-bonding but affect bkrics
 	- more compact than the fully extended polypeptide chain with phi/psi angles of 180 degree
 	- the average number of amino acids in a helix is 11, which gives 3 turns) 
 	- The Left-handed helix is rare
-	- The R-group face outside of the helix
+	- The R-groups face outside of the helix
 	- influence folding
-		- hydrophobic - head fold inside the protein shielded, span plasma membrane
-		- Hydrophilic - span water environment
+		- hydrophobic - fold inside the protein shielded, span plasma membrane
+		- Hydrophilic - spans in water environment
+	- Some amino acid side chains DO NOT favor alpha helical strucyure
+		- Glycine (Gly, G) -> too small, flexible
+		- Valine (Val, V)
+		- Isoleucine (Ile, I)
+		- Serine (Ser, S) $\to$Too much polarity
+		- Asparagine (Asn, N) $\to$Too much polarity
+		- Aspartic Acid (Asp, D) $\to$Too much polarity
+		- Proline (Pro, P) -> too rigid, cis conformation, causes bends
 - $\beta$-sheet
 	- jj
  
