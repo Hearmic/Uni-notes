@@ -80,7 +80,7 @@ R group not involved with H-bonding but affect bkrics
 	- The R-groups face outside of the helix
 	- influence folding
 		- hydrophobic - fold inside the protein shielded, span plasma membrane
-		- Hydrophilic - spans in water environment
+		- Hydrophilic - spans in a water environment
 	- Some amino acid side chains DO NOT favor alpha helical structure
 	     Competes for H-bond backbone & destabilizing $a$-helices
 	  .       Not black and white statement
@@ -159,9 +159,11 @@ Hydrophobic Interaction along $\alpha$-helical segment
 - Type 1: 
 	- Glycine occurs every 3rd residue
 	- Proline 17% with post-translational modification (4-Hydroxyprolyl residue (Hyp), 3-Hydroxyprolyl residue, 5-Hydroxylysyl residue (Hyl))
-	- Nearly one-third of its residues are Gly; another 15 to 30% of its residues are Pro and 4-hydroxyprolyl (Hyp).
+	- Nearly one-third of its residues are glycine; another 15 to 30% of its residues are proline and 4-hydroxyprolyl (Hyp).
 	- 3-Hydroxyprolyl and 5-hydroxylysyl (Hyl) residues alsooccur in collagen, but in smaller amounts
-	- Prolyl Resid
+	- Prolyl Residue -> Hydroxyprolyl Residue, Lysyl Residue -> Hydroxylysyl Residue (byreaction alpha ketoglutarate -> succinate, Ascorbate as a cofactor)
+	- Glycosylation
+- Collagen Synthesis
 
 ### Ramachandran Plot
 
