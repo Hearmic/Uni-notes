@@ -26,7 +26,12 @@ Remember: within the scientific community, evolution is not controversial
 ### What is intelligent design
 - Intelligent Design suggests that the universe and diversity of life is too complex to have evolved (via natural processes) and thus require a celestial intervention (i.e., intelligent designer)
 - i.e., each and every organism was put on Earth in the exact form we see it in today.
-"L"
+"Life appears to have been designed."
+
+### Is Intelligent Design Scientific?
+- Deals with supernatural
+- Cannot be observed (we can never identify the designer/process) -> what hypothesis can be generated
+- Cannot be tested -> produces no predictions (no predictive power), can't test any hypotheses, 
 
 
 
