@@ -7,3 +7,5 @@ Particles only exist in certain quantized energy states E
 The symbol ^ denotes an operator
 
 ![[Pasted image 20260112103350.png]]
+![[Pasted image 20260112103509.png]]
+Stationary Wave: Nodes are fixed
