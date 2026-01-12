@@ -80,5 +80,15 @@ Tyrosine (Tyr) side chain pKa=
 
 ### Titration of Amino Acids
 - When an amino acid is titrated, its titration curve represents the reaction of each functional group with a hydroxide ion
-- Titration curve for an amino acid without an ionizable side group has two shallow and one steep parts
+- Titration curve for an amino acid without an ionizable side group has two shallow and one steep part
+- Shallowest points (pH = pKa, where 50:50 mix of two forms of amino acid)
+- Steepest Points (where one form dominates almost 100%)
 
+### Isoelectric pH (pI)
+- pH at which a molecule has no net charge
+- Known as the isoelectric point
+$$
+pI = \frac{pK_{a1}+pK_{a2}}{2}
+$$
+- pl for glycine falls midway between the $pK_a$ values for the carboxyl and amino groups (when pH = 5.97, glycine will ~100% in zwitterionic form)
+- 
