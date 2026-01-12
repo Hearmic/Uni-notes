@@ -35,4 +35,15 @@ while 
 	- Side chains are negatively charged at neutral pH
 
 #### Basic Amino Acids
-- Histidine (His, H), Lysine (Lys, K), ()
+- Histidine (His, H), Lysine (Lys, K), Arginine Arg, R)
+- Histidine 
+	- has an ==imidazole ring== (pentagon shape with two Ns in it)
+	- 50% Protonated at pH = 6.0 ($pK_a$ = 6.0)
+	- 90% Protonated at pH = 7.0
+- Lysine
+	- 50% Protonated at pH = 10.5 ($pK_a$ = 10.5)
+- Arginine
+	- has Guanidiniuan Group
+	- 50% Protonated at pH = 12.5 ($pK_a$ = 12.5)
+
+### Acidity: $\alpha$-COOH Groups and  $\alpha$
