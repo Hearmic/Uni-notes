@@ -91,4 +91,6 @@ $$
 pI = \frac{pK_{a1}+pK_{a2}}{2}
 $$
 - pl for glycine falls midway between the $pK_a$ values for the carboxyl and amino groups (when pH = 5.97, glycine will ~100% in zwitterionic form)
-- 
+- Consider the amino acids: D, A, R, E, L, and K
+	- Which of the these amino acids has a not charge of +2 at low pH? D and E
+	- Which has a net charge of -2 at high pH? R and K
