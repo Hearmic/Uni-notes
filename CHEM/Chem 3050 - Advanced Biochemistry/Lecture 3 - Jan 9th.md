@@ -81,17 +81,24 @@ R group not involved with H-bonding but affect bkrics
 	- influence folding
 		- hydrophobic - fold inside the protein shielded, span plasma membrane
 		- Hydrophilic - spans in water environment
-	- Some amino acid side chains DO NOT favor alpha helical strucyure
+	- Some amino acid side chains DO NOT favor alpha helical structure
+	     Competes for H-bond backbone & destabilizing $a$-helices
+	  .       Not black and white statement
 		- Glycine (Gly, G) -> too small, flexible
-		- Valine (Val, V)
+		- Valine (Val, V) $\to$ Early branching residues, Destabilized by sterics bulky side chain
 		- Isoleucine (Ile, I)
-		- Serine (Ser, S) $\to$Too much polarity
-		- Asparagine (Asn, N) $\to$Too much polarity
-		- Aspartic Acid (Asp, D) $\to$Too much polarity
+		- Serine (Ser, S) $\to$Too much polarity (H-bond)
+		- Asparagine (Asn, N) $\to$Too much polarity (H-bond)
+		- Aspartic Acid (Asp, D) $\to$Too much polarity (H-bond)
 		- Proline (Pro, P) -> too rigid, cis conformation, causes bends
+		
 - $\beta$-sheet
-	- jj
- 
+	- H-bond between backbone
+	- R-groups - above, below folds
+	- Antiparallel conformation is stronger
+![[Pasted image 20260112094539.png]]
+	- Beta Turns and Other Secondary Structures
+	- 
  #### Tertiary 
 - Disulfide Bridges (two Cystine residues, not spontaneous, enzyme required)
 
