@@ -7,4 +7,9 @@ Evolution is not "scientifically controversial"
 Evolution is observable & testable
 
 Hypothesis must:
-- Clearly establish mutually exclusive alternative explanations for a phenomenon, i.e. only one scenario can hold
+- Clearly establish mutually exclusive alternative explanations for a phenomenon, i.e. only one scenario can hold true
+- Generate testable predictions
+- Needs to be able to testable empirically
+
+
+
