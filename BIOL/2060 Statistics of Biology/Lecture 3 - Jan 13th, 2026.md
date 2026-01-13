@@ -1,0 +1,8 @@
+- The ==arithmetic== mean is the most common way to describe location
+- Variance and standard deviation are measures of spread around a mean
+	- The distance between any observation and the mean = $Y_i-\overline{Y}$
+	- The sum of squares of deviations form the mean is used in measures of spread
+	- The variance $s^2$, is the same of squares divided by n-1 (average squared deviation)
+		- To get an average w e normally devide by n.
+		- If we calculate deviations around a mean for 6 values, we can actuallyu only calculate 5 numbers that are free to vary:
+		- Given previous deviations, the last one is no longer "free" to vary; it must be -5 because th elast number.in the dat must be 158 (o)
