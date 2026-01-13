@@ -80,8 +80,8 @@ R group not involved with H-bonding but affects bkrics
 	     Competes for H-bond backbone & destabilizing $a$-helices
 	  .       Not a black and white statement
 		- Glycine (Gly, G) -> too small, flexible
-		- Valine (Val, V) $\to$ Early branching residues, destabilized by the sterically bulky side chain
-		- Isoleucine (Ile, I)
+		- Valine (Val, V) $\to$ Early branching residues, dstabilized by the sterically bulky side chain
+		- Isoleucine (Ile, I) $\to$ Early branching residues, dstabilized by the sterically bulky side chain
 		- Serine (Ser, S) $\to$Too much polarity (H-bond)
 		- Asparagine (Asn, N) $\to$Too much polarity (H-bond)
 		- Aspartic Acid (Asp, D) $\to$Too much polarity (H-bond)
