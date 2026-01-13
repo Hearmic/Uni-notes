@@ -66,7 +66,7 @@ The peptide bond is an Amide
 #### Secondary 
 Favorable $p_{hi}$ or $p_{si}$ angle
 Local structure
-R group not involved with H-bonding but affect bkrics
+R group not involved with H-bonding but affects bkrics
 - $\alpha$-Helix: 
 	- The core of the helix is tightly packed
 	- more compact than the fully extended polypeptide chain, with phi/psi angles of 180 degrees
@@ -78,9 +78,9 @@ R group not involved with H-bonding but affect bkrics
 		- Hydrophilic - spans in a water environment
 	- Some amino acid side chains DO NOT favor alpha helical structure
 	     Competes for H-bond backbone & destabilizing $a$-helices
-	  .       Not black and white statement
+	  .       Not a black and white statement
 		- Glycine (Gly, G) -> too small, flexible
-		- Valine (Val, V) $\to$ Early branching residues, Destabilized by sterics bulky side chain
+		- Valine (Val, V) $\to$ Early branching residues, destabilized by the sterically bulky side chain
 		- Isoleucine (Ile, I)
 		- Serine (Ser, S) $\to$Too much polarity (H-bond)
 		- Asparagine (Asn, N) $\to$Too much polarity (H-bond)
