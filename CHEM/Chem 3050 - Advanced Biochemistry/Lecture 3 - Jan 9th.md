@@ -96,7 +96,6 @@ R group not involved with H-bonding but affects bkrics
 - $\beta$-turn Type 1: Pro common in position 2 + anything in position 3
 - $\beta$-turn Type 2: Requires glycine in position 3
 	![[Pasted image 20260112094851.png]]
-- asdf
 - Supersecondary Structure
 	- $\beta$-Hairpin
 	- Helix turn Helix
