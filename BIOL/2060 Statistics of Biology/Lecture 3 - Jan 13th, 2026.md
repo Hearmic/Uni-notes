@@ -18,9 +18,10 @@
 - Cannot be negative
 - Has same units as the original variable (variance units are in units^2)
 - Has an important connection to the normal frequency distribution
-- For a variable with a normal distribution 68% of the values like within 1 standard deviation of the mean
-- 95% lie within 2 standard deviation
-- 99.7% lie within 3 standard deviation
+- For a variable with a normal distribution 
+	- 68% of the values lie within 1 standard deviation of the mean
+	- 95% lie within 2 standard deviations
+	- 99.7% lie within 3 standard deviations
 ![[Pasted image 20260113122553.png]]
 
 ### Normal distribution is symmetrical
@@ -41,4 +42,14 @@ $$CV = 100\frac{SD}{mean}$$
 
 - Allows comparison of spreads measured in different units
 
-### Median is the second-most comm
+### Median is the second-most common way to describe a location
+- If n is an even number, the median is the mean of the middle-most pair
+	- Median = $[Y_{n/2} + Y_{n/2+1}] / 2$
+- If n is an odd number, median = $Y_{n/2+1} / 2$
+
+### Quartiles partition the data into quarters
+- 1st Quartile: 0.25n, 3rd Quartile: 0.75n
+- If it's an integer, it is the average of the 0.25nth datum and the next higher datum
+- If 0.25n is not an inteer, round up to the next highest integer to find 1st/3rd quartile:
+- The interquartile range (IQR) is the middle 50% of the data between the first and third quartiles
+
