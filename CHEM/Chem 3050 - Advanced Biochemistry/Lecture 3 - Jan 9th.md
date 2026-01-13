@@ -155,7 +155,7 @@ Hydrophobic Interaction along $\alpha$-helical segment
 	- Proline 17% with post-translational modification (4-Hydroxyprolyl residue (Hyp), 3-Hydroxyprolyl residue, 5-Hydroxylysyl residue (Hyl))
 	- Nearly one-third of its residues are glycine; another 15 to 30% of its residues are proline and 4-hydroxyprolyl (Hyp).
 	- 3-Hydroxyprolyl and 5-hydroxylysyl (Hyl) residues alsooccur in collagen, but in smaller amounts
-	- Prolyl Residue -> Hydroxyprolyl Residue, Lysyl Residue -> Hydroxylysyl Residue (byreaction alpha ketoglutarate -> succinate, Ascorbate as a cofactor)
+	- Prolyl Residue -> Hydroxyprolyl Residue, Lysyl Residue -> Hydroxylysyl Residue (byreaction alpha-ketoglutarate -> succinate, Ascorbate as a cofactor)
 	- Glycosylation
 - Collagen Synthesis
 
