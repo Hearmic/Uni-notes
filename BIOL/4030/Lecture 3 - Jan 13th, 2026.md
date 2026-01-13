@@ -27,3 +27,4 @@ The substrate specificity could be reduced further to three types (0.41% general
 
 The substrate uncovered for a given kinase helps model it location in the kinase if the structure is not known
 
+Pedptide -> list of kinase (ranked)
