@@ -10,9 +10,6 @@ Two major categories based on R-groups:
 	- Polar Uncharged (can carry )
 	- Acidic Amino Acids (carry positive charge)
 	- Basic Amino Acids (carry negative charge)
-
-### Nonpolar
-
 #### Aliphatic Amino Acids
  - 
 
@@ -23,7 +20,6 @@ Two major categories based on R-groups:
 #### Special
 - Proline (Pro, P): Ring Structure, Destabilizes 2nd structure
 - Methionine (Met, M)
-
 ### Polar Uncharged Amino Acids
 Carry Permanant Dipole
 - Cysteine (Cys, C)
@@ -31,17 +27,16 @@ Carry Permanant Dipole
 - Threonine (Thr, T)
 - Asparagine (Asn, N)
 - Glutamine (Gln, Q)
-
 ### Polar Acidic Acids
 - Aspartic Acid (Asp, D)
 - Glutamic Acid (Glu, E)
-
 ### Polar Basic Amino Acids
 Potential to be a positive charge
 - Arginine (Arg, R)
 - Lysine (Lys, K)
 - Histidine (His, H)
 
+### Chirality, Zwitterions:
 $\alpha$-Amino Acids are Chiral
 L-Alanine (Natural) vs D-Alanine
 - Correspond to the R and S configuration
@@ -74,8 +69,8 @@ Local structure
 R group not involved with H-bonding but affect bkrics
 - $\alpha$-Helix: 
 	- The core of the helix is tightly packed
-	- more compact than the fully extended polypeptide chain with phi/psi angles of 180 degree
-	- the average number of amino acids in a helix is 11, which gives 3 turns) 
+	- more compact than the fully extended polypeptide chain, with phi/psi angles of 180 degrees
+	- The average number of amino acids in a helix is 11, which gives 3 turns) 
 	- The Left-handed helix is rare
 	- The R-groups face outside of the helix
 	- influence folding
