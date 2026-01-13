@@ -23,8 +23,22 @@
 - 99.7% lie within 3 standard deviation
 ![[Pasted image 20260113122553.png]]
 
-### Normal districbution is symmetrical
+### Normal distribution is symmetrical
 
-### Chaning measurement units
+### Changing measurement units
 - If conversion requires multiplying original values by a constant, c
-- 
+- New mean and standard deviations:
+	- Mean: $c\overline{Y}^{'} = c\overline{Y}$
+	- Standard deviation $s^{'} = \left| c \right|s$
+	- Variance $s^{'2}=c^2s^2$
+
+### Values should not be rounded untiil the end of a calculation
+- Don't round numbers into your calcular until you have the final result
+
+### The coefficient of variation (CV) is the standard deviation as a percentage of the mean
+
+$$CV = 100\frac{SD}{mean}$$
+
+- Allows comparison of spreads measured in different units
+
+### Median is the second-most comm

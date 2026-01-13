@@ -133,12 +133,12 @@ R group not involved with H-bonding but affects bkrics
 - $\alpha$-Keratin: Occurs in mammals (hair, nail, horns)
 - $\beta$-Keratin: Occurs in birds and reptiles
 - Humans have more than 50 keratin genes that are expressed in a tissue-specific manner.
-- Keratin tissue comes from cells it's filled with keratin
+- Keratin tissue comes from cells, it's filled with keratin
 
 ##### Coiled Coil Repeats
 - Type 1 - Acidic Keratin
 - Type 2 - Basic Keratin
-- Type 1 and 2 form dimer (by ionic interaction)
+- Type 1 and 2 form a dimer (by ionic interaction)
 
 - a-helical region in monomer
 - coiled coil dimer
