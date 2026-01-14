@@ -10,13 +10,13 @@ Domain - Kingdom - Phylum - Class - Order - Family - Genus - Species - Subspecie
 - Two key elements retained today
 	- Dynamic earth and climates
 	- Dynamic species - improved or degenerated
-
 ### Hutton and Lyell proposed Uniformitarianism and Gradualism
 
+### Lamarck - Theory of inheritance of acquired characteristics
 
-Lamarck - Theory of inheritance of acquired characteristics
-Thomas R. Malthus (1766-1834) - Environment Carrying Capacity
-
+### Thomas R. Malthus - Population Growth
+(1766-1834)
+- Environment Carrying Capacity
 ### Charles Darwin - Theory of Natural Selection
 (1809 - 1882)
 1. Variation within populations is important
