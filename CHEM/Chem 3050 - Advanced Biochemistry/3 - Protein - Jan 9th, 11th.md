@@ -126,6 +126,7 @@ R group not involved with H-bonding but affects bkrics
 	- Available for release
 	- Reactivate in the dimer form
 
+Ramachandran Plot
 ### Fibrous Proteins
 
 #### Keratin
@@ -158,11 +159,26 @@ Hydrophobic Interaction along $\alpha$-helical segment
 	- Prolyl Residue -> Hydroxyprolyl Residue, Lysyl Residue -> Hydroxylysyl Residue (byreaction alpha-ketoglutarate -> succinate, Ascorbate as a cofactor)
 	- Glycosylation
 - Collagen Synthesis
-	- Synthesis of polypeptide by ribosome attached to ER
+	- Synthesis of a polypeptide by the ribosome attached to the ER
 	- Release of collagen fiber into ER Lumen -> Procollagen
 	- Hydroxylation, Glycosylation
-	- Assembly of Triple Helix - Every 3rd residue of each chain passes through the center of triple helix -> only Glycine can fit
+	- Assembly of Triple Helix - Every 3rd residue of each chain passes through the center of the triple helix -> only Glycine can fit
 	- Secretion through the Golgi and Transport Vesicles
-	- 
-### Ramachandran Plot
+	- Extracellular Matrix - Cleavage of Propeptides (Tropocollagen) -> Assembly of Collagen Fibril -> Crosslinking and Hydrogen Bonding -> Collagen Fiber
+- Collagen Crosslinking
+	- Not a disulfide bond (almost no Cys in collagen)
+	- Long names: 
+		- dehydro- hydroxy- lysinonorleucine (DeH-HLNL)
+		- histidino- hydroxy- lysinonorleucine (HHL)
+		- histidino- hydroxy- merodesmosine (HHMD)
+	- Tend to happen near N/C termini
+	- The degree of crosslinking in tissue increases with age (meat from older meat is tougher)
+### Globular Proteins
+- Spheroproteins (roughly spherical shape)
+- Water soluble
+- Enzymes catalyze organic reactions taking place in the organism in mild conditions and with great specificity. Different esterases fulfill this role.
+- Messengers, by transmitting messages to regulate biological processes. This function is done by hormones, i.e. insuline etc
+- Transporters of other molecules through membranes
+- Regulatory roles are also performed by globular proteins rather than fibrous proteins
+- Structural support
 
