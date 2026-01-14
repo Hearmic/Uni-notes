@@ -1,4 +1,4 @@
-Proteins are made of $\alpha$-Amino Acids
+### Proteins are made of $\alpha$-Amino Acids
 
 20 Major Amino Acids
 Two major categories based on R-groups:
@@ -20,17 +20,17 @@ Two major categories based on R-groups:
 #### Special
 - Proline (Pro, P): Ring Structure, Destabilizes 2nd structure
 - Methionine (Met, M)
-### Polar Uncharged Amino Acids
+#### Polar Uncharged Amino Acids
 Carry Permanant Dipole
 - Cysteine (Cys, C)
 - Serine (Ser, S)
 - Threonine (Thr, T)
 - Asparagine (Asn, N)
 - Glutamine (Gln, Q)
-### Polar Acidic Acids
+#### Polar Acidic Acids
 - Aspartic Acid (Asp, D)
 - Glutamic Acid (Glu, E)
-### Polar Basic Amino Acids
+#### Polar Basic Amino Acids
 Potential to be a positive charge
 - Arginine (Arg, R)
 - Lysine (Lys, K)
@@ -111,14 +111,14 @@ R group not involved with H-bonding but affects bkrics
 	- Many sequences can form it
 	- 15 different protein families (conversion evolution)
   
-### Tertiary
+#### Tertiary
 3D shape of protein
 - Ionic
 - van der Waals
 - Dipole-Diple
 - Hydrophobic effect
 - Disulfide Bridges (two Cystine residues, not spontaneous, enzyme required)
-### Quaternary
+#### Quaternary
 - Insulin forms a quaternary protein structure
 - Inactive hexameric structure provides a way to store the insulin hormone prior to release
 - Insulin hexamer is for storing
@@ -148,7 +148,7 @@ Ramachandran Plot
 Eight tetramers twisted into a ropelike filament
 Hydrophobic Interaction along $\alpha$-helical segment
 
-### Collagen
+#### Collagen
 - Tendon, Ligament
 - Most abundant 25%-35% of the animal body
 - Type 1: 
@@ -182,7 +182,7 @@ Hydrophobic Interaction along $\alpha$-helical segment
 - Regulatory roles are also performed by globular proteins rather than fibrous proteins
 - Structural support
 
-#### Integral Membrane Protein
+### Integral Membrane Protein
 - Integral bitropic (cross-membrane on both sides) and polytropic (many times) proteins 
 - Integral monotropic proteins (attached to only one side of the membrane)
 	- 1. amphipathic $\alpha$-helix
@@ -195,7 +195,11 @@ Hydrophobic Interaction along $\alpha$-helical segment
 - Temporally attached to lipids or integral proteins by hydrophobic/electrostatic (non-covalent)
 - Dissociate by polar reagents (high salt, pH) (easier than integral proteins)
 
-### Intrinsically Disordered Proteins
+### Intrinsically Disordered Proteins (IDP)
 - often adopt a specific secondary or tertiary structure when they bind to other molecules, such as ions, organic molecules, proteins, and nucleic acids.
 - Lacks fixed structure -> flexibility allows different conformation
-- 
+- Important in cell signaling, transcription, and chromatin remodeling
+
+### Protein Folding
+- Hydrophobic Collapse (maximize hydrophilic/hydrophobic residues close to/away from the water environment)
+- Water Clathrates - water forms a rigid shell around the hydrophobic group, with an ordered arrangement of $H_2O$ $\to$ entropy decrease
