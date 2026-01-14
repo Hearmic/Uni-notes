@@ -203,3 +203,11 @@ Hydrophobic Interaction along $\alpha$-helical segment
 ### Protein Folding
 - Hydrophobic Collapse (maximize hydrophilic/hydrophobic residues close to/away from the water environment)
 - Water Clathrates - water forms a rigid shell around the hydrophobic group, with an ordered arrangement of $H_2O$ $\to$ entropy decrease
+
+### Molecular Chaperones
+- Binds and stabilizes otherwise unstable proteins
+- ex) Hsp90, Among the most abundant proteins in eukaryotes, accounting for up to 6% of cellular protein, under stressful conditions that destabilize proteins.
+- ex) GroEL/ES Chaperonin (E-coli)
+
+### Protein Denaturation
+- 
