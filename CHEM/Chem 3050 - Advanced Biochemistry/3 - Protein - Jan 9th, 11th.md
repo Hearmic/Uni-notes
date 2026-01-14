@@ -176,9 +176,26 @@ Hydrophobic Interaction along $\alpha$-helical segment
 ### Globular Proteins
 - Spheroproteins (roughly spherical shape)
 - Water soluble
-- Enzymes catalyze organic reactions taking place in the organism in mild conditions and with great specificity. Different esterases fulfill this role.
-- Messengers, by transmitting messages to regulate biological processes. This function is done by hormones, i.e. insuline etc
+- Enzymes that catalyze organic reactions taking place in the organism in mild conditions and with great specificity. Different esterases fulfill this role.
+- Messengers, by transmitting messages to regulate biological processes. This function is done by hormones, i.e. insulin etc
 - Transporters of other molecules through membranes
 - Regulatory roles are also performed by globular proteins rather than fibrous proteins
 - Structural support
 
+#### Integral Membrane Protein
+- Integral bitropic (cross-membrane on both sides) and polytropic (many times) proteins 
+- Integral monotropic proteins (attached to only one side of the membrane)
+	- 1. amphipathic $\alpha$-helix
+	- 2. hydrophobic loops
+	- 3. Covalent bond linkage (lipidation)
+	- 4. Electrostatic or ionic interaction with lipids
+- Dissociate by detergents
+
+### Peripheral Membrane Protein
+- Temporally attached to lipids or integral proteins by hydrophobic/electrostatic (non-covalent)
+- Dissociate by polar reagents (high salt, pH) (easier than integral proteins)
+
+### Intrinsically Disordered Proteins
+- often adopt a specific secondary or tertiary structure when they bind to other molecules, such as ions, organic molecules, proteins, and nucleic acids.
+- Lacks fixed structure -> flexibility allows different conformation
+- 
