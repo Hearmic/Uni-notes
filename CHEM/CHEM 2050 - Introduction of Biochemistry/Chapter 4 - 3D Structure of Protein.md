@@ -58,7 +58,7 @@
 	- Contains two antiparallel $\alpha$-helices
 	- Also called helix-turn-helix
 - $\beta$-meander
-	- Antiparallel sheet is formed y a series of tight revere turn connecting stretches of the polypeptide chain
+	- Antiparallel sheet is formed by a series of tight revere turn connecting stretches of the polypeptide chain
 - Greek key
 	- Formed when a polypeptide chain doubles back on itself
 - $\beta$-barrel - Created when $\beta$-sheets are extensive enough to fold back on themselves
@@ -66,3 +66,10 @@
 	- The Greek key patterns occurs in human prealbumin
 	- A $\beta$-barrel involveing alternating $\beta\alpha\beta$ units. This arrangement occurs in triose phosphate isomerase from chicken muscle.
 	- Top and side view of the polypeptide backbone arrangement in triose phosphate isomerase. Note thatthe $\alpha$-helical section lie outside the actual $\beta$-barrel
+
+### Domains
+- A region of a protein chain that folds independently from the rest
+- Domains often have a specific function and are conserved between different proteins
+- When separated from the protein, domains often retain their function
+- ex) Calmodulin
+
