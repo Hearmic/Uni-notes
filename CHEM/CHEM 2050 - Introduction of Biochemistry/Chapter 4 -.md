@@ -25,9 +25,9 @@
 - Ramachandran plot of phi ($\phi$) and psi ($\psi$) angles
 - $\alpha$-helix
 	- Stabilized by hydrogen bonds parallel to the chain direction within the backbone, all R groups point outward
-	- Helix is right-handed
+	- Helix is right-handed (clockwise)
 	- 3.6 residues per turn
-	- Pitch: 5.4 A
+	- Pitch: 5.4 A ($10^{-10}m$)
 	- PDB example 1JRJ
 - $\beta$-sheet
 	- 
