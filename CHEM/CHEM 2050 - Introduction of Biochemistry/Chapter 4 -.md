@@ -29,5 +29,13 @@
 	- 3.6 residues per turn
 	- Pitch: 5.4 A ($10^{-10}m$)
 	- PDB example 1JRJ
+- Factors that disrupt the $\alpha$-helix
+	- Bending of the polypeptide backbone because of proline
+		- Restricts rotation due to its cyclic structure
+		- Results in absence of the N-H for hydrogen bonding in the $\alpha$-amino group
+	- Strong electrostatic repulsion caused by the proximity of several side chains of like charges
+		- examples - Lys and Arg or Glu and Asp
+	- Steric repulsion, or crowding, caused by the proximity of bulky side chains
+		- Example - val, iLe, Thr
 - $\beta$-sheet
 	- 
