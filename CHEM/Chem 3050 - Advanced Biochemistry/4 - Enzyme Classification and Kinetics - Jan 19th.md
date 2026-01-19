@@ -42,5 +42,22 @@
 
 ### Enzyme-Substrate Binding
 - Only small # (~10) residues are involved in the active site
-- Rest residues mediate interaction with outside
-- Shapes & Charg
+- Rest residues mediate interaction with outside 
+- Shapes & Charged properties -> Precise orientation of substrate
+- Bind to a single substrate molecule
+
+### Some enzymes need cofactors
+- Metal ions / organic molecule
+- Holoenzyme (enzyme where cofactor bound)
+- ==Apoenzyme==: coenzyme (small organic molecule that can bind & release at certain frequency)
+- Apoenzyme-Prosthetic Group (Small organic molecule binds really tightly)
+- Apoenzyme-Metal Ion (cofactor)
+
+### Enzyme and Reaction Rate
+- S -> P
+- Enzyme enhances reaction rate but don't change equalibrium
+- $K_{eq}$ = $\frac{Product concentration at end point}{Substrate concentration at end point}$ = 
+- E + S $\to$ ES complex $\to$ E + P
+- Enzyme reduce the activation energy required for a reaction
+- Enzyme Assays
+	- p-Nitrophenyl Orthophosphate (colorless) -> p-Nitrophenyl (bright yellow under alkaline conditions) Alkal
