@@ -36,6 +36,11 @@
 	- Strong electrostatic repulsion caused by the proximity of several side chains of like charges
 		- examples - Lys and Arg or Glu and Asp
 	- Steric repulsion, or crowding, caused by the proximity of bulky side chains
-		- Example - val, iLe, Thr
-- $\beta$-sheet
-	- 
+		- Example - Val, Ile, Thr, Trp
+- $\beta$-pleated sheet
+	- Stabilized by hydrogen bonds perpendicular to the chain direction
+	- Can be intra- or interchain
+	- Can be parallel (A) or antiparallel (B)
+	- PDB example: 1LE0
+	- Not completely flat
+- 
