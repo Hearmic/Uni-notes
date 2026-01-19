@@ -31,4 +31,16 @@
 - ex) Aminoacyl-tRNA synthetase for methionine
 - ex) DNA Ligase: 
 	- 1. Enzyme attached to AMP
-	- 2. DNA 
+	- 2. DNA-diphosphate linkage (Transfer of AMP)
+	- 3. 3' OH nucleophilic attack, AMP leaves, DNA linked (Nucleophilic attack of the 5' terminus)
+
+## Enzyme Kinetics
+
+### The Catalytic Constant
+- $k_{cat}$ = turnover rate or frequency (# of substrates that can be converted into product by one enzyme molecule per time)
+- How good is the active site?
+
+### Enzyme-Substrate Binding
+- Only small # (~10) residues are involved in the active site
+- Rest residues mediate interaction with outside
+- Shapes & Charg

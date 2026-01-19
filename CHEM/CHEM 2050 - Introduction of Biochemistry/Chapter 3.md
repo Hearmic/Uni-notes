@@ -94,3 +94,5 @@ $$
 - Consider the amino acids: D, A, R, E, L, and K
 	- Which of the these amino acids has a not charge of +2 at low pH? D and E
 	- Which has a net charge of -2 at high pH? R and K
+
+[[Chapter 3 - 2]]
