@@ -60,4 +60,5 @@
 - E + S $\to$ ES complex $\to$ E + P
 - Enzyme reduce the activation energy required for a reaction
 - Enzyme Assays
-	- p-Nitrophenyl Orthophosphate (colorless) -> p-Nitrophenyl (bright yellow under alkaline conditions) Alkal
+	- p-Nitrophenyl Orthophosphate (colorless) -> p-Nitrophenyl (bright yellow under alkaline conditions) catalyzed by Alkaline Phosphatase
+	- Product increase at a rapid rate (constant rate), Over time rate slows down
