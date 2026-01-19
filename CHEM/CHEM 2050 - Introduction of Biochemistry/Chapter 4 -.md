@@ -15,4 +15,19 @@
 - Determines the 3-D conformation of the protein, which determines its properties
 	- Determination of this sequence is a routine operation in classical biochemistry
 - Changes in one amino acid residue in a sequence can alter biological functions 
-	- Example - Hemoglobin associated with sickle-cell aneia
+	- Example - Hemoglobin associated with sickle-cell anemia
+
+### Secondary Structure
+- Hydrogen-bonded arrangement of the polypeptide chain backbone
+- Each amino acid residue has two bonds with free rotation that are designated by the angles phi ($\phi$) and psi ($\psi$)
+	- $\phi$ : bond between the $\alpha$-carbon and amino nitrogen of that residue
+	- $\psi$ : Bond between the $\alpha$-carbon and carboxyl carbon of that residue
+- Ramachandran plot of phi ($\phi$) and psi ($\psi$) angles
+- $\alpha$-helix
+	- Stabilized by hydrogen bonds parallel to the chain direction within the backbone, all R groups point outward
+	- Helix is right-handed
+	- 3.6 residues per turn
+	- Pitch: 5.4 A
+	- PDB example 1JRJ
+- $\beta$-sheet
+	- 
