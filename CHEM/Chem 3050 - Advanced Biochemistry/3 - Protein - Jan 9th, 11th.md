@@ -210,9 +210,9 @@ Hydrophobic Interaction along $\alpha$-helical segment
 - ex) GroEL/ES Chaperonin (E-coli)
 
 ### Protein Denaturation
-- Caused by heat, pH, salts (urea)
+- Caused by heat, pH, and salts (urea, Guannidium chloride), an electric field, and mechanical force, crowding (called stresses)
 - Assume secondary & tertiary structure is broken, retaining only primary structure
 - Random Coil
+### Protein Hydrolysis
 - 
-
 ### [[4 - Jan 14th]]
