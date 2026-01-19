@@ -43,4 +43,13 @@
 	- Can be parallel (A) or antiparallel (B)
 	- PDB example: 1LE0
 	- Not completely flat
+	- H-bond between adjacent strand of sheet
+- Reverse Turn
+	- Part of proteins where the polypeptide chain folds back on itself
+	- Often contain glycine for steric reasons
+	- Proline is also encountered in reverse turns because of its cyclic structure
+	- Type 1: In residue 3, the side chain lies outside the turn
+
+### Supersecondary Structures
+- Supersecondary structures/folds/motifs - Result from the combination of $\alpha$ and $\beta$- strands
 - 
