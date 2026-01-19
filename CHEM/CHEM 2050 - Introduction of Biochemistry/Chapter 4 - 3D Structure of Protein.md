@@ -52,4 +52,17 @@
 
 ### Supersecondary Structures
 - Supersecondary structures/folds/motifs - Result from the combination of $\alpha$ and $\beta$- strands
-- 
+- $\beta\alpha\beta$ unit
+	- Two parallel strands of $\beta$-sheet connected by a stretch of $\alpha$-helix
+- $\alpha\alpha$ unit
+	- Contains two antiparallel $\alpha$-helices
+	- Also called helix-turn-helix
+- $\beta$-meander
+	- Antiparallel sheet is formed y a series of tight revere turn connecting stretches of the polypeptide chain
+- Greek key
+	- Formed when a polypeptide chain doubles back on itself
+- $\beta$-barrel - Created when $\beta$-sheets are extensive enough to fold back on themselves
+	- A linked series of $\beta$ meanders. This arrangement occurs in the protein rubredoxin from Clostridium pasteurianum
+	- The Greek key patterns occurs in human prealbumin
+	- A $\beta$-barrel involveing alternating $\beta\alpha\beta$ units. This arrangement occurs in triose phosphate isomerase from chicken muscle.
+	- Top and side view of the polypeptide backbone arrangement in triose phosphate isomerase. Note thatthe $\alpha$-helical section lie outside the actual $\beta$-barrel
