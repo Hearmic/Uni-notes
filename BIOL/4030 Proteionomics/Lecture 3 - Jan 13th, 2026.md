@@ -29,4 +29,4 @@ The substrate uncovered for a given kinase helps model it location in the kinase
 
 Pedptide -> list of kinase (ranked)
 
-[[Lecture 4 - Jan 20th, 2026]]
+[[Uni-notes/BIOL/4030 Proteionomics/Lecture 4 - Jan 20th, 2026]]

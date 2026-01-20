@@ -130,4 +130,4 @@ Try different types of graphs to see which reveal patterns most clearly
 - Avoid red and green as a distinguishing colour pair
 - Use clearly distinguishable graphical symbols
 
-### asdf
+[[Uni-notes/BIOL/2060 Statistics of Biology/Lecture 3 - Jan 13th, 2026]]

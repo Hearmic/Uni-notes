@@ -117,3 +117,5 @@ Discrete vs Continuous Variables
    Random sample: Students from 5 courses from 5 different faculties selected using a random number generator.
    Biased sample: Varsity basketball team
    variable: Height, Numerical, Continuous
+
+[[Uni-notes/BIOL/2060 Statistics of Biology/Lecture 2 - Jan 8th, 2026]]

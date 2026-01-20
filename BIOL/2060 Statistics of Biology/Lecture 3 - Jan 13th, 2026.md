@@ -50,6 +50,9 @@ $$CV = 100\frac{SD}{mean}$$
 ### Quartiles partition the data into quarters
 - 1st Quartile: 0.25n, 3rd Quartile: 0.75n
 - If it's an integer, it is the average of the 0.25nth datum and the next higher datum
-- If 0.25n is not an inteer, round up to the next highest integer to find 1st/3rd quartile:
+- If 0.25n is not an integer, round up to the next highest integer to find 1st/3rd quartile:
 - The interquartile range (IQR) is the middle 50% of the data between the first and third quartiles
+- ==Interquartile Range (IQR)==
+
+[[Uni-notes/BIOL/2060 Statistics of Biology/Lecture 4 - Jan 20th, 2026]]
 
