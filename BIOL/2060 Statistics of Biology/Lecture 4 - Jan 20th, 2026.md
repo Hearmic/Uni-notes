@@ -6,7 +6,7 @@
 
 ### The standard error of an estimate is its standard deviation
 - Measures the precision of the estimate
-- The standard error of the mean = $\sigma_{Y} = \frac{\sigma}{\sqrt{n}}$
+- The standard error of the mean = $\sigma_{\overline{Y}} = \frac{\sigma}{\sqrt{n}}$
 - 
 
 
