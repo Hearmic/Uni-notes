@@ -28,9 +28,13 @@ The probability of an even = the proportion of all random trials in which the ou
 - Discrete probability distributions: for discrete or categorical variables
 
 ### The additional rule is used to calculate the probability that one of two or more mutually exclusive events will occur:
-$$Pr[A or B] = Pr[A] + Pr[B]$$
+$$Pr[A\ or\ B] = Pr[A] + Pr[B]$$
 ### The general addition rule is used when two events are not mutually exclusive
-$$Pr[A or B] = Pr[A] + Pr[B] - Pr[A and B]$$
+$$Pr[A\ or\ B] = Pr[A] + Pr[B] - Pr[A\ and\ B]$$
+![[Pasted image 20260120123200.png]]
 
+### Events are <u>independent</u> if the occurrence of one does not affect the probability of the occurrence of the other
 
+### Rule of Multiplication: for independent events A and B
+$$Pr[A\ and\ B ] = Pr[A]\Pr[B]$$
 
