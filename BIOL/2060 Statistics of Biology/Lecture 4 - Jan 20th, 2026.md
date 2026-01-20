@@ -23,10 +23,14 @@ The probability of an even = the proportion of all random trials in which the ou
 
 ### Events are mutually exclusive if they cannot both occur at the same time
 - e.g., flipping a coin and getting "heads" vs. flipping a coin and getting "tails"
-- Sampling a random animal that ahs teeth vs sampling a random animal that has feathers
-
+- Sampling a random animal that has teeth vs sampling a random animal that has feathers
 ### A probability distribution shows (or lists) the probabilities of all the possible outcomes of a random trial
 - Discrete probability distributions: for discrete or categorical variables
+
+### The additional rule is used to calculate the probability that one of two or more mutually exclusive events will occur:
+$$Pr[A or B] = Pr[A] + Pr[B]$$
+### The general addition rule is used when two events are not mutually exclusive
+$$Pr[A or B] = Pr[A] + Pr[B] - Pr[A and B]$$
 
 
 
