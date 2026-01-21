@@ -43,3 +43,15 @@
 - $O_2$ binds to the Iron (II) on the opposite side of His-93 (F8)
 - His-64 (E7) is close to the bound $O_2$, weakens the binding geometry due to steric strain
 - $O_2$ binds at a bent angle rather than in a linear fashion
+- Oxygen and Carbon Monoxide Binding to the Heme Group of Myoglobin
+  ![[Pasted image 20260121121518.png]]
+
+
+## Denaturation
+- Unraveling of the 3D structure of a macromolecule caused by the breakdown ov non-covalent and covalent interactions that can result from
+	- Heat
+	- Large changes in pH, which alter charges on side chians
+	- Detergents, such as sodium dodecyl sulfate (SDS)
+	- Chaotrophic agents, such as urea and guanidine hydrochloride, which disrupt hydrogen bonding
+	- $\beta$-mercaptoethanol, which reduces disulfide bonds
+	- 
