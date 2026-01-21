@@ -29,4 +29,11 @@
 	- Restrict folding patterns available to polypeptide chains
 	- Absent in myoglobin and hemoglobin but present in many other structures
 
-### 
+### Myoglobin
+- Consists of a single polypeptide chain of 153 amino acid residues and a prosthetic groups, heme, in a hydrophobic pocket
+	- Heme: Iron-containing cyclic compound
+- Carries eight $\alpha$-helical regions, which are stabilized by hydrogen bonding in the polypeptide backbone
+- Exterior contains most of the polar side chains
+- Interior contains non-polar side chains and two histidine residues that are involved in interactions with the heme group and bound $O_2$
+- First protein to have its 3D structure completely solved with X-ray crystallography
+
