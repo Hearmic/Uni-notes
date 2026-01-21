@@ -63,11 +63,20 @@
 	- Entire protein could be called dimers, trimers, tetramers, etc.
 	- Chains interact with one another noncovalently via electrostatic attractions, hydrogen bonds, and via the hydrophobic effect
 - Conformational changes in one subunit can induce changes in other subunits (allostery)
-
-
 ### Hemoglobin
 - Tetramer with:
 	- Two $\alpha$-chains (141 residues long)
 	- Two $\beta$-chains (146 residues long)
 - Overall structure - $\alpha_2 \beta_2$
-- Most amino acids of the alpha chain, beta chain, and myoglobin are homologous
+- Most amino acids of the $\alpha$-chain, $\beta$-chain, and myoglobin are homologous
+
+#### Oxygen binding of hemoglobin (Hb)
+- One molecule of myoglobin binds one $O_2$
+	- Hemoglobin can bind up to four molecules of $O_2$
+- Binding of $O_2$ to hemoglobin exhibits positive cooperativity
+	- When one $O_2$ is bound, it becomes easier for the next $O_2$ to bind
+	  ![[Pasted image 20260121124000.png]]
+	- Myoglobin (hyporbolic curve), Hemoglobin (sigmoidal curve)
+### Myoglobin vs Hemoglobin
+- Myoglobin
+	- Function - Oxygen S
