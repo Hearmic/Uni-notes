@@ -53,5 +53,21 @@
 	- Large changes in pH, which alter charges on side chians
 	- Detergents, such as sodium dodecyl sulfate (SDS)
 	- Chaotrophic agents, such as urea and guanidine hydrochloride, which disrupt hydrogen bonding
+	  ![[Pasted image 20260121122802.png]]
 	- $\beta$-mercaptoethanol, which reduces disulfide bonds
-	- 
+
+
+## Quaternary Structure of Proteins
+- Pertains to proteins that consist of more than one polypeptide chain
+	- Each chain is called a subunit
+	- Entire protein could be called dimers, trimers, tetramers, etc.
+	- Chains interact with one another noncovalently via electrostatic attractions, hydrogen bonds, and via the hydrophobic effect
+- Conformational changes in one subunit can induce changes in other subunits (allostery)
+
+
+### Hemoglobin
+- Tetramer with:
+	- Two $\alpha$-chains (141 residues long)
+	- Two $\beta$-chains (146 residues long)
+- Overall structure - $\alpha_2 \beta_2$
+- Most amino acids of the alpha chain, beta chain, and myoglobin are homologous
