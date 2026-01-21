@@ -64,7 +64,10 @@
 	- Product increase at a rapid rate (constant rate), Over time rate slows down
 ### Michaelis-Menten Kinetics
 $$
-initial rate of concentration\ (v_0) = \frac{V_{max} * [S]}{[S] + K_m}
+initial\ rate\ of\ concentration\ (v_0) = \frac{V_{max} * [S]}{[S] + K_m}
 $$
-- $K_m$ - Substrate concentration at 1/2 $V_max$
+- $K_m$ - Substrate concentration at 1/2 $V_{max}$
 
+- It an inverse correltation
+	- A low KJm
+- 1. enzyme with low K_m: probably be seturated with substrate at physiological concenctration (constat rate)
