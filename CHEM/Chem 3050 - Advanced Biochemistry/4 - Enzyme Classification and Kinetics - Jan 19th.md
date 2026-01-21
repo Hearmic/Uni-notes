@@ -85,3 +85,26 @@ $$
 		- Subcellular localization
 
 ### Burk Plot
+
+### pH and Enzyme Activity
+- ionization of groups in both enzyme active site and substrate can be altered
+- Each enzyme has optimal pH
+- Proteases
+	- In stomach (pH2 - papain)
+	- in intestine (pH8 - )
+
+### Temperature and Enzyme Activity
+- Higher than optimal -> Denature enzyme -> Lose activity
+- Generally cold: do not negatively impact folding or denature it
+- Unless freezing -> misfold & denature proteins (due to water crystalization)
+
+### Types of Inhibition
+- Reversible
+	- Competitive 
+		- Mimic natural substrate, ex) succinate -> fumarate (with enzyme succinate dehydrogenase, inhibited by malonate)
+		- Increase $K_m$ 
+	- Noncompetitive
+		- 
+	- Uncompetitive
+- Irreversible
+
