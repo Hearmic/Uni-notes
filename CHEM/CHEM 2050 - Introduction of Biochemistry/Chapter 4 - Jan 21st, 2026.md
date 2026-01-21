@@ -37,3 +37,9 @@
 - Interior contains non-polar side chains and two histidine residues that are involved in interactions with the heme group and bound $O_2$
 - First protein to have its 3D structure completely solved with X-ray crystallography
 
+### Heme group
+
+  ![[Pasted image 20260121121019.png]]
+- $O_2$ binds to the Iron (II) on the opposite side of His-93 (F8)
+- His-64 (E7) is close to the bound $O_2$, weakens the binding geometry due to steric strain
+- $O_2$ binds at a bent angle rather than in a linear fashion
