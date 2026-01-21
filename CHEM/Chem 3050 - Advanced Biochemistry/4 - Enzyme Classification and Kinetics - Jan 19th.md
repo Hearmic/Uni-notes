@@ -66,8 +66,18 @@
 $$
 initial\ rate\ of\ concentration\ (v_0) = \frac{V_{max} * [S]}{[S] + K_m}
 $$
-- $K_m$ - Substrate concentration at 1/2 $V_{max}$
+- $K_m$ - Substrate concentration at 1/2 $V_{max}$ - Measures Enzyme Activity
 
-- It an inverse correltation
+- It an inverse correlation
 	- A low KJm
-- 1. enzyme with low K_m: probably be seturated with substrate at physiological concenctration (constat rate)
+- 1. enzyme with low K_m: probably be saturated with substrate at physiological concentration (constant rate)
+- 2. enzyme with high K_m: not saturated, amount of substrate will have big effect on activity -> variate rate of reaction
+
+2. Two enzymes, similar V_max, compare for same substrate K_m can predict relative activity of different pathway
+3. How to control rates in different environment in the body 
+	- binder/inhibitor expression
+	- Splicing (expression level in tissue)
+	- mRNA regulation
+	- Cofactor
+	- pH
+	- 
