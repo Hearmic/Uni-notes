@@ -38,3 +38,5 @@ $$Pr[A\ or\ B] = Pr[A] + Pr[B] - Pr[A\ and\ B]$$
 ### Rule of Multiplication: for independent events A and B
 $$Pr[A\ and\ B ] = Pr[A]\Pr[B]$$
 
+### Events are dependent when the occurrence of one is influecned by the occurrence of the other
+- e.g., in parasitic jewel wasps, the sex of a wasp depends on the conditions of its host
