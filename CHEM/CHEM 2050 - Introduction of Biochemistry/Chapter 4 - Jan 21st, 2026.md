@@ -19,3 +19,14 @@
 - In globular proteins:
 	- Tertiary structure helps determine the way helical and pleated-sheet sections fold back on each other
 	- Interactions between side chains play an essential role in folding
+
+### Forces Involved in
+- H-bond between polar side chains of amino acids
+- Hydrophobic effect (nonpolar side chains)
+- Electrostatic attraction between side chains of opposite charge (salt-bridge, between $NH3^+$ and $COO^-$)
+- Complexing several side chains to a single metal ion (ex: carbonic anhydraze)
+- Disulfide bonds between side chains of cysteines
+	- Restrict folding patterns available to polypeptide chains
+	- Absent in myoglobin and hemoglobin but present in many other structures
+
+### 
