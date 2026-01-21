@@ -17,7 +17,7 @@
 - Changes in one amino acid residue in a sequence can alter biological functions 
 	- Example - Hemoglobin associated with sickle-cell anemia
 
-### Secondary Structure
+## Secondary Structure
 - Hydrogen-bonded arrangement of the polypeptide chain backbone
 - Each amino acid residue has two bonds with free rotation that are designated by the angles phi ($\phi$) and psi ($\psi$)
 	- $\phi$ : bond between the $\alpha$-carbon and amino nitrogen of that residue
