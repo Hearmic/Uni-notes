@@ -62,3 +62,9 @@
 - Enzyme Assays
 	- p-Nitrophenyl Orthophosphate (colorless) -> p-Nitrophenyl (bright yellow under alkaline conditions) catalyzed by Alkaline Phosphatase
 	- Product increase at a rapid rate (constant rate), Over time rate slows down
+### Michaelis-Menten Kinetics
+$$
+initial rate of concentration\ (v_0) = \frac{V_{max} * [S]}{[S] + K_m}
+$$
+- $K_m$ - Substrate concentration at 1/2 $V_max$
+
