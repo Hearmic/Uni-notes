@@ -102,7 +102,7 @@ $$
 - Reversible
 	- Competitive 
 		- Mimic natural substrate, ex) succinate -> fumarate (with enzyme succinate dehydrogenase, inhibited by malonate)
-		- Increase $K_m$ 
+		- Increase $K_m$ (high [s] can outcompete inhibitor)
 	- Noncompetitive
 		- 
 	- Uncompetitive
