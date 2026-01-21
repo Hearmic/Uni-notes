@@ -78,6 +78,10 @@ $$
 	- binder/inhibitor expression
 	- Splicing (expression level in tissue)
 	- mRNA regulation
-	- Cofactor
-	- pH
-	- 
+	- Cofactor availability
+	- pH, Temperature
+	- Different isoforms
+		- Different substrate affinities & kinetics
+		- Subcellular localization
+
+### Burk Plot
