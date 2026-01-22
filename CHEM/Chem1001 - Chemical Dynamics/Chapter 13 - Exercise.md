@@ -23,4 +23,13 @@ a. first order reaction: $mol\ L^{-1} t^{-1}$
 b. second order reaction: $t^{-1}$
 c. zero order reaction: $(mol/L^{-1})^{-1} t^{-1}$
 ![[Pasted image 20260122152607.png]]
-### 
+### 39.
+a. $Rate = k[A][B]^2[C]^3$
+b. 1 + 2 + 3 = 6
+c. 2
+d. 4
+e. 8
+f. 64
+
+### 41. 
+
