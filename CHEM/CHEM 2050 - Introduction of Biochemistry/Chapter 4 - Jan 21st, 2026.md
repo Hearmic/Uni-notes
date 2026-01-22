@@ -79,4 +79,13 @@
 	- Myoglobin (hyporbolic curve), Hemoglobin (sigmoidal curve)
 ### Myoglobin vs Hemoglobin
 - Myoglobin
-	- Function - Oxygen S
+	- Function - Oxygen Storage
+	- Requirement - Bind strongly to $O_2$ at very low pressures
+	- Saturatiion - 50% at 1 torr partial pressure of $O_2$
+- Hemoglobin
+	- Function - Oxygen Transport
+	- Requirement - Bind fairly strongly to $O_2$ and release it
+	- Saturation - 
+
+### Structure of Hemoglobin
+- Structure of oxygenated hemoglobin is different from that of deoxygenated hemoglobin
