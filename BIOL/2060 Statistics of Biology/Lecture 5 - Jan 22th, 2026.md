@@ -29,7 +29,7 @@ Twelve six-sided dice are rolled. Assume all of the dice are fair
 2) What is the probability of rolling no threes out of 12 rolls?
    p = $(\frac{5}{6})^{12}$
 3) On average, what is the sum of the number of spots showing on top of the 12 dice?
-   Y = 3.5 3.5 * 12 = 42
+   $Y = \frac{1 + 2 + 3 + 4 + 5 + 6}{6} = 3.5,\ 3.5 * 12 = 42$
 4) What is the probability that all the dice show only ones and sixes (in any proportion)?
-   
+    p = $(\frac{1}{6})^{12} + (\frac{1}{6})^{12}$
    
