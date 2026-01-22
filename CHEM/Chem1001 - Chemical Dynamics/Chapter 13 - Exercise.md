@@ -15,3 +15,12 @@ $$\frac{1.000 - 0.913\ mol\ L^{-1}}{10 s} = 0.0087\ mol\ L^{-1} s^{-1}$$
 $$\frac{0.697 - 0.637\ mol\ L^{-1}}{10 s} = 0.0060\ mol\ L^{-1} s^{-1}$$
 $$\frac{\Delta C_2H_4}{\Delta t} = 2 * \frac{\Delta C_4H_8}{\Delta t} = \frac{0.835 - 0.763\ mol\ L^{-1}}{10 s} * 2 = 0.0144\ mol\ L^{-1} s^{-1}$$
 ### 35.
+a. First Order
+b. 
+c. $Rate = k[A]$
+### 37. 
+a. first order reaction: $mol\ L^{-1} t^{-1}$
+b. second order reaction: $t^{-1}$
+c. zero order reaction: $(mol/L^{-1})^{-1} t^{-1}$
+![[Pasted image 20260122152607.png]]
+### 
