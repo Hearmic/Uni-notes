@@ -1,0 +1,1 @@
+25. a. $$Rate = -\frac{1}{2}\frac{\delta[HBr]}{\delta t} = \frac{[H_2]}{\delta t} = \frac{[Br_$$
