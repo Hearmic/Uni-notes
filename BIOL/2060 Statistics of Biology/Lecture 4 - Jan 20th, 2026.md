@@ -40,3 +40,5 @@ $$Pr[A\ and\ B ] = Pr[A]\Pr[B]$$
 
 ### Events are dependent when the occurrence of one is influenced by the occurrence of the other
 - e.g., in parasitic jewel wasps, the sex of a wasp depends on the conditions of its host
+
+[[Lecture 5 - Jan 22th, 2026]]
