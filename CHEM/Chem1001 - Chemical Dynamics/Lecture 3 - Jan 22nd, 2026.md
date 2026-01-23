@@ -15,4 +15,11 @@
 - Enzymes provide an alternative mechanism for the biological reaction that is rate-enhanced
 - Some enzymes can speed up the reactions by a factor of 10^9
 
+## Michaelis-Menten equation
+$$rate = k_2[ES]= \frac{k_2[E]_0[S]}{[S] + K_M}$$
+#### If $[S] >> K_M$
+
+$$ rate \approx \frac{k_2 [E]_0[S]}{[S]} = k_2 [E]_0$$
+#### If $[S]<<K_M$ 
+$$ rate \approx \frac{k_2 [E]_0[S]}{K_M}$$
 
