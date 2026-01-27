@@ -73,3 +73,34 @@ Bob Roeder and William Rutter used ion exchange chromatography to demonstrate in
 - 7SK RNA levels were reduced at trevels of $\alpha$-Amanitin above 10 $\micro$g/mL, indicating that RNAP II is responsible
 
 ## RNAP II Structure and Composition
+### Composition of the Three Eukaryotic RNAPs
+Like bacterial RNAP, eukaryotic RNAPs are multi-subunit enzymes.
+- RNAP I - 14 subunits
+- RNAP II - 12 subunits
+- RNAP III - 17 subunits
+Some subunits are shared between the three polymerases
+
+Nomenclature: 
+- Some older studies referred to the polymerases a sRNAP
+
+RNAP II transcribes the largest number of different genes, including all protein-coding genes. It is probably the most regulated of the three nuclear RNAPs and is by far the most studied.
+The composition of RNAP II was determined by chromatography, then confirm by Rick Young and collegues using purification
+- They worked with yeast as a source of eukarytoic
+  
+### Epitope Taging for Purification of yeast RNAP II
+Young and collegues engineered a yeast strain that expressed the known Rpb3 subunit of RNAP II with an HA epitope tag at its N-terminus.
+- Yeast cells were lysed, and Rpb3 was immunoprecipitated using an HA antibody under conitions that did not 
+
+All RNAP II subunits coppurified with HA-Rpb3, as described in cells grwon in either 35S or 32P
+- The autoradiograph of the SDS-PAGE analyses is shown to the right
+- Ten of the twelve subunits were detected in this study. The subunits were named systematically: Rpb1 Rpb2: RNA polymerase B, subunit 1, 2
+- Two subunits--Rpb11 and Rppb 12 were unresolved from the two other two subunits. These were identified in later studies.
+- At least two subunits are phosphorylated. In particular, the largest subunit, Rpb1, appears highly phosphorylated.
+- Convention: 
+	- Gene names (wild type) are written in full capitals and italics: RPB1
+	- Protein names are not written in italics.
+	- Human protein names: usually capitalized: RPB1
+	- Yeast protein names; First letter capitalized: Rpb1 (sometimes Rpb1p)
+
+### RNAP II Subunits
+- The 12 subunit compositionof RNAP II is conserved amongeukarytoes ()
