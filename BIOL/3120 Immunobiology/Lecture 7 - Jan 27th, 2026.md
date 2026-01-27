@@ -38,4 +38,10 @@ Lymphocytes are generated in central or primary Lymphoid organs (Bone marrow & T
 - B Cell -> Bone marrow -> Spleen
 - T Cell -> Bone marrow -> thymus
 
+### A series of events occurs in the primary lymphoid organs
+- Commitment of progenitor cells
+- Proliferation
+- The sequential and ordered rearrangement of antigen receptor genes
+- Selection events that preserve cells that have produced functional antigen receptor proteins and eliminate potentially dangerous cells that strongly recognize self-antigens.
+- Differentiation of B and T cells into functionally and phenotypically distinct subpopulations.
 
