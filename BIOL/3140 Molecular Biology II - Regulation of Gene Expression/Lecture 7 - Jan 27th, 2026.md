@@ -103,4 +103,30 @@ All RNAP II subunits coppurified with HA-Rpb3, as described in cells grwon in ei
 	- Yeast protein names; First letter capitalized: Rpb1 (sometimes Rpb1p)
 
 ### RNAP II Subunits
-- The 12 subunit compositionof RNAP II is conserved amongeukarytoes ()
+- The 12 subunit compositionof RNAP II is conserved among eukarytoes (from yeast to mammals).
+- Genes for all 12 subunits have been sequenced
+- The CTD of RNAP II
+	- A repeated CTD 
+	- Phosphorylation of the CTD of RNAP II
+	- Five of the seven amino acids in the CTD consensus sequence are potential phosphoacceptors (they can be phosphorylated in eukaryotic cells)
+	- Ser, Thr, and Tyr
+	- YSPTSPS
+- Different forms of Rpb1
+	- Electrophoresis analysis of early preparations of RNAP II showed three bands that correspond to the largest subunit, Rpb1, in addition to bands for the other subunits.
+		- RNAP II_o
+		- RNAP II_a
+		- RNAP II_b
+
+#### Roles of Rpb1 Phosphorylation
+- The II_b form that was detected in early preparations was the result of proteolysis and is not likey found in cells.
+- There is a protease-sensitive site on Rpb1 just upstream of the CTD. In fact, the CTD can be removed by treating Rpb1 with chymotrypsin.
+- The other two forms representing phosphorylated and unphosphorylated CTD are found in cells
+- Early experiments by the Michael Dahmus group and others demonstrated the following:
+	- RNAP II with unphosphorylated Rpb1 CTD binds to promoters
+	- The elongating RNAP II contains a phosphorylated CTD
+
+#### Crystal Structure of RNAP II
+- Through X-ray crystallography, the first crystal structures of yeast RNAPII were solved in 2000 and 2001.
+- Just like bacterial RNAP, there is a cleft in which the DNA template passes thorugh
+- The catalytic centre coontains a Mg3+ ion. A second Mg2+ ion is present in low concentrationand enters the enzyme bound the each substrate nucleotide
+- The CTD was not part of
