@@ -127,6 +127,39 @@ All RNAP II subunits coppurified with HA-Rpb3, as described in cells grwon in ei
 
 #### Crystal Structure of RNAP II
 - Through X-ray crystallography, the first crystal structures of yeast RNAPII were solved in 2000 and 2001.
-- Just like bacterial RNAP, there is a cleft in which the DNA template passes thorugh
-- The catalytic centre coontains a Mg3+ ion. A second Mg2+ ion is present in low concentrationand enters the enzyme bound the each substrate nucleotide
-- The CTD was not part of
+- Just like bacterial RNAP, there is a cleft in which the DNA template passes through
+- The catalytic centre contains a Mg3+ ion. A second Mg2+ ion is present in low concentration and enters the enzyme bound the each substrate nucleotide
+- The CTD was not part of the crystal structural generated from these studies it is flexible and sticks out of the globular core, meaning it is disorded and therefore cannot be seens as  a part of crystal structure)
+
+## Eukaryotic Promoters
+The three eukaryotic RNAPs bind and recognize different promoters
+
+- Clas 1 Genes
+	- Trancribed by RNAP I and have class iI promoters - rRNA precuosor
+- Class II
+	- Recognized by RNAP II
+	- They are considered to have two parts:
+		- Core promoter - attracts and binds General Transcription Factors (GTFs) and RNAP II at a basal level and stes the transcription start site and direction of transcription
+		- Proximal promoter - helps attract GTFs and RNAP II to the core promoter and includes promoters 
+	- Core promoter elements
+		-  modular and can contain almost any combination of the following elements (at least one of four promoter is missing):
+			- TATA box (found on ~10$% of promoters)
+			- TFIIB recognition element (BRE)
+			- Initiator (Inr) (found on 50% of promoters)
+			- Downstream core elements (DCE)
+				- Downstream promoter element (DPE)
+				- Motif ten element (MTE)
+			- At least one of the four core elements is missing in most promoters
+		- TATA box
+			- Promoters are often sub-classified as TATA-containing or TATA-less,
+			  referring to the presence of absenece of this elements
+			- It consists of the consensus sequence TATAAA
+	- Proximal promoter elements:
+		- sequences usually found upstream of class II core promoters.
+		- They differ from core promoters in that they bind to sequence-specific transcription factors (ssTFs, or simply TFs), as opposed to the general transcription machinery (GTFs and RNAP II).
+		- Upstream promoter elements can be 
+			- Orientation-independent: They still function if they are switched to 
+			- Orientation-depentdent
+- Class I
+	- RNAP I transcribes the ribosomal RNA gene (rDNA)
+	- The rDNA gene is repeated hundreds of times in tandem and produces an rRNA precursor that is processed to form the mature rRNA s that form the r
