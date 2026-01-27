@@ -60,4 +60,16 @@ Bob Roeder and William Rutter used ion exchange chromatography to demonstrate in
 - The results of several different types of experiments subsequently showed that each RNAP transcribes different classes of genes. These are summarized below.
 - RNAP I: Most rRNAs
 - RNAP II: mRNAs, Most snRNAs, miRNAs
-- RNAP III: tRNAs SSS rRNA, U6
+- RNAP III: tRNAs SS rRNA, U6 snRNA, Other small RNAs
+
+### Alpha ($\alpha$)- Amanitin
+- a toxin that is produced in poisonous mushrooms
+- RNAP II (1 to 10 $\micro$g) and III (10 to 1000 $\micro$g) are affected 
+- Example: Identifying the RNAP responsible for 7SK transcription
+- In vitro transcription was performed using a nuclear extract competent for transcription (containing all three RNAPs)
+- A plasmid containing the 7SK gene and its natural promoter was included.
+	- As a control, a plasmid with the VA1 gene, known to be transcribed by RNAP III, was also included
+- Increasing concentrations of $\alpha$-amanitin were added, and the amount of transcript produced was monitored by electrophoresis.
+- 7SK RNA levels were reduced at trevels of $\alpha$-Amanitin above 10 $\micro$g/mL, indicating that RNAP II is responsible
+
+## RNAP II Structure and Composition
