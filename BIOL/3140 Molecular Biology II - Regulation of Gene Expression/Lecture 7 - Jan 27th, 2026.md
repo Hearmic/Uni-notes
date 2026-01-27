@@ -135,11 +135,11 @@ All RNAP II subunits coppurified with HA-Rpb3, as described in cells grwon in ei
 The three eukaryotic RNAPs bind and recognize different promoters
 
 - Clas 1 Genes
-	- Trancribed by RNAP I and have class iI promoters - rRNA precuosor
+	- Transcribed by RNAP I and have class iI promoters - rRNA precuosor
 - Class II
 	- Recognized by RNAP II
 	- They are considered to have two parts:
-		- Core promoter - attracts and binds General Transcription Factors (GTFs) and RNAP II at a basal level and stes the transcription start site and direction of transcription
+		- Core promoter - attracts and binds General Transcription Factors (GTFs) and RNAP II at a basal level and sets the transcription start site and direction of transcription
 		- Proximal promoter - helps attract GTFs and RNAP II to the core promoter and includes promoters 
 	- Core promoter elements
 		-  modular and can contain almost any combination of the following elements (at least one of four promoter is missing):
@@ -162,4 +162,15 @@ The three eukaryotic RNAPs bind and recognize different promoters
 			- Orientation-depentdent
 - Class I
 	- RNAP I transcribes the ribosomal RNA gene (rDNA)
-	- The rDNA gene is repeated hundreds of times in tandem and produces an rRNA precursor that is processed to form the mature rRNA s that form the r
+	- The rDNA gene is repeated hundreds of times in tandem and produces an rRNA precursor that is processed to form the mature rRNA s that form the ribosome..
+	- Unlike class II and III promoters, therefore, you can consider that there is only one class I promoter, but it is found hundreds of times in the rDNA cluster.
+- Class III 
+	- transcribes tRNAs, 5S rRNA, U6 snRNA, and other small RNAs
+	- Unlike many class II promoter elements, classical class II promoter elements are found within the gene itself. These are referred to as Box A, Box B, and Box C.
+	- The arrangement of these differs depending on the type of gene transcribed, as shown below
+- Non-Classical Class II and III promoters
+	- Some genes transcribed by RNAP III have promoter elements that are situated upstream of the gene (including genes for U6 and 7SK) and include a TATA box.
+		- DSA: Distal sequence elements
+		- PSE: proximal sequence element
+	- The U1 and U2 snRNA genes, which are transcribed by RNAP II, lack a TATA box, 
+Eukaryotic promoters are very ddiverse and are regulated by a variety of elements
