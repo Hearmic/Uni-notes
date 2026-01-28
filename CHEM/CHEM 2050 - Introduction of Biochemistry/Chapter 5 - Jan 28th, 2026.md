@@ -32,7 +32,13 @@
 	- Larger molecules do not enter the pores and elute from the column before the smaller ones
 ![[Pasted image 20260128115557.png]]
 ![[Pasted image 20260128120121.png]]
-- 
+
+### Affinity Chromatography
+- Powerful column separation procedure based on specific binding of proteins to a ligand
+
+
+### Group-Specific Affinity Resins
+
 
 
 
