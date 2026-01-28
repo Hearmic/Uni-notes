@@ -15,6 +15,15 @@
 - Mobile phase: Portion of the system in which the mixture to be separated moves
 - Column chromatography: Form of chromatography in which the stationary phase is packed in a column
 
+### Column Chromatography
+![[Pasted image 20260128114539.png]]
+-  Reservoir containing the eluent (the mobile phase)
+- Column packed with stationary phase in contact with eluent throughout its length
+- As the eluent flows through the column, compounds of the sample migrate at different rates
+- Three zones are being separated Elution continues
+- The fastest moving substance eluted from column
+- Eluent is collected manually or automatically and analyzed for the presence (and sometimes the amount) of solute
+
 
 
 
