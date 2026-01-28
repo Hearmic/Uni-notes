@@ -1,0 +1,21 @@
+### Differential Centrifugation
+- Process in which ruptured cells are centrifuged several times increaseing the force of gravity each time
+
+### Salting Out
+- Purification technique for proteins based on differential solubility in salt solutions
+	- Dependent on overall charge, ionic strength, and polarity
+- Ammonium sulfate $(NH_4)_2SO_4$ is used in the process
+	- Takes away water by interacting with it and makes protein less soluble because hydrophobic interactions among proteins increase
+- Different aliquots are. taken as function of salt concentration ot get closer to desired protein sample
+	- One fraction has the protein of interest
+
+### Chromatography
+- Based on the fact that different compounds distribute themselves to varying extents between different phases, or separable portions of matter
+- Stationary phase: Substance that selectively retards the flow of the sample, effecting the separation
+- Mobile phase: Portion of the system in which the mixture to be separated moves
+- Column chromatography: Form of chromatography in which the stationary phase is packed in a column
+
+
+
+
+
