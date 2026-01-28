@@ -41,5 +41,21 @@
 
 
 
+| Group-Specific Adsorbent | Group Specificity                                  |
+| ------------------------ | -------------------------------------------------- |
+| Concanavalin A-agarose   | Glycoproteins and glycolipids                      |
+| Cibacron Blue-agarose    | Enzymes with nucleotide cofactors                  |
+| Bronic acid-agarose      | Compounds with cis-diol gorups                     |
+| Protein A-agarose        | IgG-type antibodies                                |
+| Poly(U)-agarose          | Nucleic acids containing poly(A) sequences         |
+| Poly(A)-agarose          | Nucletic acids containing poly(U) sequences        |
+| Iminodiacetate-agarose   | Proteins with heavy metal affinity                 |
+| AMP-agarose              | Enzymes with NAD+ cofactors, ATP-dependent kinases |
+| Nickel-agarose           | Bind well to histidine                             |
+|                          |                                                    |
+### Ion-exchange chromatograpy
+Method of separating substances on the basis of charge
+- Cation/Anion exchanger: Resin that has a net negative/positive charge and binds to positively/negatively charged molecules flowing through it
+\
 
 
