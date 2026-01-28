@@ -31,8 +31,8 @@
 	- Smaller molecules enter the proes and are delayed in elution time
 	- Larger molecules do not enter the pores and elute from the column before the smaller ones
 ![[Pasted image 20260128115557.png]]
-
-
+![[Pasted image 20260128120121.png]]
+- 
 
 
 
