@@ -24,6 +24,15 @@
 - The fastest moving substance eluted from column
 - Eluent is collected manually or automatically and analyzed for the presence (and sometimes the amount) of solute
 
+### Size-Exclusion, or Gel-Filtration Chromatography
+- Technique used to separate biomolecules based on size (agarose or dextran)
+- Stationary phase consists of cross-linked gel particles
+- Extent of cross-linking can be controlled to determine pore size
+	- Smaller molecules enter the proes and are delayed in elution time
+	- Larger molecules do not enter the pores and elute from the column before the smaller ones
+![[Pasted image 20260128115557.png]]
+
+
 
 
 
