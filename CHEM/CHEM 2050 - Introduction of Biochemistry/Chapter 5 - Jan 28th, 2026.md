@@ -1,4 +1,4 @@
-### Differential Centrifugation
+![[Pasted image 20260128123456.png]]### Differential Centrifugation
 - Process in which ruptured cells are centrifuged several times increaseing the force of gravity each time
 
 ### Salting Out
@@ -53,9 +53,13 @@
 | AMP-agarose              | Enzymes with NAD+ cofactors, ATP-dependent kinases |
 | Nickel-agarose           | Bind well to histidine                             |
 |                          |                                                    |
-### Ion-exchange chromatograpy
+### Ion-exchange chromatography
 Method of separating substances on the basis of charge
 - Cation/Anion exchanger: Resin that has a net negative/positive charge and binds to positively/negatively charged molecules flowing through it
-\
-
+![[Pasted image 20260128123458.png]]
+- Modifying pH change the charge of protein, thus which protein will interact and delay elusion.
+- pI : Isoelectric point
+	- **pH < pI:** The molecule is positively charged (cationic).
+	- **pH = pI:** The molecule is neutral (zwitterion).
+	- **pH > pI:** The molecule is negatively charged (anionic).
 
