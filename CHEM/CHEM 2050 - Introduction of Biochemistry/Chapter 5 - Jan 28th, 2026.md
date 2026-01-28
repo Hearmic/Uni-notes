@@ -63,3 +63,19 @@ Method of separating substances on the basis of charge
 	- **pH = pI:** The molecule is neutral (zwitterion).
 	- **pH > pI:** The molecule is negatively charged (anionic).
 
+
+| Fraction                         | Volumn (mL) | Total Protein (mg) | Total Activity | Specific Activity | Percent Recovery |
+| -------------------------------- | ----------- | ------------------ | -------------- | ----------------- | ---------------- |
+| 1. Crude Extract                 | 3,800       | 22,800             | 2,460          | 0.108             | 100              |
+| 2. Salt precipitate              | 165         | 2,800              | 1,190          | 0.425             | 48               |
+| 3. Ion-exchange chromatography   | 65          | 100                | 720            | 7.2               | 29               |
+| 4.Molecular0sieve chromatography | 40          | 14.5               | 555            |                   |                  |
+| 5. Immunoaffinity chromatography |             |                    |                |                   |                  |
+### Electrophoresis
+- Method for separating macromolecule (DNA, proteins)
+- Macromolecules have differing mobilities in an electric field based on their charge, shape, and size
+- Thin porous ==polyacrylamide== slab is used as gel media
+- Protein mixture loaded into the gel, which is suspended in an aqueous buffer 
+- Voltage is applied across the gel which causes proteins to migrate thorugh the gel at different rates depending on their charges and sizes
+
+### SDS-Polyacylamide Gel Electrophresis
