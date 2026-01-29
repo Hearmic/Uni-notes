@@ -44,3 +44,16 @@ Expression of the pre-antigen receptor is the first checkpoint during lymphocyte
 	- Survival of potentially useful lymphocytes.
 	- T cell receptors recognize self-MHC molecules
 	- The co-receptor on a T cell (CD8 or CD4) is matched to the appropriate type of MHC molecules (I or II)
+
+### B-cell negative selection
+- Strongly self-reactive immature B cells may be induced to make further Ig gene rearrangements -> avoid self-reactivity (receptor editing)
+If editing fails -> called clonal deletion
+Some B cells exhaust rearrangement efforts -> signaled to die by apoptosis 
+55B/day B cells die in the bone marrow (unsuccessful rearrangement or self-reactive)
+
+### Human Immunoglobin Loci - Germline organization
+V regions are not encoded as a complete Ig/TCR domain in a single gene segment
+A functional exon is created only after somatic recombination
+For this reason, the process "somatic recombination" or ===VDJ=== recombination leads to the gene rearrangement 
+-> results new lymphocytes with numerous possible combinations of antigen receptors -> Combinatorial diversity
+
