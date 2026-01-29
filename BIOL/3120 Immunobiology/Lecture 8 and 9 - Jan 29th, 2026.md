@@ -57,3 +57,4 @@ A functional exon is created only after somatic recombination
 For this reason, the process "somatic recombination" or ===VDJ=== recombination leads to the gene rearrangement 
 -> results new lymphocytes with numerous possible combinations of antigen receptors -> Combinatorial diversity
 
+### TCR gene segments - Gernline organizatin
