@@ -101,4 +101,8 @@ Pr[DS] = 0.001
 Pr[+ result | DS] = 0.60
 Pr[+ result | no DS] = 0.05
 Pr[+ result] = Pr[DS] Pr[+results | DS] + Pr[no DS] Pr[+result | no DS] = 0.001*0.6 + (1-0.001)*0.05 = 0.05055
-$$Pr[DS\ |- result] = \frac{Pr[DS]\ Pr[-result | DS]}{Pr[-result]} = \frac{0.001 * (0.001 * (1 - 0.05055))}{1 - 0.05055}$$
+
+Pr[- result | DS] = 1 - Pr[+ result | DS] = 0.40, not 1 - Pr[+ result]
+Pr[- result] = Pr[DS] Pr[-results | DS] + Pr[no DS] Pr[-result | no DS] = 0.001*0.4 + (1-0.001)*0.95 = 0.94945, also possible 1 - Pr[+ result]
+
+$$Pr[DS\ |- result] = \frac{Pr[DS]\ Pr[-result | DS]}{Pr[-result]} = \frac{0.001 * 0.4}{0.94945}$$
