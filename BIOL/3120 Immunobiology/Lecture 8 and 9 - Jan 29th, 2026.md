@@ -57,4 +57,11 @@ A functional exon is created only after somatic recombination
 For this reason, the process "somatic recombination" or ===VDJ=== recombination leads to the gene rearrangement 
 -> results new lymphocytes with numerous possible combinations of antigen receptors -> Combinatorial diversity
 
-### TCR gene segments - Gernline organizatin
+### TCR gene segments - Germline organization
+- V region 
+
+### Maturation of Lymphocytes
+- First $\mu$ H chain expression prevents rearrangement of the other allele (on the other chromosome), via allelic exclusion -> avoid expression of two different Abs by same B cell)
+- Light chain gene rearrangement can be rescued by further rearrangement
+- Autoreactive B cells are retained in the BM -> rearrangement continues until a self-tolerant receptor is formed or there is no Light chain V and J segment for further recombination
+- These processes happen during Lymphocyte development and maturation in sterile environment (bone marrow * thymus) -> receptor is tested with self antigens, not pathogens
