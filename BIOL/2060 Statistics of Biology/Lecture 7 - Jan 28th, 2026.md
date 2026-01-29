@@ -20,8 +20,6 @@ $$Pr[+ result] = Pr[DS] Pr[+results | DS] + Pr[no DS] Pr[+result | no DS] = 0.00
 ### Noninvasive prenatal screening (NIPS)
 - Tests using sequencing of cell-free fetal DNA sequences isolated from a maternal blood sample
 
-### Pseudoreplication
-
 #### Random requires to criteria
 - 1. Every individual in the population being sampled must have an equal chance of being sampled
 - 2. Sample individuals are all independent
@@ -37,4 +35,27 @@ $$Pr[+ result] = Pr[DS] Pr[+results | DS] + Pr[no DS] Pr[+result | no DS] = 0.00
 - Prediction: in species with more complex songs, females should make fewer mistakes
 - Experiment: compare the "choosiness" of females of Species D, which has a "complex" song (long SRU) with females of Species E that has a "simple" song (short SRU)
 
-- Scientific 
+- Treatment 1: 30 females of Species D offered a choice between a male of their own and a male of a third, random species
+- Treatment 2: 30 females of Species E offered same choice
+- Female choice = the response variable
+- Results
+	- Species D females chose their own species 29/30 times (97%) whereas Species E females chose their own species 16/30 times (53%)
+	- Conclusion: species with more complex songs are less likely to hybridize with other species than those with simple songs
+### Pseudoreplication
+- When individual measurements that are not independent are analyzed as if they were independent.
+- The conclusion was that there is a difference between two different types of species (long SRU vs short SRU)
+- Even though there were a lot of replicates, there was only one female of each type in the experiment
+- The conclusion about long- vs short -SRU species is based on a sample size 1 of each, not 30
+	- It might be justified to conclude that Species D is more discriminating than Species E, but that could be due to any number of factors (not necessarily SRU)
+
+### Hypothesis testing in statistics
+
+Does a parameter (estimated from a sample) differ from some null expectation?
+Are they really different, or is the observed?
+The magnitude of difference is unimportant
+
+Example: Salk vaccine trial, 1954
+401,974 elemntary-school students in double-blind trial
+- Half received an experiemtnal polio vaccine
+- Other half received saline
+
