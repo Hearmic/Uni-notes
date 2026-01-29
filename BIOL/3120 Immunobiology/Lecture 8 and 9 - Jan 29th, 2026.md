@@ -34,7 +34,13 @@ Why is only MHC II protected with invariant chain?
 
 Diverse antigen receptors are generated and expressed before encounter with antigens
 
-### Selection / Check points
+### Selection / Checkpoints
 Expression of the pre-antigen receptor is the first checkpoint during lymphocyte development
 - pre-BCRs contain only one of the two polypeptide chains present in a mature receptor. (expressed with surrogate chains)
 
+### B and T Cell development
+- In the next step of selection/checkpoint, developing B and T cells express complete antigen receptors, and the cells are selected for survival
+- Positive selection: If the formed receptor binds to
+	- Survival of potentially useful lymphocytes.
+	- T cell receptors recognize self-MHC molecules
+	- The co-receptor on a T cell (CD8 or CD4) is matched to the appropriate type of MHC molecules (I or II)
