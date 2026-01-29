@@ -51,11 +51,43 @@ $$Pr[+ result] = Pr[DS] Pr[+results | DS] + Pr[no DS] Pr[+result | no DS] = 0.00
 ### Hypothesis testing in statistics
 
 Does a parameter (estimated from a sample) differ from some null expectation?
-Are they really different, or is the observed?
-The magnitude of difference is unimportant
+Are they really different, or is it observed?
+The magnitude of the difference is unimportant
 
 Example: Salk vaccine trial, 1954
-401,974 elemntary-school students in double-blind trial
-- Half received an experiemtnal polio vaccine
-- Other half received saline
+401,974 elementary-school students in a double-blind trial
+- Half received an experimental polio vaccine
+- The other half received saline
+Paralytic polio developed:
+- in 0.016% of the vaccinated group = 32 students
+- in 0.057% of the saline group = 115 students
+
+What is the probability of seeing this difference due to a random sample alone?
+	- Less than 1 in 100,000
+Conclusion: it works - i.e., reduces the incidence of disease
+
+In statistical hypothesis testing therea re just two hypothesis: "Null" and "Alternative"
+- Null hypothesis: there is no real difference between treatment groups (i.e., between population parameters)
+- Alternate hypothesis: there is a real difference between groups
+	- i.e., population parameters, such as mean, are different
+
+Scientific vs Statistical Hypthesis
+- S are statements about the existence and possible causes of phenomena
+- will usually have multiple alternative hypotheses
+	- Rejection of one does not support one specific alternative
+	- Each hypothesis has to be tested independently, using experiment and/or observation
+
+#### A statistical null hypothesis, H_0 states there is no difference between a parameter and some other value
+- could be another parameter
+- H_0: The infection rate in vaccinated children is the same as the infection rate in non- vaccinated children
+	- Param 1: the "true" infection rate of all children that will ever be vaccinated
+	- Param 2: the "true" infection rate of all children who were never vaccinated
+- Could be a specific number, based on expectation or theory
+
+H_A: The infection rate in vaccinated children is different from the infection rate in non-vaccinated children
+H_A: The mean body temperature of healthy humans is not 37˚C
+
+Note that alternate hypothesis is non-specific
+- The direction of the difference is specified
+
 
