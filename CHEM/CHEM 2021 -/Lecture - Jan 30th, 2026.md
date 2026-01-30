@@ -14,3 +14,16 @@ DEPT: Distortionless Enhancement by Polarization Transfer
 ## 2. 
 
 ![[Pasted image 20260130134826.png]]
+
+### 
+- Cyclic, conjugated
+- Unusally stable, having a heat of hydrogenation 150kJ/mol
+
+
+## Criteria for Aromaticity
+- Possess a cyclic structure
+- Fully conjugated (possess a p orbital on all participating ring)
+- Exhbits planarity of the conjuated cycle (planar ring)
+- Have 4n+2 $\pi$ electrons delocalized in the ring, where n is an integer value (Huckel's rule)
+In general, when one (or more) of these criteria are not fullfilled, it can be either non-aromatic or anti-aromatic.
+
