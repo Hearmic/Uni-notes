@@ -78,7 +78,12 @@ Method of separating substances on the basis of charge
 - Thin porous ==polyacrylamide== slab is used as gel media
 - Protein mixture loaded into the gel, which is suspended in an aqueous buffer 
 - Voltage is applied across the gel which causes proteins to migrate through the gel at different rates depending on their charges and sizes
-
-### SDS-Polyacrylamide Gel Electrophoresis
 - Analytical Technique rather than purification
-- 
+
+### SDS-Polyacrylamide Gel Electrophoresis (SDS-PAGE)
+- Electrophoretic technique that separates proteins on the basis of size only
+- Protein is treated with the detergent sodium dodecyl sulfate (SDS) before it is applied to the gel, provides a uniform "coat" of negative charge
+- Smaller proteins move faster through the gel 
+- The longer the protein, more SDS molecules surround, thus more overall negative charge
+- $\beta$-mercaptoethanol often added
+
