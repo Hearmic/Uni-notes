@@ -49,4 +49,8 @@ $$K_M = \frac{k_{-1} + k_1}{k_2}$$
 $K_M$ = Michaelis constant
 $K_M$ has units of concentration. Smaller the $K_M$, the greater then binding affinity
 ### Rate of an Enzymic Reaction
-- Initial rate, or initial velocity ($V_{init}$ or )
+- Initial rate, or initial velocity ($V_{init}$ or $V_0$), and observed kinetics depend on [S] for a given $[E]_T$ 
+- At very high [S], the reaction proceeds at maximum velocity ($V_{max}$)
+	- $V_0 = k_2[E]_T \approx V_{max}$ (reaction becomes zero-order in [S]
+- Every enzyme has $V_{max}$ on given its concentration
+  ![[Pasted image 20260202125124.png]]
