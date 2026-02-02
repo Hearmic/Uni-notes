@@ -39,5 +39,9 @@ $$\Delta G˚ = -RT\ ln K_{eq}$$
 - First step is binding of substrate to the enzyme, described by the lock and key model (outdated), or the induced-fit model (modern)
 - Despite of its specificity, enzyme can bind to multiple, similar substrates with conformation change
 - Enzyme and substrate must bind to form the ES complex before the overall reaction takes place: E + S $\leftrightarrow$ ES
-- 
-
+  ![[Pasted image 20260202122540.png]]
+- ![[Pasted image 20260202122648.png]]
+### Michaelis-Menten Approach to Enzyme Kinetics
+$$E + S \leftrightarrow ES \to E + P$$
+- Usually $k_2$ is usually much smaller than $k_1, k_{-1}$ 
+$$V_0 = \frac{k_2 [E]_T [S]}{K_M + }$$
