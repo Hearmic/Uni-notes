@@ -85,5 +85,5 @@ Method of separating substances on the basis of charge
 - Protein is treated with the detergent sodium dodecyl sulfate (SDS) before it is applied to the gel, provides a uniform "coat" of negative charge
 - Smaller proteins move faster through the gel 
 - The longer the protein, more SDS molecules surround, thus more overall negative charge
-- $\beta$-mercaptoethanol often added
+- $\beta$-mercaptoethanol often added (ensure breaking disulfide bridge)
 
