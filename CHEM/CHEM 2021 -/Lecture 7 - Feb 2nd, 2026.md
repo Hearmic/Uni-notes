@@ -3,4 +3,6 @@
 - They are especially unstable.
 ### Non- aromaticity
 - Having $sp^3$ hybridized orbital in ring
-- 
+
+### Aromatic Ions - Cationic Aromatic Compounds
+- Tropylium ion
