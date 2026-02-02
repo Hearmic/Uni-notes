@@ -44,4 +44,9 @@ $$\Delta G˚ = -RT\ ln K_{eq}$$
 ### Michaelis-Menten Approach to Enzyme Kinetics
 $$E + S \leftrightarrow ES \to E + P$$
 - Usually $k_2$ is usually much smaller than $k_1, k_{-1}$ 
-$$V_0 = \frac{k_2 [E]_T [S]}{K_M + }$$
+$$V_0 = \frac{k_2\ [E]_T [S]}{K_M + [S]}$$
+$$K_M = \frac{k_{-1} + k_1}{k_2}$$
+$K_M$ = Michaelis constant
+$K_M$ has units of concentration. Smaller the $K_M$, the greater then binding affinity
+### Rate of an Enzymic Reaction
+- Initial rate, or initial velocity ($V_{init}$ or )
