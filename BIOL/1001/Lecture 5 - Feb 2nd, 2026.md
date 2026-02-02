@@ -13,4 +13,5 @@
 2. Heterozygote advantage
    ex) Sickle Cell Allele (heterozygotes do not suffer from both anemia and Malaria)
 3. Frequency-dependent selection (negative frequent dependent selection: rare phenotype is beneficial for survival)
-   
+
+![[Pasted image 20260202090807.png]]
