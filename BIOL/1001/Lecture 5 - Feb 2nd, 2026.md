@@ -15,3 +15,6 @@
 3. Frequency-dependent selection (negative frequent dependent selection: rare phenotype is beneficial for survival)
 
 ![[Pasted image 20260202090807.png]]
+
+### 1. Adaptation aren't universally good
+- An adaptation increases the fitness of an individual in a particular environment
