@@ -31,4 +31,13 @@ $$\Delta G˚ = -RT\ ln K_{eq}$$
 
 ### Temperature Dependence of Catalysis
 - Increasing the temperature of a reaction mixture will increase the energy available to the reactants to reach the transition state
-- =
+- Occurs only to a limited extent with biochemical reactions because increasing temperature will eventually lead to enzyme denaturation
+
+### Enzyme-Substrate Binding
+- In an enzyme-catalyzed reaction, substrate (S) is a reactant
+- Active site: Portion of the enzyme surface to which the substrate binds via noncovalent interactions and at which the reaction takes place
+- First step is binding of substrate to the enzyme, described by the lock and key model (outdated), or the induced-fit model (modern)
+- Despite of its specificity, enzyme can bind to multiple, similar substrates with conformation change
+- Enzyme and substrate must bind to form the ES complex before the overall reaction takes place: E + S $\leftrightarrow$ ES
+- 
+
