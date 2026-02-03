@@ -55,4 +55,34 @@ If p is small, we can justify
 Unlike Type I Error, risk of Type II Error is difficult to quantify
 - Depends on how big the differnce between treatments is, relative to the spread of the data
 - Smaller diference and/or more spread -> higher risk of Type II Error
-- The power of a statistical test is inversely related to its Type II Erorr 
+- The power of a statistical test is inversely related to its Type II Erorr risk
+- More power -> more ability to reject a false null hypothesis when differences a 
+
+
+| Type I Error                | Type II Error                    |
+| --------------------------- | -------------------------------- |
+| Rejecting a null hypothesis | Failing to reject false positive |
+|                             |                                  |
+|                             |                                  |
+
+|                                |              | $H_0$ is True                      | $H_0$ is False                      |
+| ------------------------------ | ------------ | ---------------------------------- | ----------------------------------- |
+| Decision about null hypothesis | Don't Reject | Correct inference<br>true positive | Type II Error<br>false negative     |
+|                                | Reject       | Type I Error<br>true positive      | Correct inference<br>false negative |
+|                                |              |                                    |                                     |
+A null hypothesis isn't necessarily True if it isn't rejected
+- If P > 0.05, H_0 is consistant with result
+- Alternate hypothesis is consistant if P < 0.05
+
+
+- One/two-sided test: H_0 rejected if test statistic falls within the most extreame 5% of its distribution in one/both "tail" (most extreme 2.5% of any one tail)
+- Two-sided test requires that the deviation from H_0 be larger for rejection
+
+### Example of a one-tailed test
+- Scientific hypothesis: newborn babies resemble their faters more than other men with similar withnic backgrounds
+- Test: show pictures of 1) a newborn baby, 2) its father, and 3) another man, to test subjects and ask the subject to identify the father:
+- H_0: no father -child resemblance (prediction 50% correct)
+- H_A: yes father -child resemblance(more than 50% correct)
+- Even though <50%, null hypothesis cannot be rejected
+
+The decision ot conduct a one- or 
