@@ -67,8 +67,8 @@ Unlike Type I Error, risk of Type II Error is difficult to quantify
 
 |                                |              | $H_0$ is True                      | $H_0$ is False                      |
 | ------------------------------ | ------------ | ---------------------------------- | ----------------------------------- |
-| Decision about null hypothesis | Don't Reject | Correct inference<br>true positive | Type II Error<br>false negative     |
-|                                | Reject       | Type I Error<br>true positive      | Correct inference<br>false negative |
+| Decision about null hypothesis | Don't Reject | Correct inference<br>true negative | Type II Error<br>false negative     |
+|                                | Reject       | Type I Error<br>false positive     | Correct inference<br>false positive |
 |                                |              |                                    |                                     |
 A null hypothesis isn't necessarily True if it isn't rejected
 - If P > 0.05, H_0 is consistant with result
@@ -85,4 +85,13 @@ A null hypothesis isn't necessarily True if it isn't rejected
 - H_A: yes father -child resemblance(more than 50% correct)
 - Even though <50%, null hypothesis cannot be rejected
 
-The decision ot conduct a one- or 
+The decision to conduct a one- or two- sided test (and if the former, on which side) must be made before data are collected.
+
+### Terminology
+- p: proportion of all observations that fall into a given category (=population parameter)
+- p^ = proportion in a sample = Number in category / n (estimate of p)
+- Successes/Failures: The number of trials resulting in one of two possible/the other outcomes
+- Pr[X successes] = the probability of X successes
+- (n/X) = "n choose X" = $\frac{n!}{X!(n-X)!}$
+- Pr[X successes] = $\frac{n!}{X!(n-X)!} P^X (1-P)^{N-X}$
+- 
