@@ -97,3 +97,10 @@ The decision to conduct a one- or two- sided test (and if the former, on which s
 
 $H_0$: frequency of success in a population is a proportion $p_0$
 $H_A$: frequency of success =/= $p_0$
+
+Some bumble bee species are polymorphic for colour, having either orange or yellow bands on their abdomens. You wish to teat A hypothesis that predicts band colours are equally frequent so you obtain a random sample of 20 bumble bees and record their colours: 15 yellow and 5 orange. Conduct a formal hypothesis test and estimate the standard error of the proportion of yellow-banded bumble bees.
+
+
+Estimate p value
+Estimate the stand error of the proportion of yellow-banded bumble bees.
+
