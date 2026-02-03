@@ -20,7 +20,7 @@ e.g., "Handedness" in toads.
 - H_0: the proportion of right-handed and left-handed toads is the same
 - Alternate hypothesis is two-sided
   
-- A test statstic is a number calculated form the data that is used to evaluate the null hypothesis
+- A test statistic is a number calculated from the data that is used to evaluate the null hypothesis
 - H_0 predicts 0.5 (1.8) or 9 out of 18, toads will be right-handed
 - Actual number = 14 $\to$ This is the test statisitic to be compared with the prediction of 9
 - Even if H_0 is true, we could sample 14 right-handed toads purely by chance,
@@ -33,6 +33,26 @@ e.g., "Handedness" in toads.
 - Can create a null distribution by simulating 18 picks thousands of times, and making a frequency histogram of the results:
 
 
-  
-  
-  
+### P-value:
+- The probability of obtaining a test statistic that is as different, or more different, from the predicted result if H_0 is true.
+
+If p is small, we can justify 
+
+1. The value of the test statistic
+2. The sample size
+3. The P value
+
+### Hypothesis testing based on probability is not immute to error
+- If p = 0.03,,,,, we would reject the null hypothesis...
+- but there is still a 3% chance that a difference beteen treatments as large, or larger, than the one obsserved could arise due to random sampling alone.
+- Rejecting a null hypothesis when it is true (i.e., no real difference between treatments) = a Type I Error
+	- A "false positive" result
+	- Probability if null hypothesis is true = $\alpha$
+- Failing to reject a false null hypothesis = a Type II Error
+	- A "false negative" result
+
+### Can reduce likelihood of a Type I Error by selecting a smaller $\alpha$.. but doing so incresases the risk of Type II Error
+Unlike Type I Error, risk of Type II Error is difficult to quantify
+- Depends on how big the differnce between treatments is, relative to the spread of the data
+- Smaller diference and/or more spread -> higher risk of Type II Error
+- The power of a statistical test is inversely related to its Type II Erorr 
