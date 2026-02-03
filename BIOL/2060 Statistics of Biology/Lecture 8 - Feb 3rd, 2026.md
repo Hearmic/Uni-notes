@@ -65,11 +65,11 @@ Unlike Type I Error, risk of Type II Error is difficult to quantify
 |                             |                                  |
 |                             |                                  |
 
-|                                |              | $H_0$ is True                      | $H_0$ is False                      |
-| ------------------------------ | ------------ | ---------------------------------- | ----------------------------------- |
-| Decision about null hypothesis | Don't Reject | Correct inference<br>true negative | Type II Error<br>false negative     |
-|                                | Reject       | Type I Error<br>false positive     | Correct inference<br>false positive |
-|                                |              |                                    |                                     |
+|                                |              | $H_0$ is True                      | $H_0$ is False                     |
+| ------------------------------ | ------------ | ---------------------------------- | ---------------------------------- |
+| Decision about null hypothesis | Don't Reject | Correct inference<br>true negative | Type II Error<br>false negative    |
+|                                | Reject       | Type I Error<br>false positive     | Correct inference<br>true positive |
+|                                |              |                                    |                                    |
 A null hypothesis isn't necessarily True if it isn't rejected
 - If P > 0.05, H_0 is consistant with result
 - Alternate hypothesis is consistant if P < 0.05
@@ -79,7 +79,7 @@ A null hypothesis isn't necessarily True if it isn't rejected
 - Two-sided test requires that the deviation from H_0 be larger for rejection
 
 ### Example of a one-tailed test
-- Scientific hypothesis: newborn babies resemble their faters more than other men with similar withnic backgrounds
+- Scientific hypothesis: newborn babies resemble their fathers more than other men with similar ethnic backgrounds
 - Test: show pictures of 1) a newborn baby, 2) its father, and 3) another man, to test subjects and ask the subject to identify the father:
 - H_0: no father -child resemblance (prediction 50% correct)
 - H_A: yes father -child resemblance(more than 50% correct)
@@ -92,6 +92,8 @@ The decision to conduct a one- or two- sided test (and if the former, on which s
 - p^ = proportion in a sample = Number in category / n (estimate of p)
 - Successes/Failures: The number of trials resulting in one of two possible/the other outcomes
 - Pr[X successes] = the probability of X successes
-- (n/X) = "n choose X" = $\frac{n!}{X!(n-X)!}$
+- (n C X) = "n choose X" = $\frac{n!}{X!(n-X)!}$
 - Pr[X successes] = $\frac{n!}{X!(n-X)!} P^X (1-P)^{N-X}$
-- 
+
+$H_0$: frequency of success in a population is a proportion $p_0$
+$H_A$: frequency of success =/= $p_0$
