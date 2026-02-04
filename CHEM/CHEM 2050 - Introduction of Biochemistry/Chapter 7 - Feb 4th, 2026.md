@@ -24,7 +24,6 @@ $$\frac{1}{V} = \frac{K_M + [S]}{V_{max}[S]} = \frac{K_M}{V_{max}}\frac{1}{[S]} 
 	- x intercept, which equals $-\frac{1}{K_M}$
 
 ## Inhibitors
-$$\frac{1}{V} = \frac{K_M}{V_{max}}(1 + \frac{[I]}{K_I})\frac{1}{[S]}$$
 - Substances that decrease the rate of an enzyme-catalyzed reaction
 - Reversible inhibitors
 	- Substances that bind to an enzyme and subsequently are released without reaction
@@ -34,25 +33,39 @@ $$\frac{1}{V} = \frac{K_M}{V_{max}}(1 + \frac{[I]}{K_I})\frac{1}{[S]}$$
 	- Substances that react with enzymes to produce proteins that are not enzymatically active and from which originial enzymes cannot be regenerated 
 	- Mode of action of many poisons
 
+![[Pasted image 20260204123356.png]]
+
+
+
 ### Competitive Inhibition
 - Decrease in enzymatic activity caused by binding of a substrate analogue to the active (catalytic) site
 - Inhibitor competes with the substrate for the active site on the enzyme
 $$E + S \leftrightarrow ES,\ \ E + I \leftrightarrow EI$$
 - Equilibrium expression for the breakdown of the enzyme-inhibitor complex (EI) is given by
 $$K_I = \frac{[E][I]}{[EI]}$$
+$$\frac{1}{V} = \frac{K_M}{V_{max}}(1 + \frac{[I]}{K_I}) + \frac{1}{[S]}$$
 ##### Identifying a Competitive Inhibitor
 - Y-intercept doesn't change as $V_{max}$ doesn't change
 
 #### Noncompetitive Inhibition
 - The inhibitor binds to a site other than the active site but distorts the active site to inhibit reaction
 - Several equilibria are involved
-
+$$\frac{1}{V} = \frac{K_M}{V_{max}}(1 + \frac{[I]}{K_I}) + \frac{1}{[S]}(1 + \frac{[I]}{K_I})$$
 ##### Identifying a noncompetitive inhibitor
 - Inhibitor does not interfere with substrate binding
 	- Value of $V_{max}$ decreases, and value of $K_M$ remains the same
 - Increasing substrate concentration cannot overcome noncompetitive inhibition
 - In presence of a noncompetitive inhibitor, I, maximum velocity of the reaction, $V^i_{max}$ 
-- 
+- Slope and y intercept change, while x intercept remains unchanged
 
-![[Pasted image 20260204123356.png]]
+### Uncompetitive Inhibition 
+- Inhibitor can bind to the ES complex but not to the free E
+- Lineweaver-Burk Plot contains parallel lines
+	- $V_{max}$ decreases
+	- $K_M$ decreases
+### Irreversible reaction 
+- Covalent binding of an inhibitor to an enzyme, causing permanent inactivation 
+- Many are highly poisonous (acetylcholinesterase inhibitors)
+- Acetylcholine $\to$ Acetic acid + Choline (with acetylcholinesterase and water)
+- Used in medicine (ex: $\beta$-lactam antibiotics such as penicillin)
 
