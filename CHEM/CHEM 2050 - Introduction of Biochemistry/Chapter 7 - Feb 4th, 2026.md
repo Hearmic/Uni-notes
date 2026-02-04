@@ -15,7 +15,7 @@ $$\frac{k_{cat}}{K_M}$$
   ($V_0\ \micro mol/minute)$
 - Specific enzyme activity is enzyme activity per mg of total protein present
   ![[Pasted image 20260204122046.png]]
-
+#### Normal/New Lineweaver-Burk Equation
 $$\frac{1}{V} = \frac{K_M + [S]}{V_{max}[S]} = \frac{K_M}{V_{max}}\frac{1}{[S]} + \frac{[S]}{[S]V_{max}} = mx + b$$
 ### Lineweaver-Burk Plot
 - Lineweaver-Burk double-reciprocal plot gives the: 
@@ -40,3 +40,19 @@ $$\frac{1}{V} = \frac{K_M}{V_{max}}(1 + \frac{[I]}{K_I})\frac{1}{[S]}$$
 $$E + S \leftrightarrow ES,\ \ E + I \leftrightarrow EI$$
 - Equilibrium expression for the breakdown of the enzyme-inhibitor complex (EI) is given by
 $$K_I = \frac{[E][I]}{[EI]}$$
+##### Identifying a Competitive Inhibitor
+- Y-intercept doesn't change as $V_{max}$ doesn't change
+
+#### Noncompetitive Inhibition
+- The inhibitor binds to a site other than the active site but distorts the active site to inhibit reaction
+- Several equilibria are involved
+
+##### Identifying a noncompetitive inhibitor
+- Inhibitor does not interfere with substrate binding
+	- Value of $V_{max}$ decreases, and value of $K_M$ remains the same
+- Increasing substrate concentration cannot overcome noncompetitive inhibition
+- In presence of a noncompetitive inhibitor, I, maximum velocity of the reaction, $V^i_{max}$ 
+- 
+
+![[Pasted image 20260204123356.png]]
+
