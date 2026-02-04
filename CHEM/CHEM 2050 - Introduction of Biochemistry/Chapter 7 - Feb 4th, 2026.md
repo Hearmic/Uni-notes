@@ -11,5 +11,8 @@ $$\frac{k_{cat}}{K_M}$$
 
 ### Enzyme Activity and Specific Activity
 - Enzyme activity and specific activity are different from MM kinetic parameters
-- Enzyme activity is the number of micromoles of substrate that get converted to product per minute (depends on amount of substrate present), has units of 
+- Enzyme activity is the number of micromoles of substrate that get converted to product per minute (depends on amount of substrate present), has units of U
+  ($V_0\ \micro mol/minute)$
+- Specific enzyme activity is enzyme activity per mg of total protein present
 
+$$\frac{1}{V} = \frac{K_M + [S]}{V_{max}[S]} = \frac{K_M}{V_{max}}\frac{1}{[S]} + $$

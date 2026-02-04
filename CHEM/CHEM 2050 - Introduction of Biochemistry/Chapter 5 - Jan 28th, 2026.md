@@ -71,6 +71,7 @@ Method of separating substances on the basis of charge
 | 3. Ion-exchange chromatography    | 65          | 100                | 720            | 7.2               | 29               |
 | 4. Molecular-sieve chromatography | 40          | 14.5               | 555            | 38.3              | 23               |
 | 5. Immunoaffinity chromatography  | 6           | 1.8                | 275            | 152.108           | 11               |
+|                                   |             |                    |                |                   |                  |
 
 ### Electrophoresis
 - Method for separating macromolecule (DNA, proteins)
