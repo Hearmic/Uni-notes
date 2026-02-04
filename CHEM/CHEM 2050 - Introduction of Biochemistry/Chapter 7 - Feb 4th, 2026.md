@@ -15,4 +15,9 @@ $$\frac{k_{cat}}{K_M}$$
   ($V_0\ \micro mol/minute)$
 - Specific enzyme activity is enzyme activity per mg of total protein present
 
-$$\frac{1}{V} = \frac{K_M + [S]}{V_{max}[S]} = \frac{K_M}{V_{max}}\frac{1}{[S]} + $$
+$$\frac{1}{V} = \frac{K_M + [S]}{V_{max}[S]} = \frac{K_M}{V_{max}}\frac{1}{[S]} + \frac{[S]}{[S]V_{max}} = mx + b$$
+### Lineweaver-Burk Plot
+- Lineweaver-Burk double-reciprocal plot gives the: 
+	- Slop of the line, m, which equals $\frac{K_M}{V_{max}}$
+	- y intercept, b, which equals $\frac{1}{V_{max}}$
+	- x intercept, which equals $-\frac{1}{K_M}$
