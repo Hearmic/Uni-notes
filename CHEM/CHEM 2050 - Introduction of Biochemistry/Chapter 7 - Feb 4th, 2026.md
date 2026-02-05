@@ -34,10 +34,7 @@ $$\frac{1}{V} = \frac{K_M + [S]}{V_{max}[S]} = \frac{K_M}{V_{max}}\frac{1}{[S]} 
 	- Mode of action of many poisons
 
 ![[Pasted image 20260204123356.png]]
-
-
-
-### Competitive Inhibition
+#### Competitive Inhibition
 - Decrease in enzymatic activity caused by binding of a substrate analogue to the active (catalytic) site
 - Inhibitor competes with the substrate for the active site on the enzyme
 $$E + S \leftrightarrow ES,\ \ E + I \leftrightarrow EI$$
@@ -57,8 +54,7 @@ $$\frac{1}{V} = \frac{K_M}{V_{max}}(1 + \frac{[I]}{K_I}) + \frac{1}{[S]}(1 + \fr
 - Increasing substrate concentration cannot overcome noncompetitive inhibition
 - In presence of a noncompetitive inhibitor, I, maximum velocity of the reaction, $V^i_{max}$ 
 - Slope and y intercept change, while x intercept remains unchanged
-
-### Uncompetitive Inhibition 
+#### Uncompetitive Inhibition 
 - Inhibitor can bind to the ES complex but not to the free E
 - Lineweaver-Burk Plot contains parallel lines
 	- $V_{max}$ decreases
