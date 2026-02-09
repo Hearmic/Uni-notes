@@ -22,13 +22,21 @@ $$\Delta G˚ = -RT\ lnK$$
 - If $\Delta G˚'$ is related to the K'
 - Example: hydrolysis of ATP at pH 7
 $$ATP_{(aq)} + H_2O \leftrightarrow ADP_{(aq)} + {P_i}_{(aq)} + H^+_P{(aq)}$$
-
 ### Spontaneity
 - Spontaneous reactions (exergonic) occur without added energy, releases energy
 - Non-spontaneous reactions (endergonic) can proceed if they are coupled to energy-releasing reactions such that the overall process releases energy
 - $C_6H_{12}O_6 + 6O_2 \to 6CO_2 + 6H_2O  (\Delta G˚' << 0)$
 - $6CO_2 + 6H_2O \to C_6H_{12}O_6 + 6O_2\ (\Delta G˚' >> 0)$
-
 ### Driving Endergonic Reactions
 - Examples of reaction coupling
-- 
+### Metabolism
+- Sum total of the chemical reactions of biomolecules in an organism
+- Catabolism (oxidative process that releases energy)
+- Anabolism (reductive process that requires energy)
+
+### Oxidation-Reduction (Redox) Reactions
+- Electron transfer reactions
+- Oxidation states (numbers) can help determine which atoms are being oxidized/reduced in a redox reaction
+- Oxidation is loss of electrons (ex: loss of hydrogen atoms)
+- Reduction is gain of electrons (ex: gain of hydrogen atoms)
+- First-year example: assigning oxidation states to the atoms in ethanol
