@@ -2,6 +2,8 @@
 - Continual gene flow between populations results in the population becoming more genetically similar -> reduced genetic differences between populations
 - Gene flow is random with respect to fitness
 - can bring in alleles that have relative low fitness in new environment
+- Donor population: Could decrease genetic variation
+- Recipient population: Could increase genetic variation
 
 ### Genetic Drift
 - Allele frequency fluctuation
