@@ -14,4 +14,21 @@ $$\Delta G˚ = -RT\ lnK$$
 - $\Delta G$ = 0 at equilibrium (0 = $\Delta G˚ + RT\ lnK$)
 
 ### Modified Standard State for Biochemical Applications
-- Standard free energy change $\Delta G˚$ 
+- Standard free energy change $\Delta G˚$ assumes a concentration of 1M for all solutes
+- If $[H^+]$ = 1M, then pH = 0, not physiologically relevant
+- Biochemical reactions are defined by a modified standard state which assumes $[H^+]$ = 10^-7M (pH 7.0)
+- Modified standard state for free-energy change is given the symbol $\Delta G˚'$
+
+- If $\Delta G˚'$ is related to the K'
+- Example: hydrolysis of ATP at pH 7
+$$ATP_{(aq)} + H_2O \leftrightarrow ADP_{(aq)} + {P_i}_{(aq)} + H^+_P{(aq)}$$
+
+### Spontaneity
+- Spontaneous reactions (exergonic) occur without added energy, releases energy
+- Non-spontaneous reactions (endergonic) can proceed if they are coupled to energy-releasing reactions such that the overall process releases energy
+- $C_6H_{12}O_6 + 6O_2 \to 6CO_2 + 6H_2O  (\Delta G˚' << 0)$
+- $6CO_2 + 6H_2O \to C_6H_{12}O_6 + 6O_2\ (\Delta G˚' >> 0)$
+
+### Driving Endergonic Reactions
+- Examples of reaction coupling
+- 
