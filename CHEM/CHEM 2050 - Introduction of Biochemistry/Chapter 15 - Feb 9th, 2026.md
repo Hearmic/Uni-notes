@@ -50,4 +50,6 @@ $$ATP_{(aq)} + H_2O \leftrightarrow ADP_{(aq)} + {P_i}_{(aq)} + H^+_P{(aq)}$$
 	- NADH (reduced form)
 - Biological redox reactions often involve electron transfer from a substrate to NAD+
 
+- When ADH oxidizes ethanol to acetaldehyde, NAD+ is reduced to NADH 
+- NAD+ takes 2 electrons and 1 proton to form NADH with 1 proton leftover
 
