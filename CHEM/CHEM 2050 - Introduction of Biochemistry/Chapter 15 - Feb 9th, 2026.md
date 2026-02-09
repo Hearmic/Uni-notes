@@ -40,3 +40,14 @@ $$ATP_{(aq)} + H_2O \leftrightarrow ADP_{(aq)} + {P_i}_{(aq)} + H^+_P{(aq)}$$
 - Oxidation is loss of electrons (ex: loss of hydrogen atoms)
 - Reduction is gain of electrons (ex: gain of hydrogen atoms)
 - First-year example: assigning oxidation states to the atoms in ethanol
+	- $C_2H_6O$ (C: -2, H: +6, O: -2)
+- Half reaction of oxidation of ethanol to acetaldehyde using alcohol dehydrogenase (ADH)
+
+### Coenzymes - NAD 
+- Coenzyme - an organic molecule loosely bound to an enzyme to facilitate the catalyzed reaction
+- Nicotinamide adenine dinucleotide (NAD) exists in two forms
+	- NAD+ (oxidized form)
+	- NADH (reduced form)
+- Biological redox reactions often involve electron transfer from a substrate to NAD+
+
+
