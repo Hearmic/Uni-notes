@@ -42,3 +42,18 @@ Donor Cell -> Recipient Cell
 RecBCD (nicks and unwinds DNA)
 DprA
 
+1. Endonuclease nicks DNA
+2. Binding of SSD protein -> Recipient DNA
+3. Strand invasion
+4. Development of cross-strand exchange
+5. Resolution of each site (RuvA, RuvB, and RuvC) -> Patches, Splices (heteroduplex)
+
+- Effect of homologus Recombination on Genotype
+	- To generate new genotypes, the homologous sequences must be related but distinct.
+	- In bacteria, genetic recombination occurs after fragments are transferred by transformation, transduction, or sometimes conjugation
+	- To detect exchange of DNA, recombinant cells must be phenotypically different from both parents
+
+### Transformation
+- Unlike the other two mechanisms, genetic information is passed through the extracellular environment
+
+### Competence: a physiological state enabling a bacterium to bind and take up exogenous DNA.
