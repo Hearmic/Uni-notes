@@ -29,4 +29,12 @@ $$OR = \frac{Odds\ in\ exposed}{Odds\ in\ unexposed} = \frac{a/b}{c/d} = \frac{a
 
 ### Chi-square contingency test
 - Used to determine if an association between two or more categorical variables is due to chance
-- 
+- Degrees of freedom: (# Rows  - 1)(# Columns - 1)
+$$X^2 = \sum \frac{(O-E)^2}{E}$$
+- Assumption of the $X^2$ contingency test
+	- No more than 20% of cells can have an expected frequency < 5
+	- No cell can have expected frequency < 1
+
+### Fisher's exact test
+- used when a 2x2 contingency table has row expected frequencies
+- The probabilities of all table sas or more extreame than the one observed are calculated
