@@ -14,6 +14,7 @@ $$Expected\ frequency = \frac{e^{\micro} \micro X}{X!} * n$$
 
 ### Relative risk
 - the probability of an outcome in a treatment group divided by its probability in a control
+- Use when you have a cohort study or randomized controlled trial (known total population/incidence).
 $$RR = \frac{Risk\ in\ exposed}{Risk\ in\ unexposed} = \frac{a/(a+b)}{c/(c+d)}$$
 ### Case control
 - A sample of individuals that have a condition of interest is compared with a sample of individuals that don't
@@ -23,4 +24,5 @@ $$RR = \frac{Risk\ in\ exposed}{Risk\ in\ unexposed} = \frac{a/(a+b)}{c/(c+d)}$$
 - As an alternative to relative risk
 - Odds: ratio of successes: failures (or Pr[A] / Pr[not A])
 - Odds ratio, OR = odds in the "treatment" group / odds in the "control" group
-$$OR = \frac{Odds\ in\ exposed}{Odds\ in\ unexposed} = \frac{a/b}{c/d}$$
+- Use you have a case-control study (starting with outcomes) or in logistic regression analysis.
+$$OR = \frac{Odds\ in\ exposed}{Odds\ in\ unexposed} = \frac{a/b}{c/d} = \frac{ad}{bc}$$
