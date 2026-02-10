@@ -37,4 +37,6 @@ $$X^2 = \sum \frac{(O-E)^2}{E}$$
 
 ### Fisher's exact test
 - used when a 2x2 contingency table has row expected frequencies
-- The probabilities of all table sas or more extreame than the one observed are calculated
+- The probabilities of all table as or more extreme than the one observed are calculated
+$$P = 2 * \sum \frac{R_1!\ R_2!\ C_1!\ C_2!}{a!\ b!\ c!\ d!\ n!}$$
+where: R and C are row and column totals, a, b, c and d 
