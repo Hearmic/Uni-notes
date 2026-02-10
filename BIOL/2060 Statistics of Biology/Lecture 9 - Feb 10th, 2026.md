@@ -26,3 +26,7 @@ $$RR = \frac{Risk\ in\ exposed}{Risk\ in\ unexposed} = \frac{a/(a+b)}{c/(c+d)}$$
 - Odds ratio, OR = odds in the "treatment" group / odds in the "control" group
 - Use you have a case-control study (starting with outcomes) or in logistic regression analysis.
 $$OR = \frac{Odds\ in\ exposed}{Odds\ in\ unexposed} = \frac{a/b}{c/d} = \frac{ad}{bc}$$
+
+### Chi-square contingency test
+- Used to determine if an association between two or more categorical variables is due to chance
+- 
