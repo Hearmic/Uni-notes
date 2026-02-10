@@ -17,3 +17,15 @@ Autophosphorylation, CheA
 4. Active Dispersal (triggered by environmental factors such as nutrient availability)
 
 - Pseudomonas aeruginosa biofilm formation under confocal scanning microscope
+- Ex) Soap sum in the shower, toothbrush, contact lens cases
+
+
+### Bacterial Genetics - Horizontal Gene Transfer
+
+### Plasmids are genetic elements that replicate independently of the chromosome.
+- Typically circular dsDNA (but linear ones are known)
+- Vary from ~1kb to >1000kb
+
+Bacterial DNA: Bacterial Plasmids
+- Vertical gene transfer: Transmission of genetic traits from generation to generation (parent to offspring)
+
