@@ -55,5 +55,7 @@ DprA
 
 ### Transformation
 - Unlike the other two mechanisms, genetic information is passed through the extracellular environment
-
+- DNA Uptake: Requires expression of competence-specific proteins in the recipient cell wall (e.g., Com and Pil proteins)
+  ![[Pasted image 20260210110037.png]]
+  ![[Pasted image 20260210110627.png]]
 ### Competence: a physiological state enabling a bacterium to bind and take up exogenous DNA.
