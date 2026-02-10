@@ -62,7 +62,8 @@ DprA
 - Induction of competence:
 	- Communication -> Cell density (Quorum sensing)
 	- Lead to production of more autoinducers and competence genes
-	- 
+- Genotoxic Stresses: Cause DNA damage -> E.g., Uv light, antibiotics
+- 
 
 ### Competence: a physiological state enabling a bacterium to bind and take up exogenous DNA.
 
