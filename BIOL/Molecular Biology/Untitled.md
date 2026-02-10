@@ -29,3 +29,16 @@ Autophosphorylation, CheA
 Bacterial DNA: Bacterial Plasmids
 - Vertical gene transfer: Transmission of genetic traits from generation to generation (parent to offspring)
 
+Mutation vs Horizontal Gene Transfer
+- Mutation: A spontaneous change in the DNA sequence within a gene that may lead to a change in the trait which this gene 
+
+### Three mechanisms of horizontal gene transfer
+- Transformation
+- Transduction
+- Conjugation
+
+### Homologous Recombination
+Donor Cell -> Recipient Cell
+RecBCD (nicks and unwinds DNA)
+DprA
+
