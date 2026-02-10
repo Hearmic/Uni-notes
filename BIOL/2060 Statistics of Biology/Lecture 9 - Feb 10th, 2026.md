@@ -4,5 +4,5 @@ Poisson model
 
 
 ### The Poisson distribution
-- Clumped, Random, Dispersed
-$$\frac{}{}$$
+- Clumped, Random, Dispersed (uniform)
+$$Expected\ frequency = \frac{e^{\micro} \micro X}{X!} * n$$
