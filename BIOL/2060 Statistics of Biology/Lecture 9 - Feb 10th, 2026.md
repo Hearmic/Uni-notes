@@ -40,3 +40,10 @@ $$X^2 = \sum \frac{(O-E)^2}{E}$$
 - The probabilities of all table as or more extreme than the one observed are calculated
 $$P = 2 * \sum \frac{R_1!\ R_2!\ C_1!\ C_2!}{a!\ b!\ c!\ d!\ n!}$$
 where: R and C are row and column totals, a, b, c and d 
+
+### Normal Distribution
+- Centered on a mean
+- Symmetrical shape
+
+$$f(Y) = \frac{1}{√ 2 \pi \sigma } e^{- \frac{(x-\micro)^2}{2 \sigma ^2}}$$
+The number of standard deviations around the mean (on X axis) is known as Z axis, or Z value
