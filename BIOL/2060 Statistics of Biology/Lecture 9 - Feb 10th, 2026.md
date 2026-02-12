@@ -47,3 +47,9 @@ where: R and C are row and column totals, a, b, c and d
 
 $$f(Y) = \frac{1}{√ 2 \pi \sigma } e^{- \frac{(x-\micro)^2}{2 \sigma ^2}}$$
 The number of standard deviations around the mean (on X axis) is known as Z axis, or Z value
+
+#### Sample Mean
+- if the population has a normal distribution and mean $\micro$, then the distribution of sample means Y 
+- The SEM is the equivalent of calculating standard deviation for a sample mean
+- SE gets smaller with larger n
+- The probabiity of drawing a sample mean 
