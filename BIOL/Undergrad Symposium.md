@@ -12,4 +12,19 @@ Comparing the differntial gene expression in untreated and MPTP-treated WT and K
 Transcriptomics, RNAseq & Bioinformatics (Bioconductor, R)
 Result: Revealed how metabolic stress and Panx1 losses reprogram the entire 
 
-z
+### Two methods of 
+==Cannabinoids== are specialized metabolites produced by Cannabis
+Specialized metabolites defend against harmful organisms
+Produced in glandular trichomes
+Diverse
+
+THC, CBD
+
+Understanding the regulation of cannabinoid production in vivo is a challenge
+Current methods require interdisciplinary expertise, or use tissues lacking trichomes
+
+Can we develop high-throughput methods to transiently express genes Cannabis tissues
+
+
+
+
