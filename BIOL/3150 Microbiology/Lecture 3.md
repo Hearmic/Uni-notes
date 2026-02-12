@@ -61,4 +61,4 @@ Important proteins in conjugation: TraI, TraN, TraG, OmpA, DNA polymerase
 - When chromosomal DNA, containing F plasmid, is transferred from donor (Hfr cell) to the recipient (F- cell)
 - F plasmid nicked in one strand -> Transfer of F followed by chromosomal DNA -> Synthesis of second strand in recipient
 	- Risk: it can be terminated early before passing the entire F plasmid
-- 
+- ![[Pasted image 20260212111820.png]]
