@@ -21,9 +21,12 @@ Diverse
 THC, CBD
 
 Understanding the regulation of cannabinoid production in vivo is a challenge
-Current methods require interdisciplinary expertise, or use tissues lacking trichomes
+Current methods require interdisciplinary expertise or use tissues lacking trichomes
 
-Can we develop high-throughput methods to transiently express genes Cannabis tissues
+Can we develop high-throughput methods to transiently express genes of Cannabis tissues
+
+Transient transformation (expression)
+Genetic information from outside is temporally introduced to the plant cell
 
 
 
