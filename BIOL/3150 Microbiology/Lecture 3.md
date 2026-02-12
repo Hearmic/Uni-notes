@@ -49,3 +49,8 @@ Sankar Adhya: Discovered Cl and CRO (microbiologist)
 | Class 4 A+ B+ C-       | 25            |
 Comparing class 2 and 3, can figure out A and B is closer each other than A and C genes
 Gene order: A B C or C B A
+
+
+### Conjugation
+![[Pasted image 20260212110220.png]]
+When F plasmid is transferred from donor (F+ cell) to recipient (F- cell)
