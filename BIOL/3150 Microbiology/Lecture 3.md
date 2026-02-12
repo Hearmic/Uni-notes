@@ -33,6 +33,19 @@ Lack of preferred carbon sources -> Catabolite repression
 
 Sankar Adhya: Discovered Cl and CRO (microbiologist)
 
-### Determining disance between genes (2-factor cross)
-- Donor cells (metB+, argH+) -> Grow P1 phage -> Transduce recipient cells (metB-, argH-) -> How can you check for presence of functional metB gene?
-- 
+### Determining distance between genes (2-factor cross)
+- Donor cells (metB+, argH+) -> Grow P1 phage -> Transduce recipient cells (metB-, argH-) -> How can you check for the presence of the functional metB gene?
+
+### Mapping gene order (3-factor cross)
+- Donor strain A+, B-, C+
+- Recipient strain A-, B+, C-
+- Possible transductions 
+
+| Possible transductants | Actual number |
+| ---------------------- | ------------- |
+| Class 1 A+ B- C+       | 100           |
+| Class 2 A+ B- C-       | 25            |
+| Class 3 A+ B+ C+       | 2             |
+| Class 4 A+ B+ C-       | 25            |
+Comparing class 2 and 3, can figure out A and B is closer each other than A and C genes
+Gene order: A B C or C B A
