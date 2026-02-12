@@ -24,4 +24,8 @@ Lack of preferred carbon sources -> Catabolite repression
 - ![[Pasted image 20260212102001.png]]
 
 ### Specialized Transduction
+![[Pasted image 20260212102534.png]]
+- CI protein repressor: prevents lytic genes from being transcribed (promotes lysogeny)
+- CRO transcriptional repressor: binds to an operator that represses CL expression (promotes lytic cycle)
+- ex) Phage Lambda
 - 
