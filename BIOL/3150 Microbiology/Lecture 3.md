@@ -10,3 +10,18 @@ Lack of preferred carbon sources -> Catabolite repression
 3. Competence can be induced by quorum sensing, DNA damage, or a lack of certain nutrients in the cell.
 4. Transformation can result in the acquisition of new genes (e.g., those for antibiotic resistance or pathogenicity).
 
+### Transduction
+- Virus infection chromosomes disruption
+### Generalized transduction: DNA from any prortion of the host genome is packaged inside the virion
+- Sometimes host DNA accidentally packaged into phage, forming thransductng particle that is defective and cannot lead to viral lytic infection
+- Donor genes cannot replicate
+- Recipient infected by transducing particle, homologous recombination 
+
+- Gram-positive (+): phage binds to receptors on the peptidoglycan cell wall.
+- Gram-negative (-): Phages bind to receptors on the LPS layer or via the ==Porin== proteins (or both in some cases). 
+- Both processes are called Adsorption
+- ![[Pasted image 20260212101938.png]]
+- ![[Pasted image 20260212102001.png]]
+
+### Specialized Transduction
+- 
