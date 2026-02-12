@@ -20,6 +20,7 @@ Lack of preferred carbon sources -> Catabolite repression
 - Gram-positive (+): phage binds to receptors on the peptidoglycan cell wall.
 - Gram-negative (-): Phages bind to receptors on the LPS layer or via the ==Porin== proteins (or both in some cases). 
 - Both processes are called Adsorption
+- Low efficiency
 - ![[Pasted image 20260212101938.png]]
 - ![[Pasted image 20260212102001.png]]
 
@@ -28,4 +29,10 @@ Lack of preferred carbon sources -> Catabolite repression
 - CI protein repressor: prevents lytic genes from being transcribed (promotes lysogeny)
 - CRO transcriptional repressor: binds to an operator that represses CL expression (promotes lytic cycle)
 - ex) Phage Lambda
+- High efficiency (all the phages would have bacterial genes)
+
+Sankar Adhya: Discovered Cl and CRO (microbiologist)
+
+### Determining disance between genes (2-factor cross)
+- Donor cells (metB+, argH+) -> Grow P1 phage -> Transduce recipient cells (metB-, argH-) -> How can you check for presence of functional metB gene?
 - 
