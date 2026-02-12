@@ -54,3 +54,11 @@ Gene order: A B C or C B A
 ### Conjugation
 ![[Pasted image 20260212110220.png]]
 When F plasmid is transferred from donor (F+ cell) to recipient (F- cell)
+Important proteins in conjugation: TraI, TraN, TraG, OmpA, DNA polymerase
+![[Pasted image 20260212110733.png]]
+- Hfr Strain Formation
+  ![[Pasted image 20260212110841.png]]
+- When chromosomal DNA, containing F plasmid, is transferred from donor (Hfr cell) to the recipient (F- cell)
+- F plasmid nicked in one strand -> Transfer of F followed by chromosomal DNA -> Synthesis of second strand in recipient
+	- Risk: it can be terminated early before passing the entire F plasmid
+- 
