@@ -45,7 +45,7 @@ DprA
 1. Endonuclease nicks DNA
 2. Binding of SSD protein -> Recipient DNA
 3. Strand invasion
-4. Development of cross-strand exchange
+4. Development of cross-strand exchange -> Holiday juction
 5. Resolution of each site (RuvA, RuvB, and RuvC) -> Patches, Splices (heteroduplex)
 
 - Effect of homologus Recombination on Genotype
