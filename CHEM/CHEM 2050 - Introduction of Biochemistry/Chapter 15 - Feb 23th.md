@@ -71,7 +71,7 @@ $$ATP^{4-} + H_2O \to ADP^{3-} + HPO_4^{2-} + H^+$$
 - Rotate Ficscher 180˚ is allowed
 
 ### Aldotetroses
-- Contain two chiral carbons, C-2 and C-3, with four possible stereoisomers
-- Two naturally occurring 
+- Aldehyde that contains two chiral carbons, C-2 and C-3, with four possible stereoisomers
+- Diastereomers: Stereoisomers that are not enantiomers
   ![[Pasted image 20260223124318.png]]
-- The highest number chiral carbon whose OH group pointing right is considered 
+- The highest number of chiral carbons whose OH group points right is considered D- (L- enantiomers doesn't exist in nature)
