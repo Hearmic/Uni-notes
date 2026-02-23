@@ -23,7 +23,22 @@ $$ATP^{4-} + H_2O \to ADP^{3-} + HPO_4^{2-} + H^+$$
 
 
 ### Coenzyme A
-![[Pasted image 20260223121259.png]]
+
 - Not redox activating
-- act as a acyl group 
+- act as a carrier of acyl groups by forming highly activated 
 - $CoA-SH \to CoA-S-C(=O)-R$ 
+- If R = CH3, called Acetyl-CoA
+- Hydrolysis of Acetyl-CoA (Product Acetate is stabilized by resonance)
+- Acetyl-CoA + H_2O -> CoA + Acetic Acid (G˚' << -31.4kJ/mol)
+- Oxaloacetate + Acetic Acid -> Citrate + H_2O (G˚' > 0)
+- AcetylCoA + oxaloacetate -> CoA + Citrate (G˚' < 0) (Overall)
+
+## Chapter 16 - Carbohydrates
+
+- Polyhydroxy aldehydes or polyhydroxy ketones or polymers that can be hydrolyzed to them
+- Monosaccharides:
+	- Compounds that contain a single carbonyll group and two or more hydroxyl groups
+	- Cannot be hydrolyzed to simpler carbohydrates
+	- Have the general formula $C_n(H_2O)_n$
+- Oligosaccharides and Polysaccharides
+	- S
