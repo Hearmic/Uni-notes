@@ -41,4 +41,24 @@ $$ATP^{4-} + H_2O \to ADP^{3-} + HPO_4^{2-} + H^+$$
 	- Cannot be hydrolyzed to simpler carbohydrates
 	- Have the general formula $C_n(H_2O)_n$
 - Oligosaccharides and Polysaccharides
-	- S
+	- Sugars linked by glycosidic bonds
+	- Formed when two or more monosaccharides are bonded together
+
+### Oligosaccharides
+![[Pasted image 20260223122900.png]]
+- Play a key role in process that take place on the surfaces of cells, such as cell-cell 
+
+### Polysaccharides
+- Energy Storage
+- Essential structural components of several classes of organisms
+- Wood, Cell Wall of plants are composed of celluose
+
+### Monosaccharides
+- Building blocks of all carbohydrates, major energy source for life
+- Aldose/Ketose: Monosaccharide containing an aldehyde/ketone group as part of its structure
+- Triose - Simplest monosaccharide that contains three carbon atoms 
+
+### Trioses 
+- Dihydroxyacetone (achiral)
+- Glyceraldehyde (chiral)
+- D- and L-glyceraldehyde are enantiomers
