@@ -59,6 +59,19 @@ $$ATP^{4-} + H_2O \to ADP^{3-} + HPO_4^{2-} + H^+$$
 - Triose - Simplest monosaccharide that contains three carbon atoms 
 
 ### Trioses 
+![[Pasted image 20260223123601.png]]
 - Dihydroxyacetone (achiral)
 - Glyceraldehyde (chiral)
-- D- and L-glyceraldehyde are enantiomers
+- D- and L-glyceraldehyde are enantiomers (L-glyceraldehyde is generally considered not to occur in nature)
+
+
+### Fischer Projections
+- Convention for monosaccharides - most oxidized carbon as close to the top as possible, "top" carbon labelled C1
+- D/L configuration assigned from the highest numbered chiral carbon (-OH bonded to right: D)
+- Rotate Ficscher 180˚ is allowed
+
+### Aldotetroses
+- Contain two chiral carbons, C-2 and C-3, with four possible stereoisomers
+- Two naturally occurring 
+  ![[Pasted image 20260223124318.png]]
+- The highest number chiral carbon whose OH group pointing right is considered 
