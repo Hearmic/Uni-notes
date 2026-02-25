@@ -75,3 +75,5 @@ $$ATP^{4-} + H_2O \to ADP^{3-} + HPO_4^{2-} + H^+$$
 - Diastereomers: Stereoisomers that are not enantiomers
   ![[Pasted image 20260223124318.png]]
 - The highest number of chiral carbons whose OH group points right is considered D- (L- enantiomers doesn't exist in nature)
+
+![[Pasted image 20260225122621.png]]
