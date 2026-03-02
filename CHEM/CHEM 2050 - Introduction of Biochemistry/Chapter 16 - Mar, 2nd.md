@@ -10,4 +10,17 @@
 - Glycogen phosphorylase and debranching enzymes assist in the breakdown of glycogen
 
 ### Cellulose
-- Major structtural componet of plants, especially of wood 
+- Major structtural componet of plants, especially of wood and plant fibers
+- Linear homopolysaccharide of Beat-D-Glucose
+- Residues are linked in $\beta(1\to4)$ glycosidic bond
+
+# Chapter 17
+
+### Glycolysis
+Glycolytic pathway
+#### Multiple possibilities for pyruvate
+- Anaerobic glycolysis ot produce lactate
+- Anaerobic alcoholic fermentation to reduce ethanol
+- Aerobic respiration 
+
+
