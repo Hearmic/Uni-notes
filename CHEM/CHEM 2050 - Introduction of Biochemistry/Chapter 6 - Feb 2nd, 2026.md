@@ -54,3 +54,5 @@ $K_M$ has units of concentration. Smaller the $K_M$, the greater then binding af
 	- $V_0 = k_2[E]_T \approx V_{max}$ (reaction becomes zero-order in [S]
 - Every enzyme has $V_{max}$ on given its concentration
   ![[Pasted image 20260202125124.png]]
+
+[[Chapter 7 - Feb 4th, 2026]]

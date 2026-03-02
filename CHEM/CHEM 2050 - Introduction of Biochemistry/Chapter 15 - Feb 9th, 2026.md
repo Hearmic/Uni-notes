@@ -53,3 +53,4 @@ $$ATP_{(aq)} + H_2O \leftrightarrow ADP_{(aq)} + {P_i}_{(aq)} + H^+_P{(aq)}$$
 - When ADH oxidizes ethanol to acetaldehyde, NAD+ is reduced to NADH 
 - NAD+ takes 2 electrons and 1 proton to form NADH with 1 proton leftover
 
+[[Chapter 15 - Feb 23th]]

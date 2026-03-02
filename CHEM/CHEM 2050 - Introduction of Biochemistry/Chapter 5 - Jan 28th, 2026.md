@@ -88,3 +88,4 @@ Method of separating substances on the basis of charge
 - The longer the protein, more SDS molecules surround, thus more overall negative charge
 - $\beta$-mercaptoethanol often added (ensure breaking disulfide bridge)
 
+[[Chapter 6 - Feb 2nd, 2026]]

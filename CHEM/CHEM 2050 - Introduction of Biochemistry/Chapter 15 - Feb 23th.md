@@ -77,3 +77,5 @@ $$ATP^{4-} + H_2O \to ADP^{3-} + HPO_4^{2-} + H^+$$
 - The highest number of chiral carbons whose OH group points right is considered D- (L- enantiomers doesn't exist in nature)
 
 ![[Pasted image 20260225122621.png]]
+
+[[Chapter 16 - Feb 25th, 2026]]

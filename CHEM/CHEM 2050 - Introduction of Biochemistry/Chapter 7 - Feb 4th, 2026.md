@@ -65,3 +65,4 @@ $$\frac{1}{V} = \frac{K_M}{V_{max}}(1 + \frac{[I]}{K_I}) + \frac{1}{[S]}(1 + \fr
 - Acetylcholine $\to$ Acetic acid + Choline (with acetylcholinesterase and water)
 - Used in medicine (ex: $\beta$-lactam antibiotics such as penicillin)
 
+[[Chapter 15 - Feb 9th, 2026]]

@@ -73,3 +73,5 @@
 - When separated from the protein, domains often retain their function
 - ex) Calmodulin
 
+[[Chapter 4 - Jan 21st, 2026]]
+
