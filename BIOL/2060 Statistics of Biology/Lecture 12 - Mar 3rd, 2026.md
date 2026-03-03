@@ -46,3 +46,4 @@ $$SE_{\overline{Y}} = \frac{\sigma}{\sqrt{n}}$$
 - Data are a random ample
 - Variable has a normal distribtion
 	- t-test is robust (remains accurate) with variables that show moderate deviations from normality
+
