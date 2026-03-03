@@ -32,7 +32,7 @@ R: 2*(1-pt(q=abs(2.5), df=9))
 
 ### The T distribution can be used to calculate a more accurate 
 $$-t_{0.05(2),df} < \frac{\overline{Y}-\micro}{SE_\overline{Y}} < t_{0.05(2),df}$$
-$\micro = \overline{Y} \pm (SE_\overline{Y})(t_{0.05(2),df}$
+$\micro = \overline{Y} \pm (SE_\overline{Y})(t_{0.05(2),df})$
 
 ### A one-sample T-test is used to test the hypothesis that a sample is from a population with a specified mean, $\micro _0$
 - $H_0$ the true mean is $\micro_0$
