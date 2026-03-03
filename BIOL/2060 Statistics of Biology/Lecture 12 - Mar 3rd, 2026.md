@@ -47,3 +47,24 @@ $$SE_{\overline{Y}} = \frac{\sigma}{\sqrt{n}}$$
 - Variable has a normal distribtion
 	- t-test is robust (remains accurate) with variables that show moderate deviations from normality
 
+### When to use Z vs T
+1. You are given a population mean ($\micro$) and population standard deviaton ($\sigma$) and asked to calculate the probability of one or more values and/or a range of values: 
+	- Z = (x-$\micro$)/$\sigma$
+2. You are given a population mean ($\micro$) and population stand deviation and asked to calculate the probability of a sample 
+	- Z = (Y-)
+
+### Paired vs Two sample T-test are used to compare the means of two different samples
+- Two-sample (unpaired) test: each sampled unit is assigned to one of two treatments
+- Paired test: each sample unit has both treatments applied to it
+- e.g., two different medical studies testing the effect of a drug on blood pressure: 
+
+Pairs of siblings are recruited; within each pair, one is assigned to the drug treatment, the other to the placebo
+Increases power by reducing variations unrelated to treatment
+
+## Paired T-test
+In a paired design, sampling units may be individuals or non-
+- If individuals, may be sampled before and after treatment;
+	- Patients measured before and after hospitalization
+	- Water quality of lakes meausred before and after introduction of a pollutant
+- Or, different parts of the same individual may be treated
+
