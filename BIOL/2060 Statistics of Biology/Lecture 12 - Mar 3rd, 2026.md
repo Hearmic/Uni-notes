@@ -39,7 +39,10 @@ $\micro = \overline{Y} \pm (SE_\overline{Y})(t_{0.05(2),df}$
 - $H_A$ the true mean is not $\micro_0$
 
 $$SE_{\overline{Y}} = \frac{\sigma}{\sqrt{n}}$$
+### Larger sample reduces the risk of type II error
+- Larger sample -> greater ability to reject H_0 when there is a small, but real, difference between $\overline{Y}$ and $\micro$ 
 
-
-
- 
+### Assumptions of the one-sample test
+- Data are a random ample
+- Variable has a normal distribtion
+	- t-test is robust (remains accurate) with variables that show moderate deviations from normality
