@@ -65,6 +65,10 @@ Increases power by reducing variations unrelated to treatment
 In a paired design, sampling units may be individuals or non-
 - If individuals, may be sampled before and after treatment;
 	- Patients measured before and after hospitalization
-	- Water quality of lakes meausred before and after introduction of a pollutant
+	- Water quality of lakes measured before and after introduction of a pollutant
 - Or, different parts of the same individual may be treated
+
+### In a paired T-test, the null hypothesis is that the mean difference between paired measurements is a specific value (not necessarily zero)
+
+
 
