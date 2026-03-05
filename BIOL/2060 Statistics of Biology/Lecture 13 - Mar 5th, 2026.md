@@ -48,5 +48,36 @@ $$(\overline{Y_1}-\overline{Y_2})-SE_{Y_1-Y_2}*t_{0.05(2).df} < \micro_1 - \micr
 - H_0 : $\sigma_1^2 = \sigma_2^2$
 
 - Test statistic = F (aka an "F ratio") = s1^2/s_2^2, where s1^2 is the larger sample variance
+- Critical values
 
 ### Larger variance is in numerator -> F-test is one-tailed 
+Below: Table D - critical value
+
+ex) if n1 = 7, n2 = 9
+and s1^2 > s2^2
+df1 = 6, df2.= 8
+$F_{0.05(2)df1,df2}$
+
+### The F-test can be 
+
+### As can Levene's test for homogeneity of variance
+- Can be applied to more than two groups: 
+- H_0 = $\sigma_0^2 =\sigma_1^2 = \sigma_2^2 = ... etc$
+- H_A = at least one of $\sigma^2$ is different from the others
+- More robust to deviations from normality
+- Test statistic = W = 
+
+
+### Welch's approximate T-test can be used if variance are not similar
+$$t = \frac{(Y_1 - Y_2) - (\micro_1 - \micro_2)}{\sqrt{\frac{s_1^2}{n_1} + \frac{s_2^2}{n_2}}}$$
+
+Welch's confidence interval: ()
+
+
+### T-test assumptions 3) Independent samples
+1. Every individual in the population being sampled must have an equal chance of being sampled
+2. Sampled individuals must be independent
+
+If units are not independent, pseudoreplication will occcur
+- 
+
