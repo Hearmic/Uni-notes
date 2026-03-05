@@ -99,3 +99,14 @@ Problem: means for fathers and mothers not significantly different in direct com
 
 
 
+### T-test assumptions 3) Normality
+- Statistical tests 
+- Graphical methods can be used to informally judge whether a sample likely comes from a normally-distributed population
+- Frequency distribution histogram
+- If the sample is strongly skewed, mimodal, or has outliers, the original population is unlikely 
+
+### Normal Quantile plot
+- Compares the rank of each observation in a sample with the corresponding quantile in a standard normal distribution
+
+
+
