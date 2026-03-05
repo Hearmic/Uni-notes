@@ -31,3 +31,22 @@ $df = df_1 + df_2 = n_1 + n_2 - 2$
 
 ### Calculating a Confidence Interval for the differnece between two means
 $$(\overline{Y_1}-\overline{Y_2})-SE_{Y_1-Y_2}*t_{0.05(2).df} < \micro_1 - \micro_2 < (\overline{Y_1}-\overline{Y_2})+SE_{Y_1-Y_2}*t_{0.05(2).df}$$
+
+
+## Lecture 14 - Two-sample t-test assumptions
+1. random sample
+2. Homogeneity of variance
+	- A requirement of the two sample t-test is that s and s^2 are the same in the populations being compared
+	- Two-sample t-test is robust up to a 3-fold difference in s if 
+		- Sample sizes are similar
+		- Sample size are > 30
+	- If difference is greater than 3-fold and /or sample sizes are not similar and/or are < 30, two-sample t-test is unreliable
+3. Independent samples
+4. Normal distribution
+
+### The F-test can be used to compare the variances of two samples
+- H_0 : $\sigma_1^2 = \sigma_2^2$
+
+- Test statistic = F (aka an "F ratio") = s1^2/s_2^2, where s1^2 is the larger sample variance
+
+### Larger variance is in numerator -> F-test is one-tailed 
