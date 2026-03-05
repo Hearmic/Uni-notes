@@ -35,8 +35,10 @@ $$-t_{0.05(2),df} < \frac{\overline{Y}-\micro}{SE_\overline{Y}} < t_{0.05(2),df}
 $\micro = \overline{Y} \pm (SE_\overline{Y})(t_{0.05(2),df})$
 
 ### A one-sample T-test is used to test the hypothesis that a sample is from a population with a specified mean, $\micro _0$
-- $H_0$ the true mean is $\micro_0$
-- $H_A$ the true mean is not $\micro_0$
+- $H_0$ the true mean $\micro$ =  $\micro_0$
+- $H_A$ the true mean ($\micro$) =/= $\micro_0$
+- Test statistic = t = Y - u_0 / SE_Y, with df = n - 1
+- 95% CI: 
 
 $$SE_{\overline{Y}} = \frac{\sigma}{\sqrt{n}}$$
 ### Larger sample reduces the risk of type II error
@@ -58,17 +60,20 @@ $$SE_{\overline{Y}} = \frac{\sigma}{\sqrt{n}}$$
 - Paired test: each sample unit has both treatments applied to it
 - e.g., two different medical studies testing the effect of a drug on blood pressure: 
 
+Individuals are recruited and randomly assigned to one of two groups: drug or placebo
+
 Pairs of siblings are recruited; within each pair, one is assigned to the drug treatment, the other to the placebo
-Increases power by reducing variations unrelated to treatment
+Increases power by reducing variations unrelated to treatment.
 
 ## Paired T-test
 In a paired design, sampling units may be individuals or non-
-- If individuals, may be sampled before and after treatment;
-	- Patients measured before and after hospitalization
-	- Water quality of lakes measured before and after introduction of a pollutant
+- If individuals may be sampled before and after treatment;
+	- Patients were measured before and after hospitalization
+	- Water quality of lakes measured before and after the introduction of a pollutant
 - Or, different parts of the same individual may be treated
 
 ### In a paired T-test, the null hypothesis is that the mean difference between paired measurements is a specific value (not necessarily zero)
 
-
+### Students' T:
+Substitute SE_Y, 
 
