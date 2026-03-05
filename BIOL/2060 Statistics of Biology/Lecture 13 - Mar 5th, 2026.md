@@ -8,13 +8,23 @@ If we take pairs of randomly- generated samples and calculate the difference bet
 ### Pooled sample variance
 where, df1 and df2 are the degrees of freedom of Samples 1 and 2; df1 = n1 -1; df2 = n2 - 2
 s1^2 and s^2 are 
-
-$$s_p^2 = \frac{df_1s_1^2+df_2s}{}$$
+$$s_p^2 = \frac{df_1s_1^2+df_2s_2^2}{df_1 + df_2}$$
 
 ### And then the standard error of the difference between means, $SE_{\overline{Y_1}-\overline{Y_2}}$
+
+### 1. Formulate hypothesis
 $$SE_{\overline{Y_1}-\overline{Y_2}} = \sqrt{s_p^2(\frac{1}{n_1}+\frac{1}{n_2})}$$
 - Hypotheses for a two sample t-test
 - H0 = u1 = u2 
 - H_A = u1 =/= u2
 - Two-sample t-test calculates a t statictics based on the differnece between observed sampled means
 
+$$t = \frac{\overline{Y_1}-\overline{Y_2}}{SE_{\overline{Y_1}-\overline{Y_2}}}$$
+
+### 2. Calculate $$s_p^2 = \frac{df_1s_1^2+df_2s_2^2}{df_1 + df_2}$$
+
+### 4. Determine P-value
+$df = df_1 + df_2 = n_1 + n_2 - 2$
+
+### Calculating a Confidence Interval for the differnece between two means
+$$(\overline{Y_1}-\overline{Y_2})-SE_{Y_1-Y_2}*t_{0.05(2).df} < \micro_1 - \micro_2 < (\overline{Y_1}-\overline{Y_2})+SE_{Y_1-Y_2}*t_{0.05(2).df}$$
