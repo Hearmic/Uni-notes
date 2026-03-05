@@ -79,5 +79,23 @@ Welch's confidence interval: ()
 2. Sampled individuals must be independent
 
 If units are not independent, pseudoreplication will occcur
-- 
+- Fish in the same river are not independent 
+	- Survival of salmon is affected by many factors that could vary in each river
+- Rivers (not individual salmon) are the independent sampling units
+- Conduct two-sample t-test using proportion of salmon surviving (n=6 in each treatment) 
+
+### Indirect comparisons between samples should be avoided
+Do babies resemble their fathers more than their mothers/
+asked volunteers to idenify parents of babies from a choice of three photos
+H_0: correct identifications made 33% of the time
+results: Mean % correct for fathers > 33% (P < 0.05)
+Mean for mothers not different from 33% (P < 0.05)
+
+Concluded babies' resemblance to their fathers is greater than that to their mothers
+
+Problem: means for fathers and mothers not significantly different in direct comparison (overlap of each confidence intervals)
+
+### Confidence intervals can sometimes be used in Lieu of hypothesis tests, but not always.
+
+
 
