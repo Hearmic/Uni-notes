@@ -74,6 +74,4 @@ In a paired design, sampling units may be individuals or non-
 
 ### In a paired T-test, the null hypothesis is that the mean difference between paired measurements is a specific value (not necessarily zero)
 
-### Students' T:
-Substitute SE_Y, 
 
