@@ -43,5 +43,14 @@
 - Oxidation half-reactions require the sign of E to be flipped
 - Spontaneous redox reactions have positive E values
 
+Negative E˚' -> Non- spontaneous an standard state conditions.
+
+### Calculation of $\Delta G˚'$
+
+- $\Delta G˚'$ represents the free-energy change of a reaction under standard conditions
+- $\Delta G˚'$ of a redox reaction is calculated using the following equations:
+- $\Delta G˚'$ = -nFE˚'
+- n - Number of moles of electrons transferred
+- F - Faraday's constant (96.485kJ V^-1)
 
 
