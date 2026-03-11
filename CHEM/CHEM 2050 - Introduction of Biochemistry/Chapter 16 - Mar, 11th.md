@@ -66,9 +66,28 @@ Overall Equation $NADH + H^+ + CoQ -> NAD^+ + CoQH_2$
 #### Complex II - Succinate:CoQ Oxidoreuctase
 - Overall Succinate + CoQ -> Fumarate + CoQH2
 - Succinate -> FAD -> S-FA -> CoQ
+- $\Delta G˚'$ is not large enough to pump H+
 #### Complex III - CoQ-cytochrome C oxidoreductase
 - The 2 electrons from CoQH2 take different paths since cyt C can only take 1 electron (Q cycling)
-- Round 1 - CoQH2 -> FeS cluster cyt C1 cyt C, or CoQH2 -> cyt B -> CoQ (which )
-- 
+- Round 1 - CoQH2 -> FeS cluster cyt C1 -> cyt C -> complex IV, or CoQH2 -> cyt B -> CoQ (which picks up one electron to form CoQH, which stays within the complex)
+- Round 2 - new CoQH2 -> FeS cluster -> cyt C1 -> cyt C (new) -> complex IV, or CoQH2 -> cyt B -> CoQH (which picks up another electron to form CoQH2)
+- Overall: $CoQH2 + 2Cyt c(Fe^{3+}) \to CoQ + 2Cyt c (Fe^{2+}) + 2H^+$
+
+#### Complex IV  -Cytochrome c Oxidases
+- Cyt c -> $Cyt\ a$ -> $Cu^{2+}$ -> $Cyt\ a_3$ -> $O_2$
+$$2 Cyt\ c(Fe^{2+} + \frac{1}{2}O_2 + 2H^+ \to 2Cyt c (Fe^{3+}) + H_2O \ (\Delta G˚' = -108 kJ/mol)$$
+
+ $CN^-$ inhibits complex IV -> deadly toxic
+
+
+### Electron Transport Chain Bookkeeping
+- The entire electron transport chain has the following reaction for NADH
+- $$NADH + \frac{1}{2} $$
+- E˚' = 1.14V; $\Delta G ˚'$ = -220kJ/mol
+- Phosphorylation of ADP using p_i has G˚' = 30.5kJ/mol
+
+### Connection between ETC
+
+
 
 
