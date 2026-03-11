@@ -21,7 +21,27 @@
 ![[Pasted image 20260311114716.png]]
 
 ### Cytochromes 
-	- Proteins which contain heme groups (Fe atom within a porphyrin ring)
+- Proteins which contain heme groups (Fe atom within a porphyrin ring)
 - Fe atoms cycle between +2 and +3  oxidation states
 - Many families of cytochromes (a, b, c, etc.)
 - Located within complexes III and IV
+
+### Between complexes, electrons are 
+#### Coenzyme Q
+- Can carry one or two electrons (ubiquinone)
+![[Pasted image 20260311115403.png]]
+![[Pasted image 20260311115412.png]]
+
+#### Cytochrome C (Cyt c)
+- Carries one electron only (heme Fe)
+- Travels in the intermembrane space between complexes III -> IV
+![[Pasted image 20260311115600.png]]
+
+### Reduction Potentials in the Electron Transport Chain
+- Standard reduction potentials (E˚') are used to determine if redox reactions are favorable at standard state conditions
+- All values given are for reduction half-reactions, relative to the reduction of $H^+$ to $H_2$ (arbitrarily defined as 0V) 
+- Oxidation half-reactions require the sign of E to be flipped
+- Spontaneous redox reactions have positive E values
+
+
+
