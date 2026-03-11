@@ -87,6 +87,22 @@ $$2 Cyt\ c(Fe^{2+} + \frac{1}{2}O_2 + 2H^+ \to 2Cyt c (Fe^{3+}) + H_2O \ (\Delta
 - Phosphorylation of ADP using p_i has G˚' = 30.5kJ/mol
 
 ### Connection between ETC
+- pH of mitochondrial matrix is lower than that of Intermembrane space
+
+### Connection between Electron Transport and Phosphorylation
+- Complex I pumps 4H+
+- Complex III pumps 4H+
+- Complex IV pumps 2H+
+
+One NADH pump $10H^+$
+One FADH2 pump $6H^+$ (starting from Complex II)
+
+### ATP Synthase 
+- Enzyme which uses chemiosmosis of H+ back into the matrix to synthesize ATP
+- Complex protein oligomer that works as a molecular motor
+- F_o - Portion of the protein that spans the membrane (site of H+ movement)
+- F_1 - Portion of the protein that synthesize ATP 
+![[Pasted image 20260311124034.png]]
 
 
 
