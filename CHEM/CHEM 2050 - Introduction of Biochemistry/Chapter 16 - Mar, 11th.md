@@ -103,7 +103,7 @@ One FADH2 pump $6H^+$ (starting from Complex II)
 - F_o - Portion of the protein that spans the membrane (site of H+ movement)
 - F_1 - Portion of the protein that synthesize ATP 
 ![[Pasted image 20260311124034.png]]
-
-
+- $\gamma$ subunit rotate while $\alpha\ and\ \beta$ subunits don't
+- 
 
 
