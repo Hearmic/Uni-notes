@@ -53,4 +53,22 @@ Negative E˚' -> Non- spontaneous an standard state conditions.
 - n - Number of moles of electrons transferred
 - F - Faraday's constant (96.485kJ V^-1)
 
+#### Complex I - NADH:CoQ Oxidoreductase
+Stage 1 - Transfer of electrons from NADH to the flavin portion of the flavoprotein
+NADH + H+ + E-FMN -> NAD+ + E-FMNH2
+
+Stage 2 - Reduced FMN is reoxidized, and the oxidized form of the iron-sulfur 
+
+Stage 3 - Reduced iron-sulfur, shuttle to complex III
+
+Overall Equation $NADH + H^+ + CoQ -> NAD^+ + CoQH_2$
+
+#### Complex II - Succinate:CoQ Oxidoreuctase
+- Overall Succinate + CoQ -> Fumarate + CoQH2
+- Succinate -> FAD -> S-FA -> CoQ
+#### Complex III - CoQ-cytochrome C oxidoreductase
+- The 2 electrons from CoQH2 take different paths since cyt C can only take 1 electron (Q cycling)
+- Round 1 - CoQH2 -> FeS cluster cyt C1 cyt C, or CoQH2 -> cyt B -> CoQ (which )
+- 
+
 
