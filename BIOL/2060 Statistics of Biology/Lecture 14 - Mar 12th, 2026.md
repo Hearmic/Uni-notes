@@ -28,16 +28,15 @@
 	- $H_0$:
 	- $H_1$: 
 
-$$ Y_{ij} - \overline{Y} = (Y_{ij} - \overline{Y_i}) - (Y_i - \overline{Y})$$
+$$ Y_{ij} - \overline{Y} = (Y_{ij} - \overline{Y_i}) + (Y_i - \overline{Y})$$
 
 Recall: variance is a measure of the spread of point
 
 
 ### Sum of squares in ANOVA
-- Groups SS: $SS_{groups} = \Sigma_i n_i (\overline{Y_i} - \overline{Y})^2$
-- 
-
-
+- Groups SS: 
+- $$SS_{groups} = \Sigma_i n_i (\overline{Y_i} - \overline{Y})^2$$
+- The error sums of squares, $SS_{error}$ for the saliva data $$SS_{error} = \Sigma_i \Sigma_j (Y_{ij} - \overline{Y_i})^2$$
 ### Grand Mean $\overline{Y}$
 $$\overline{Y} = \frac{\Sigma_i\ Y_{ij}}{N} = \frac{\Sigma_i\ n_i\ \overline{Y_i}}{N}$$
 $$\overline{Y} = \frac{\Sigma_i\ Y_{i}}{k}$$
