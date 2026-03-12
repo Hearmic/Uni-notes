@@ -28,16 +28,19 @@
 	- $H_0$:
 	- $H_1$: 
 
-$$ Y_{ij} - \overline{Y} = (Y_{ij} - \overline{Y_i}) - ($$
+$$ Y_{ij} - \overline{Y} = (Y_{ij} - \overline{Y_i}) - (Y_i - \overline{Y})$$
 
 Recall: variance is a measure of the spread of point
 
 
 ### Sum of squares in ANOVA
-- Groups SS: $SS_groups = \Sigma_i n_i (\overline{Y_i} - Y_i)$
+- Groups SS: $SS_{groups} = \Sigma_i n_i (\overline{Y_i} - \overline{Y})^2$
+- 
 
 
 ### Grand Mean $\overline{Y}$
 $$\overline{Y} = \frac{\Sigma_i\ Y_{ij}}{N} = \frac{\Sigma_i\ n_i\ \overline{Y_i}}{N}$$
 $$\overline{Y} = \frac{\Sigma_i\ Y_{i}}{k}$$
+
+
 
