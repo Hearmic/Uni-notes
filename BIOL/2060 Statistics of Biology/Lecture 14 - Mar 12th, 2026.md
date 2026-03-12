@@ -41,5 +41,7 @@ Recall: variance is a measure of the spread of point
 $$\overline{Y} = \frac{\Sigma_i\ Y_{ij}}{N} = \frac{\Sigma_i\ n_i\ \overline{Y_i}}{N}$$
 $$\overline{Y} = \frac{\Sigma_i\ Y_{i}}{k}$$
 
-
+### The F-ratio is the ANOVA test statistic
+$F = MS_{groups} / MS_{error}$
+If $H_0$ is correct, $MS_{groups}$ 
 
