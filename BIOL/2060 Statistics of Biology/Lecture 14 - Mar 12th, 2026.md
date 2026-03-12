@@ -26,3 +26,5 @@
 - Recall: $\micro$ = population mean 9i.e., the "real" mean if we could measure every individual)
 - In ANOVA,
 	- $H_0$:
+	- $H_1$: 
+
