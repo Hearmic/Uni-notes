@@ -104,6 +104,11 @@ One FADH2 pump $6H^+$ (starting from Complex II)
 - F_1 - Portion of the protein that synthesize ATP 
 ![[Pasted image 20260311124034.png]]
 - $\gamma$ subunit rotate while $\alpha\ and\ \beta$ subunits don't
-- 
+-  $\gamma$ stalk: spins "axle" due to c rotating
+- 3$\alpha$ and 3$\beta$ do not rotate freely, anchored in place
+
+- 1 ATP is generated for every 4H+ that travel through F_0
+- 1 NADH oxidation pumps 10H+ in total, hence ATP produced 
+- 1 FADH2 oxid
 
 
