@@ -136,12 +136,18 @@ One FADH2 pump $6H^+$ (starting from Complex II)
 	- Sterols (cell membranes and hormones)
 	- Waxes (plant cuticles, etc.)
 
-- Metabolic oxidation of lipids releases large quantities of energy through production of acetyl-CoA, NADH, and FADH_2
+- Metabolic oxidation of lipids releases large quantities of energy through the production of acetyl-CoA, NADH, and FADH_2
 
 Triglycerol = Triacylglycerol
 
 ### Fatty Acids
-- Fatty acids consist of long hydrocarbon chains (C12 to C24) with carboxyl group
+- Fatty acids consist of long hydrocarbon chains (C12 to C24) with a carboxyl group
 - Transported to tissues by binding to serum albumin
 - Saturated fatty acids vs. Unsaturated fatty acids
-  
+
+### Fatty Acid Activation
+- Fatty acid oxidation begins with activation of the molecule in the cytosol
+- The fatty acid chain forms a thioester bond with coenzyme A, requiring "2 ATP"
+- Catalyzed by acyl-CoA synthetase
+- Once formed, acyl-CoA needs to enter the mitochondrial matrix for $\beta$-oxidation
+
