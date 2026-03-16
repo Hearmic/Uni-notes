@@ -117,8 +117,9 @@ One FADH2 pump $6H^+$ (starting from Complex II)
 - 8 NADH (matrix) * 2.5 = 20 ATP 
 - 2 FADH_2 (matrix) * 1.5 = 3 ATP
 
+![[Pasted image 20260316115907.png]]
 ### Shuttle Mechanisms
-#### Glycerol-phosphate shuttle
+#### Glycerol-phosphate shuttle (Transportation of NADH produced from Glycolysis or in Cytosol)
 - Reduction of DHAP by NADH gives glycerol phoaphate, which enters mitochondiron
 - Glycerol phosphate reoxidized ot DHAP by FAD in the inner membrane, producing FADH_2
 - Electrons form FADH_2 passed to CoQ and set to complex II
