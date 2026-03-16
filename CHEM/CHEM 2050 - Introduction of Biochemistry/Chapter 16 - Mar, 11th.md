@@ -130,9 +130,18 @@ One FADH2 pump $6H^+$ (starting from Complex II)
 ## Chapter 21 Lipid Metabolism
 
 ### Lipids: 
-- Triglycerides (energy strorage)
-- Phosphoglycerides (cell membranes)
-- Sterols (cell membranes and hormones)
-- Waxes (plant cuticles, etc.)
-- 
+- Biologically important hydrophobic molecules comprising many different general classes
+	- Triglycerides (energy strorage)
+	- Phosphoglycerides (cell membranes)
+	- Sterols (cell membranes and hormones)
+	- Waxes (plant cuticles, etc.)
+
+- Metabolic oxidation of lipids releases large quantities of energy through production of acetyl-CoA, NADH, and FADH_2
+
+Triglycerol = Triacylglycerol
+
+### Fatty Acids
+- Fatty acids consist of long hydrocarbon chains (C12 to C24) with carboxyl group
+- Transported to tissues by binding to serum albumin
+- Saturated fatty acids vs. Unsaturated fatty acids
   
