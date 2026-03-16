@@ -108,7 +108,21 @@ One FADH2 pump $6H^+$ (starting from Complex II)
 - 3$\alpha$ and 3$\beta$ do not rotate freely, anchored in place
 
 - 1 ATP is generated for every 4H+ that travel through F_0
-- 1 NADH oxidation pumps 10H+ in total, hence ATP produced 
-- 1 FADH2 oxid
+- 1 NADH oxidation pumps 10H+ in total, hence 2.5 ATP produced 
+- 1 FADH2 oxidation pumps 6H+ in total, hence 1.5 ATP produced
+  
+-  2ATP (glycolysis)
+- 2 NADH (glycolysis) * 1.5 or 2.5 = 3 or 5 ATP
+- 2 GTP/ATP (matrix) 
+- 8 NADH (matrix) * 2.5 = 20 ATP 
+- 2 FADH_2 (matrix) * 1.5 = 3 ATP
 
+### Shuttle Mechanisms
+#### Glycerol-phosphate shuttle
+- Reduction of DHAP by NADH gives glycerol phoaphate, which enters mitochondiron
+- Glycerol phosphate reoxidized ot DHAP by FAD in the inner membrane, producing FADH_2
+- Electrons form FADH_2 passed to CoQ and set to complex II
 
+#### Malate-aspartate shuttle
+- In the cytosol, oxaloacetate reduced 
+  
