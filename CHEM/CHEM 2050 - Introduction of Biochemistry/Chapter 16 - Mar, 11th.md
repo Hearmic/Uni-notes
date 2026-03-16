@@ -126,4 +126,13 @@ One FADH2 pump $6H^+$ (starting from Complex II)
 
 #### Malate-aspartate shuttle
 - In the cytosol, oxaloacetate reduced 
+
+## Chapter 21 Lipid Metabolism
+
+### Lipids: 
+- Triglycerides (energy strorage)
+- Phosphoglycerides (cell membranes)
+- Sterols (cell membranes and hormones)
+- Waxes (plant cuticles, etc.)
+- 
   
