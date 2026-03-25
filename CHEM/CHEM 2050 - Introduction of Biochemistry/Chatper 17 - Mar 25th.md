@@ -10,3 +10,6 @@
 
 ### Urea Cycle
 - The entire cycle requires 4 ATP equivalents
+- In urea, one N comes form NH4+ , the other comes from Asp
+- Asp is recycled from fumarate in the citric acid cycle, also generating 1 NADH
+- 
