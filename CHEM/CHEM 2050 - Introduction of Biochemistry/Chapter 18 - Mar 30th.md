@@ -77,5 +77,5 @@ Messenger RNA, mRNA
 
 #### Fluorescence:
 - Sensitive method for the detection and identification of substances that absorb and re-emit light
-- Ethidium bromide (EthBr), incorporated into the gel, binds in between DNA base pairs and fluoresces when exposed to UV light
+- Ethidium bromide (EthBr), incorporated into the gel, binds in between DNA base pairs and fluoresces when exposed to UV light.
 
