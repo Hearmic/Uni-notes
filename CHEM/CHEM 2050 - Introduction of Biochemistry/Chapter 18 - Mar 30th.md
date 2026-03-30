@@ -64,7 +64,6 @@ Messenger RNA, mRNA
 
 ## Chapter 13: Biotechnology
 
-
 ### Separation Technique for Nucleic Acids: Gel Electrophoresis
 - Based on the motion of charged particles in an electric field, the same concept as SDS-PAGE (protein)
 - A nucleic acid sample is applied to an agarose gel, suspended within a buffer solution
