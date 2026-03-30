@@ -70,9 +70,13 @@ Messenger RNA, mRNA
 - A nucleic acid sample is applied to an agarose gel, suspended within a buffer solution
 - Voltage applied, negatively charged DNA migrates to the positive electrode, separation based on length
 
-Detection Methods for Nucleic Acids
-- Autoradiography: Technique of locating radioactively abeled substances by allowing them to expose photographic film
-- Radioactive 32P incorporated into DNA, after electrophoresis is performed, the gel is exposed to photographic film which visualizes the radioactive areas
-- Technique is now replaced by a fluorescence method.
-  
-  
+### Detection Methods for Nucleic Acids
+#### Autoradiography: 
+- The technique of locating radioactively labeled substances by allowing them to expose photographic film
+- Radioactive 32P incorporated into DNA, after electrophoresis is performed, the gel is exposed to photographic film, which visualizes the radioactive areas
+- The technique is now replaced by a fluorescence method.
+
+#### Fluorescence:
+- Sensitive method for the detection and identification of substances that absorb and re-emit light
+- Ethidium bromide (EthBr), incorporated into the gel, binds in between DNA base pairs and fluoresces when exposed to UV light
+
