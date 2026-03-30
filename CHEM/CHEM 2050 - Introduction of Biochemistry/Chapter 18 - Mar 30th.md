@@ -37,6 +37,23 @@ Propeller twist
 
 ### Denaturation of DNA
 - DNA strands separate (denature) upon heating
-- DNA absorbs light around 160nm and absorbance increases upon strand separation
+- DNA absorbs light around 160nm, and the absorbance increases upon strand separation
 - Melting temperature (T_m) is higher when the percentage of G-C is higher
 - Renaturation is possible on slow cooling
+
+### RNA 
+- Single-stranded
+- Consists of long, unbranched. chains of nucleotides joined by phosphodiester bonds between the 3' -OH of one pentose and the 5' -OH of the next
+- A pentose unit is $\beta$-D-ribose (it is 2-deoxy )
+
+#### Transfer RNA, tRNA
+- Single-stranded polynucleotide chain ~80 nucleotide residues long
+- Carries an amino acid at its 3' end
+- Intrachain hydrogen bonding occurs in tRNA (stems)
+- Loop II contains the anticodon
+
+Ribosomal RNA, rRNA
+- Round in ribosomes, accounts for 60-65% of the total ribosome weight (rest is protein)
+- Ribosomes consist of two subunits, one large and one small
+- Catalytic site of protein synthesis in all organisms
+
