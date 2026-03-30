@@ -53,7 +53,26 @@ Propeller twist
 - Loop II contains the anticodon
 
 Ribosomal RNA, rRNA
-- Round in ribosomes, accounts for 60-65% of the total ribosome weight (rest is protein)
+- Round in ribosomes, accounts for 60-65% of the total ribosome weight (the rest is protein)
 - Ribosomes consist of two subunits, one large and one small
-- Catalytic site of protein synthesis in all organisms
+- The catalytic site of protein synthesis in all organisms
 
+Messenger RNA, mRNA
+- Produced during transcription of DNA
+- Carries coded genetic information from DNA to ribosomes for the synthesis of proteins; each codon is three bases long
+- Present in cells in relatively small amounts and is short-lived
+
+## Chapter 13: Biotechnology
+
+
+### Separation Technique for Nucleic Acids: Gel Electrophoresis
+- Based on the motion of charged particles in an electric field, the same concept as SDS-PAGE (protein)
+- A nucleic acid sample is applied to an agarose gel, suspended within a buffer solution
+- Voltage applied, negatively charged DNA migrates to the positive electrode, separation based on length
+
+Detection Methods for Nucleic Acids
+- Autoradiography: Technique of locating radioactively abeled substances by allowing them to expose photographic film
+- Radioactive 32P incorporated into DNA, after electrophoresis is performed, the gel is exposed to photographic film which visualizes the radioactive areas
+- Technique is now replaced by a fluorescence method.
+  
+  
