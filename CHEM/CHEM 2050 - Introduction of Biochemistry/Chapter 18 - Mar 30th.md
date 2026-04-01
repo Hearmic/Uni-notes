@@ -96,4 +96,16 @@ Messenger RNA, mRNA
 - DNA ligase requires 2 ATP to reform a phosphodiester bond
 
 1. Enzyme Lys residue attacks ATP, PPi is cleaved off
-2. 
+
+
+#### Polymerase Chain Reaction (PCR)
+- Method of amplifying a small amount of DNA in vitro based on the reaction of isolated enzymes
+- Any chosen DNA strand can be amplified, and it does not need to be separated from the rest of the DNA in a sample before the procedure is applied
+- Copies both complementary strands of the desired DNA sequence
+
+Reaction mixture contains:
+- Original DNA strand (template)
+- Primers complementary to the ends of the DNA strand being copied (initiation site for DNA polymerase)
+- Taq polymerase (catalyzes DNA replication, generates new strand 5' to 3')
+- Deoxyribonucleotides (building blocks for the new DNA strands)
+
