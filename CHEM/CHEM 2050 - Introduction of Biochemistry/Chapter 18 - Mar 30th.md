@@ -91,3 +91,9 @@ Messenger RNA, mRNA
 - CCC|GGG (SmaI, Blunt end cut)
 - GGG|CCC
 
+#### DNA Ligase
+- After the sticky ends from the two pieces of DNA anneal, DNA ligase used to reform phosphodiester bonds
+- DNA ligase requires 2 ATP to reform a phosphodiester bond
+
+1. Enzyme Lys residue attacks ATP, PPi is cleaved off
+2. 
