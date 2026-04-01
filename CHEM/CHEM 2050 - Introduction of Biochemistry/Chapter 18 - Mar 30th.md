@@ -109,3 +109,7 @@ Reaction mixture contains:
 - Taq polymerase (catalyzes DNA replication, generates new strand 5' to 3')
 - Deoxyribonucleotides (building blocks for the new DNA strands)
 
+1. Heat to 95ˆC to denature DNA
+2. Cool down to 59˚C to anneal the DNA primer
+3. Head to 72˚C to start chain extension by Taq polymerase
+
