@@ -83,7 +83,7 @@ Messenger RNA, mRNA
 - Enzymes that hydrolyze double-stranded DNA at specific sequences on the strands
 - Found in prokaryotes as a defense mechanism against bacteriophage DNA
 - Hydrolyze only a specific phosphodiester bond of a specific sequence in DNA
-- Sequences recognized by restriction ennucleases read the same from left of right as from right to left (palindromic)
+- Sequences recognized by restriction enzyme nucleases read the same from left of right as from right to left (palindromic)
 #### example:
 - 5'-G|AATTC-3 (EcoRI, Sticky end cut)
 - 3'-CTTAA|G-5'
